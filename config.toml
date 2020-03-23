@@ -115,6 +115,21 @@ disqusShortname = "yourdiscussshortname"
             weight = 4
             url = "scivis/"
 
+            [[languages.en.menu.main]]
+            name = "Chapel"
+            weight = 5
+            url = "chapel/"
+
+            [[languages.en.menu.main]]
+            name = "Julia"
+            weight = 6
+            url = "julia/"
+
+	    [[languages.en.menu.main]]
+            name = "ML"
+            weight = 7
+            url = "ml/"
+
             # [[languages.en.menu.main]]
             # name = "Blog"
             # weight = 2
