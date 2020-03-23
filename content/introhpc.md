@@ -3,6 +3,8 @@ title = "Introduction to HPC"
 slug = "introhpc"
 +++
 
+on Compute Canada clusters
+
 ~3 one-hour hands-on sessions mixed into the sessions below
 
 * embedded "Overview" video

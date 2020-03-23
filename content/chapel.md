@@ -1,5 +1,5 @@
 +++
-title = "Parallel programming with Chapel"
+title = "Parallel programming in Chapel"
 slug = "chapel"
 +++
 

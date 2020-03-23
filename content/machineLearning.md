@@ -1,5 +1,5 @@
 +++
-title = "Introduction to machine learning"
+title = "Introduction to machine learning in Python"
 slug = "ml"
 +++
 
