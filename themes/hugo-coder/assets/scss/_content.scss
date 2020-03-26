@@ -177,3 +177,27 @@ img[alt=wgavatar] {
     }
   }
 }
+
+.lec-block {
+  padding: 0 2.5rem;
+  line-height: 10px;
+  border: 1pt solid #336699;
+  border-radius: 3px;
+  box-shadow: 0px 0px 3px #336699;
+}
+
+.vid-block {
+  padding: 0 2.5rem;
+  line-height: 10px;
+  border: 1pt solid #7a7a52;
+  border-radius: 3px;
+  box-shadow: 0px 0px 3px #7a7a52;
+}
+
+.ex-block {
+  padding: 0 2.5rem;
+  line-height: 10px;
+  border: 1pt solid #e68a00;
+  border-radius: 3px;
+  box-shadow: 0px 0px 3px #e68a00;
+}
