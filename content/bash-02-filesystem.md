@@ -3,17 +3,6 @@ title = "Bash Scripting and Tools"
 slug = "bash-02-filesystem"
 +++
 
-# **Remote part**: logging in
-
-Let's log in to cassiopeia.c3.ca using a username userXXX (where XXX=001..118):
-
-~~~ {.bash}
-[local]$ ssh userXXX@cassiopeia.c3.ca   # password supplied by the instructor
-~~~
-
-* those on Windows please use MobaXterm
-* how to tell the difference between the remote and local terminals
-
 # Navigating directories
 
 ~~~ {.bash}
