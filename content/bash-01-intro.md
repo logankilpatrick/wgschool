@@ -26,3 +26,14 @@ slug = "bash-01-intro"
   * now -- using this cluster -- we will learn how to work with a remote Linux system using the shell,
     the basic Linux commands, working with the file system, how to remote-transfer files, and similar
     introductory topics
+
+# **Remote part**: logging in
+
+Let's log in to cassiopeia.c3.ca using a username userXXX (where XXX=001..118):
+
+~~~ {.bash}
+[local]$ ssh userXXX@cassiopeia.c3.ca   # password supplied by the instructor
+~~~
+
+* those on Windows please use MobaXterm
+* how to tell the difference between the remote and local terminals
