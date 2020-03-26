@@ -1,31 +1,17 @@
 #+title: Version control with Git
 #+slug: git
 
-#+BEGIN_vid
-*Video* [[https://westgrid-cli.netlify.com/workshops/git.html][Introduction to WestGrid Summer School Git lesson (2 min)]]
-#+END_vid
+{{< vid url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
 
-#+BEGIN_export html
-<br>
-#+END_export
+{{< lec url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git" >}}
 
-#+BEGIN_lec
-*Lecture* [[https://westgrid-cli.netlify.com/workshops/git.html][Introduction to Git]]
-#+END_lec
+{{< lec url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
 
-#+BEGIN_export html
-<br>
-#+END_export
+{{< pra url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
 
-#+BEGIN_lec
-*Lecture* [[https://westgrid-cli.netlify.com/workshops/git.html][Configuring Git]]
-#+END_lec
+{{< int url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
 
-#+BEGIN_export html
-<br>
-#+END_export
-
-#+BEGIN_ex
-*Practice* [[https://westgrid-cli.netlify.com/workshops/git.html][Install and configure Git on your machine]]
-#+END_ex
-
+{{< ext >}}
+{{< lin url="https://git-scm.com/docs" text="Git official documentation" >}}
+{{< lin url="http://swcarpentry.github.io/git-novice/" text="Software Carpentry lesson" >}}
+{{< /ext >}}
