@@ -3,9 +3,25 @@ title = "Summer school details"
 slug = "home"
 +++
 
-* registration link
-* interactive session links/dates in the courses
-* one-hour lectures mixed with hands-on sessions
+- registration link
+- dates: last week of May to first week of July
+- format: mix of reading materials, videos, and hands-on interactive sessions
+  - hands-on **option 1:** registration cap (20) for the hands-on sessions with blacklists, many repeats
+    of the each session, the number of repeats depends on the registration numbers -- better, but more work
+  - hands-on **option 2:** no caps, no repeats (guaranteed poor attendance or harder to debug problems)
+- requirements for participants:
+  - must read/watch dependency materials before each hands-on session
+  - must install and test software dependencies before the early software installation meetup, and must attend the
+    meetup in case of problems
+- suggestions to participants:
+  - be prepared to share your screen for debugging sessions
+    - everyone will benefit from your debugging session
+  - use a dual-screen setup: presenter's materials on one screen, your workspace on another
+  - turn on your video
+  - use a good headset/microphone
+
+
+  
 
 WestGrid Central courses:
 - [Bash Scripting and Tools](../bash)

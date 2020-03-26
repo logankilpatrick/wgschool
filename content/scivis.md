@@ -3,4 +3,7 @@ title = "Scientific visualization"
 slug = "scivis"
 +++
 
-Nothing to see here... Move along!
+* short videos
+* 3 one-hour hands-on sessions
+
+link to all slides
