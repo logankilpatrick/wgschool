@@ -1,0 +1,31 @@
+#+title: Version control with Git
+#+slug: git
+
+#+BEGIN_vid
+*Video* [[https://westgrid-cli.netlify.com/workshops/git.html][Introduction to WestGrid Summer School Git lesson (2 min)]]
+#+END_vid
+
+#+BEGIN_export html
+<br>
+#+END_export
+
+#+BEGIN_lec
+*Lecture* [[https://westgrid-cli.netlify.com/workshops/git.html][Introduction to Git]]
+#+END_lec
+
+#+BEGIN_export html
+<br>
+#+END_export
+
+#+BEGIN_lec
+*Lecture* [[https://westgrid-cli.netlify.com/workshops/git.html][Configuring Git]]
+#+END_lec
+
+#+BEGIN_export html
+<br>
+#+END_export
+
+#+BEGIN_ex
+*Practice* [[https://westgrid-cli.netlify.com/workshops/git.html][Install and configure Git on your machine]]
+#+END_ex
+
