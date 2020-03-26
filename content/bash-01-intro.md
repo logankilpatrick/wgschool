@@ -27,7 +27,7 @@ slug = "bash-01-intro"
     the basic Linux commands, working with the file system, how to remote-transfer files, and similar
     introductory topics
 
-# **Remote part**: logging in
+# Logging in to a remote system
 
 Let's log in to cassiopeia.c3.ca using a username userXXX (where XXX=001..118):
 

@@ -32,7 +32,7 @@ download/upload buttons.
 > **Exercise:** try to transfer a file from your laptop to the cluster. Then try moving another file in
 > the opposite direction.
 
-# **Remote part**: transferring files interactively with `sftp`
+# Transferring files interactively with `sftp`
 
 `scp` is useful, but what if we don't know the exact location of what we want to transfer? Or perhaps
 we're simply not sure which files we want to transfer yet. `sftp` is an interactive way of downloading

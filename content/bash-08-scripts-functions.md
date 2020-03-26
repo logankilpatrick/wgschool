@@ -47,7 +47,7 @@ $ ./middle propane.pdb
 > propane.pdb", for each file prints the number of lines and its first five lines, and separates the
 > output from different files by an empty line.
 
-## Advanced: if statements
+## If statements
 
 Let's write and run the following script:
 
@@ -94,7 +94,7 @@ Some examples of conditions (**make sure to have spaces around each bracket!**):
 
 > **Exercise:** write a script that complains when it does not receive arguments.
 
-## Advanced: variables
+## Variables
 
 We already saw variables that were specific to scripts ($1, $@, ...). Variables can be used outside of
 scripts:
@@ -141,7 +141,7 @@ $ echo $PS1
 It is best to define custom environment variables inside your ~/.bashrc file. It is loaded every time you
 start a new shell.
 
-## Advanced: functions
+## Functions
 
 Like in any programming language, in bash a function is a block of code that you can access by its
 name. The syntax is:

@@ -58,7 +58,7 @@ $ grep elegant $(find . -name '*.txt')   # will look for 'elegant' inside all *.
 > **Exercise:** write a function 'countFiles()' that counts the number of files in each directory that
 > you pass to it and prints it after the directory name.
 
-## Advanced: running a command on the results of *find*
+## Running a command on the results of *find*
 
 You always can do something like this:
 
