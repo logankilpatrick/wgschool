@@ -200,4 +200,15 @@ img[alt=wgavatar] {
   border: 1pt solid #e68a00;
   border-radius: 3px;
   box-shadow: 0px 0px 3px #e68a00;
+.linktitle {
+  font-size: 1.9rem;
+  margin-left: 1.5rem;
+  // line-height: 3.5rem;
+  color: $fg-color;
+  // font-family: $heading-font-family;
+  font-weight: 600;
+  &:hover,
+  &:focus {
+    color: $link-color
+  }
 }
