@@ -22,8 +22,9 @@ disqusShortname = "yourdiscussshortname"
     info = "2020 Summer School"
     #avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Start from the home icon in the top menu."
+    footercontent = "Summer school details"
     wgavatar = "/images/wgLogo.png"
+    favicon_32 = "/images/favicon.png"
 
     dateformat = "January 2, 2006"
 
@@ -96,7 +97,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
 	    [[languages.en.menu.main]]
-	    name = "⟰"
+	    name = "📓"
 	    weight = 1
 	    url  = "home/"
 
