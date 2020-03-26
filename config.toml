@@ -97,7 +97,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
 	    [[languages.en.menu.main]]
-	    name = "⟰"
+	    name = "📓"
 	    weight = 1
 	    url  = "home/"
 
