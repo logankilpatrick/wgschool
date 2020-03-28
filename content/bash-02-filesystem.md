@@ -42,3 +42,9 @@ Explain tab completion in bash.
 > **Quiz 3:** What does the command `cd` without a directory name do?
 
 > **Quiz 4:** Multiple ways to return to the home directory.
+
+[previous ⇦](../bash-01-intro)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[parent ⇧](../bash)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[next ⇨](../bash-03-creating-moving-copying)
