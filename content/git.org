@@ -1,15 +1,26 @@
 #+title: Version control with Git
 #+slug: git
 
-{{< vid url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
+{{< vid >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
+{{< /vid >}}
 
-{{< lec url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git" >}}
+{{< lec >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 1" >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 2" >}}
+{{< /lec >}}
 
-{{< lec url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
+{{< lec >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
+{{< /lec >}}
 
-{{< pra url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
+{{< pra >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
+{{< /pra >}}
 
-{{< int url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
+{{< int >}}
+{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
+{{< /int >}}
 
 {{< res >}}
 {{< lin url="https://git-scm.com/docs" text="Git official documentation" >}}
