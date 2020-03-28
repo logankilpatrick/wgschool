@@ -179,12 +179,13 @@ img[alt=wgavatar] {
 }
 
 .linktitle {
-  font-size: 1.9rem;
   margin-left: 1.5rem;
   // line-height: 3.5rem;
   color: $fg-color;
-  // font-family: $heading-font-family;
-  font-weight: 600;
+  font-style: italic;
+  font-family: $heading-font-family;
+  font-size: 1.7rem;
+  // font-weight: 600;
   &:hover,
   &:focus {
     color: $link-color
