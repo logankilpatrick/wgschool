@@ -4,3 +4,5 @@ slug = "chapel"
 +++
 
 * 3 live two-hour sessions
+
+{{< figure src="/images/solveMulti.gif" >}}

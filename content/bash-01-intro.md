@@ -5,35 +5,41 @@ slug = "bash-01-intro"
 
 # Introduction
 
-* Why use a cluster: computing beyond the scale of a desktop (faster, bigger, cost, efficientcy)
-* Using HPC systems often involves the use of a shell
-  * text-based interface to the OS (unlike a GUI): (1) command interpreter and mechanism to launch tools
-    / utilities / compiled binaries / system calls / other scripts and (2) a way to connect standard I/O
-    of these tools through pipes to form more complex commands
-  * follows the classic UNIX philosophy of breaking complex projects into simpler subtasks and chaining
+- Why use a cluster: computing beyond the scale of a desktop (faster, bigger, cost, efficiency)
+- Using HPC systems usually involves the use of a shell
+  - unlike a GUI, it is a text-based interface to the operating system that excels at two things: <!-- command interpreter -->
+    1. launching other tools and scripts and
+	1. connecting standard input/output of these tools through pipes to form more complex commands
+  - follows the classic UNIX philosophy of breaking complex projects into simpler subtasks and chaining
     together components and utilities
-  * a shell around the kernel (coconut analogy), along with utilities and applications
-  * commands are often very cryptic (to avoid too much typing)
-  * bash is one of many Unix shell implementations
-* Why learn Unix shell: very powerful, great for automating workflows, necessary on bigger Unix systems
-* Connection to an HPC system is often done via SSH using a terminal on your laptop
-  * Linux and Mac laptops have built-in terminals
-  * on Windows many terminal emulators; we'll be using a free version of MobaXterm
-* We have set up a small cluster training cluster cassiopeia.c3.ca, that features the same software setup
-  as our real production clusters
-  * in *"Intro to HPC"* we will learn the specifics of working on a cluster: software environment,
-    scheduler, compilers, etc.
-  * now -- using this cluster -- we will learn how to work with a remote Linux system using the shell,
-    the basic Linux commands, working with the file system, how to remote-transfer files, and similar
-    introductory topics
+  - a shell around the operating system kernel (coconut analogy), surrounded itself by utilities and applications
+  - its commands are often very cryptic (to avoid too much typing)
+- Why learn Unix shell: very powerful, great for automation and creating reproducible workflows,
+  necessary to work on larger Unix systems
+- Bash is one of many Unix shell implementations
+
+We have set up a small training cluster *cassiopeia.c3.ca* that features the same software setup as our
+real production clusters. In the ["Introduction to HPC"](../introhpc) course you will learn the specifics
+of working on a cluster: its software environment, scheduler, compilers, parallel programming models, and
+so on. In this course -- with the shell hands-on on our training cluster -- we will learn how to work
+with a remote Linux machine and its filesystem, the basic Linux commands, how to transfer files
+to/from/between remote systems, and similar introductory topics.
+
+You can connect to a remote HPC system via SSH (secure shell) using a terminal on your laptop. Linux and
+Mac laptops have built-in terminals, whereas on Windows we suggest using a free version of MobaXterm
+that comes with its own terminal emulator and a simple interface for remote SSH sessions.
 
 # Logging in to a remote system
 
-Let's log in to cassiopeia.c3.ca using a username userXXX (where XXX=001..118):
+Let's log in to *cassiopeia.c3.ca* using a username userXXX (where XXX=001..118):
 
 ~~~ {.bash}
 [local]$ ssh userXXX@cassiopeia.c3.ca   # password supplied by the instructor
 ~~~
 
-* those on Windows please use MobaXterm
-* how to tell the difference between the remote and local terminals
+- those on Windows please use MobaXterm
+- use the prompt to distinguish the remote from local terminals
+
+[parent ⇧](../bash)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[next ⇨](../bash-02-filesystem)
