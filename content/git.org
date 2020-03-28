@@ -2,7 +2,7 @@
 #+slug: git
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/intro.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
 {{< /video >}}
 
 {{< lecture >}}
