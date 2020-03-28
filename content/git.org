@@ -2,7 +2,7 @@
 #+slug: git
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/intro.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/intro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
 {{< /video >}}
 
 {{< lecture >}}
@@ -13,11 +13,15 @@
 {{< link url="https://westgrid-cli.netlify.com/school/config.html" text="Configuring Git" >}}
 {{< /handson >}}
 
+{{< handson >}}
+{{< link url="https://westgrid-cli.netlify.com/school/basics.html" text="Git basics" >}}
+{{< /handson >}}
+
 {{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
 {{< /interactive >}}
 
 {{< external >}}
-{{< link url="https://git-scm.com/docs" text="Git official documentation" >}}
-{{< link url="http://swcarpentry.github.io/git-novice/" text="Software Carpentry lesson" >}}
+{{< link url="https://git-scm.com/docs" text="Official Git manual" >}}
+{{< link url="http://swcarpentry.github.io/git-novice/" text="Git Software Carpentry lesson" >}}
 {{< /external >}}
