@@ -179,8 +179,8 @@ img[alt=wgavatar] {
 }
 
 .linktitle {
-  margin-left: 1.5rem;
-  // line-height: 3.5rem;
+  // margin-left: 1.5rem;
+  line-height: 3.5rem;
   color: $fg-color;
   font-style: italic;
   font-family: $heading-font-family;
@@ -193,7 +193,7 @@ img[alt=wgavatar] {
 }
 
 #twocol {
-  margin: 4.0rem 0;
+  // margin: 4.0rem 0;
   padding-left: 1.5rem;
   line-height: 10px;
   .left {
@@ -203,6 +203,6 @@ img[alt=wgavatar] {
   }
   .right {
     display: table-cell;
-    padding-left: 2.0rem;
+    padding-left: 3.0rem;
   }
 }
