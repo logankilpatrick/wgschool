@@ -1,28 +1,28 @@
 #+title: Version control with Git
 #+slug: git
 
-{{< vid >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
-{{< /vid >}}
+{{< video >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to WestGrid Summer School Git lesson (2 min)" >}}
+{{< /video >}}
 
-{{< lec >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 1" >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 2" >}}
-{{< /lec >}}
+{{< lecture >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 1" >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 2" >}}
+{{< /lecture >}}
 
-{{< lec >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
-{{< /lec >}}
+{{< lecture >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
+{{< /lecture >}}
 
-{{< pra >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
-{{< /pra >}}
+{{< handson >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
+{{< /handson >}}
 
-{{< int >}}
-{{< lin url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
-{{< /int >}}
+{{< interactive >}}
+{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
+{{< /interactive >}}
 
-{{< res >}}
-{{< lin url="https://git-scm.com/docs" text="Git official documentation" >}}
-{{< lin url="http://swcarpentry.github.io/git-novice/" text="Software Carpentry lesson" >}}
-{{< /res >}}
+{{< external >}}
+{{< link url="https://git-scm.com/docs" text="Git official documentation" >}}
+{{< link url="http://swcarpentry.github.io/git-novice/" text="Software Carpentry lesson" >}}
+{{< /external >}}
