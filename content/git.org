@@ -11,7 +11,7 @@
 
 {{< int url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
 
-{{< ext >}}
+{{< res >}}
 {{< lin url="https://git-scm.com/docs" text="Git official documentation" >}}
 {{< lin url="http://swcarpentry.github.io/git-novice/" text="Software Carpentry lesson" >}}
-{{< /ext >}}
+{{< /res >}}
