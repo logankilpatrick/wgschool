@@ -6,16 +6,11 @@
 {{< /video >}}
 
 {{< lecture >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 1" >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Introduction to Git 2" >}}
-{{< /lecture >}}
-
-{{< lecture >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Configuring Git" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git.html" text="Why Git?" >}}
 {{< /lecture >}}
 
 {{< handson >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Install and configure Git on your machine" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/config.html" text="Configuring Git" >}}
 {{< /handson >}}
 
 {{< interactive >}}
