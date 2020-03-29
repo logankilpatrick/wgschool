@@ -180,22 +180,24 @@ img[alt=wgavatar] {
 
 #twocol {
   .left {
+    // font-family: $heading-font-family;
     display: table-cell;
     width: 14.0rem;
     text-align: center;
+    font-weight: bold;
   }
   .right {
+    font-family: $heading-font-family;
+    line-height: 3.0rem;
     display: table-cell;
     padding-left: 3.0rem;
   }
 }
 
 .linktitle {
-  line-height: 3.0rem;
   color: $fg-color;
   font-style: italic;
   font-weight: bold;
-  font-family: $heading-font-family;
   font-size: 1.7rem;
   &:hover,
   &:focus {
@@ -203,14 +205,5 @@ img[alt=wgavatar] {
   }
   &:visited {
     color: #999999
-  }
-}
-
-.extlinktitle {
-  line-height: 3.0rem;
-  font-family: $heading-font-family;
-  &:hover,
-  &:focus {
-    color: $link-color
   }
 }
