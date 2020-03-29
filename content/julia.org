@@ -1,0 +1,36 @@
+#+title: Programming in Julia
+#+slug: julia
+
+{{< video >}}
+{{< link url="https://westgrid-julia.netlify.com/school/intro.html" text="WestGrid Summer School Julia lesson (2 min)" >}}
+{{< /video >}}
+
+{{< external >}}
+<u>Documentation:</u>
+<br>
+<a href="https://julialang.org/">Official Julia website</a><br>
+<a href="https://docs.julialang.org/en/v1/">Official Julia manual</a><br>
+<a href="https://julialang.org/learning/">Online training material</a><br>
+<a href="https://www.youtube.com/user/JuliaLanguage">Julia YouTube channel</a><br>
+<a href="https://en.wikibooks.org/wiki/Introducing_Julia">Julia Wikibook</a><br>
+<a href="https://www.juliabloggers.com/">Blog aggregator for Julia</a><br>
+<br>
+<u>Getting help:</u>
+<br>
+<a href="https://discourse.julialang.org/">Julia Discourse forum</a><br>
+<a href="https://stackoverflow.com/tags/julia">[julia] tag on Stack Overflow</a><br>
+<a href="https://app.slack.com/client/T68168MUP/C67910KEH">Julia Slack team</a> 
+(you need to <a href="slackinvite.julialang.org">agree to the community code of conduct</a> first)<br>
+<a href="https://twitter.com/search?q=%23julialang">#julialang hashtag on Twitter</a><br>
+<a href="https://www.reddit.com/r/Julia/">Julia subreddit</a><br>
+<a href="https://gitter.im/JuliaLang/julia">Julia Gitter channel</a><br>
+<a href="https://webchat.freenode.net/#julia">#julia IRC channel on Freenode</a><br>
+<br>
+<u>IDE:</u>
+<br>
+<a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/JuliaEditorSupport/julia-emacs">julia-emacs</a> and <a href="https://github.com/tpapp/julia-repl">julia-repl</a> packages<br>
+<a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/emacs-ess/ESS">ESS</a> package<br>
+<a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
+<a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a><br>
+<a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a> in <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="http://millejoh.github.io/emacs-ipython-notebook/">EIN</a> package<br>
+{{< /external >}}
