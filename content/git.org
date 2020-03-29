@@ -22,6 +22,6 @@
 {{< /interactive >}}
 
 {{< external >}}
-{{< link url="https://git-scm.com/docs" text="Official Git manual" >}}
-{{< link url="http://swcarpentry.github.io/git-novice/" text="Git Software Carpentry lesson" >}}
+{{< extlink url="https://git-scm.com/docs" text="Official Git manual" >}}
+{{< extlink url="http://swcarpentry.github.io/git-novice/" text="Git Software Carpentry lesson" >}}
 {{< /external >}}
