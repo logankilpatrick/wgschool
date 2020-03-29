@@ -8,8 +8,8 @@
 {{< external >}}
 <u>Documentation:</u>
 <br>
-<a href="https://julialang.org/">Official Julia website</a><br>
-<a href="https://docs.julialang.org/en/v1/">Official Julia manual</a><br>
+<a href="https://julialang.org/">Julia website</a><br>
+<a href="https://docs.julialang.org/en/v1/">Julia documentation</a><br>
 <a href="https://julialang.org/learning/">Online training material</a><br>
 <a href="https://www.youtube.com/user/JuliaLanguage">Julia YouTube channel</a><br>
 <a href="https://en.wikibooks.org/wiki/Introducing_Julia">Julia Wikibook</a><br>

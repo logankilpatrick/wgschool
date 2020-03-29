@@ -13,15 +13,15 @@
 {{< link url="https://westgrid-cli.netlify.com/school/config.html" text="Configuring Git" >}}
 {{< /handson >}}
 
-{{< handson >}}
+{{< video >}}
 {{< link url="https://westgrid-cli.netlify.com/school/basics.html" text="Git basics" >}}
-{{< /handson >}}
+{{< /video >}}
 
 {{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
 {{< /interactive >}}
 
 {{< external >}}
-{{< extlink url="https://git-scm.com/docs" text="Official Git manual" >}}
-{{< extlink url="http://swcarpentry.github.io/git-novice/" text="Git Software Carpentry lesson" >}}
+<a href="https://git-scm.com/docs">Official Git manual</a><br>
+<a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a>
 {{< /external >}}
