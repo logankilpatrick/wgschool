@@ -1,0 +1,14 @@
+#+title: Introduction to PyTorch
+#+slug: ml
+
+{{< video >}}
+{{< link url="https://westgrid-ml.netlify.com/school/intro.html" text="WestGrid Summer School PyTorch lesson (2 min)" >}}
+{{< /video >}}
+
+{{< external >}}
+<a href="https://pytorch.org/">PyTorch website</a><br>
+<a href="https://pytorch.org/docs/stable/index.html">PyTorch documentation</a><br>
+<a href="https://pytorch.org/tutorials/">PyTorch tutorials</a><br>
+<a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
+{{< /external >}}
+
