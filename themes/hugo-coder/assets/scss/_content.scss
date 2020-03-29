@@ -179,9 +179,6 @@ img[alt=wgavatar] {
 }
 
 #twocol {
-  // margin: 4.0rem 0;
-  // padding-left: 1.5rem;
-  // line-height: 10px;
   .left {
     display: table-cell;
     width: 14.0rem;
@@ -194,31 +191,24 @@ img[alt=wgavatar] {
 }
 
 .linktitle {
-  // margin-left: 1.5rem;
   line-height: 3.0rem;
   color: $fg-color;
   font-style: italic;
   font-weight: bold;
   font-family: $heading-font-family;
   font-size: 1.7rem;
-  // font-weight: 600;
   &:hover,
   &:focus {
     color: $link-color
   }
   &:visited {
-    // color: $fg-color
     color: #999999
   }
 }
 
 .extlinktitle {
   line-height: 3.0rem;
-  // color: $fg-color;
-  // font-style: italic;
   font-family: $heading-font-family;
-  // font-size: 1.5rem;
-  // font-weight: 600;
   &:hover,
   &:focus {
     color: $link-color
