@@ -5,7 +5,7 @@ slug = "home"
 
 - registration link
 - dates: last week of May to first week of July
-- format: mix of reading materials, videos, and hands-on interactive sessions
+- format: mix of reading materials, pre-recorded videos, takeaway exercises, and hands-on interactive sessions
   - hands-on **option 1:** registration cap (20) for the hands-on sessions with blacklists, many repeats
     of the each session, the number of repeats depends on the registration numbers -- better, but more work
   - hands-on **option 2:** no caps, no repeats (guaranteed poor attendance or harder to debug problems)
