@@ -1,6 +1,6 @@
 +++
 title = "Introduction to HPC"
-slug = "introhpc"
+slug = "hpc"
 +++
 
 on Compute Canada clusters

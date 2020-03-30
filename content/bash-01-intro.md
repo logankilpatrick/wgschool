@@ -19,7 +19,7 @@ slug = "bash-01-intro"
 - Bash is one of many Unix shell implementations
 
 We have set up a small training cluster *cassiopeia.c3.ca* that features the same software setup as our
-real production clusters. In the ["Introduction to HPC"](../introhpc) course you will learn the specifics
+real production clusters. In the ["Introduction to HPC"](../hpc) course you will learn the specifics
 of working on a cluster: its software environment, scheduler, compilers, parallel programming models, and
 so on. In this course -- with the shell hands-on on our training cluster -- we will learn how to work
 with a remote Linux machine and its filesystem, the basic Linux commands, how to transfer files
