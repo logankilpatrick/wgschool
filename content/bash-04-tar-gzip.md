@@ -42,3 +42,5 @@ $ tar xvfz bfiles.tar.gz
 
 > **Exercise:** Let's create a new subdirectory `~/tmp` with 1000 files inside using `touch a{000..999}`
 > and then gzip-archive that subdirectory.
+
+{{< next111 prev="../bash-03-creating-moving-copying" up="../bash" next="../bash-05-file-transfer" >}}

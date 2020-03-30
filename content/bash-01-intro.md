@@ -41,3 +41,5 @@ Let's log in to *cassiopeia.c3.ca* using a username userXXX (where XXX=001..118)
 
 - those on Windows please use MobaXterm
 - use the prompt to distinguish the remote from local terminals
+
+{{< next011 up="../bash" next="../bash-02-filesystem" >}}

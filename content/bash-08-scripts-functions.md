@@ -195,3 +195,5 @@ combine() {
 > tar archive (often called *tarball*) and deletes the original directory.
 
 > **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory.
+
+{{< next111 prev="../bash-07-loops" up="../bash" next="../bash-09-grep-find" >}}

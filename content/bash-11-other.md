@@ -28,3 +28,5 @@ $ nano $(fzf --height 40%)
 - how to control processes
 - GNU_Parallel
 - homebrew if enough Macs
+
+{{< next110 prev="../bash-10-text-manipulation" up="../bash" >}}

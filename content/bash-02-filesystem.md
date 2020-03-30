@@ -45,8 +45,4 @@ Explain tab completion in bash.
 
 > **Quiz 4:** Multiple ways to return to the home directory.
 
-[previous ⇦](../bash-01-intro)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[parent ⇧](../bash)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[next ⇨](../bash-03-creating-moving-copying)
+{{< next111 prev="../bash-01-intro" up="../bash" next="../bash-03-creating-moving-copying" >}}
