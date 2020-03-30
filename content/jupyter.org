@@ -1,0 +1,11 @@
+#+title: Introduction to Project Jupyter
+#+slug: jupyter
+
+{{< video >}}
+{{< link url="https://westgrid-ml.netlify.com/school/intro.html" text="WestGrid Summer School Project Jupyter lesson (2 min)" >}}
+{{< /video >}}
+
+{{< external >}}
+<a href="https://jupyter.org/">Jupyter website</a><br>
+<a href="https://jupyter.org/documentation">Jupyter documentation</a><br>
+{{< /external >}}
