@@ -32,6 +32,10 @@ a {
   }
 }
 
+a:visited {
+  color: $link-visited-color;
+}
+
 p {
   margin: 2.0rem 0 2.0rem 0;
 }

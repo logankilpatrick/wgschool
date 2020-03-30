@@ -30,8 +30,9 @@ WestGrid Central courses:
 - [Scientific visualization](../scivis)
 - [Parallel programming in Chapel](../chapel)
 - [Programming in Julia](../julia)
-- [Introduction to machine learning in Python](../ml)
-- [Git version control](../git)
+- [Introduction to PyTorch](../ml)
+- [Version control with Git](../git)
+- [Introduction to Project Jupyter](../jupyter)
 
 Site courses:
 - 'Gromacs and NAMD code optimization' by Olivier Fisette
