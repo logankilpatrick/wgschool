@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-03-creating-moving-copying"
 +++
 
+{{< next111 prev="../bash-02-filesystem" up="../bash" next="../bash-04-tar-gzip" >}}
+
 # Creating things
 
 ~~~ {.bash}

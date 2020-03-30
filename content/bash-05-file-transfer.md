@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-05-file-transfer"
 +++
 
+{{< next111 prev="../bash-04-tar-gzip" up="../bash" next="../bash-06-wildcards-redirection-pipes" >}}
+
 # Transferring files and folders with `scp`
 
 To copy a single file to/from the cluster, we can use `scp`:

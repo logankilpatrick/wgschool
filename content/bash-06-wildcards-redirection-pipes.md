@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-06-wildcards-redirection-pipes"
 +++
 
+{{< next111 prev="../bash-05-file-transfer" up="../bash" next="../bash-07-loops" >}}
+
 # Wildcards, redirection to files, and pipes
 
 <!-- * open http://bit.ly/bashfile in your browser, it'll download the file bfiles.zip -->

@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-09-grep-find"
 +++
 
+{{< next111 prev="../bash-08-scripts-functions" up="../bash" next="../bash-10-text-manipulation" >}}
+
 # Finding things
 
 ~~~ {.bash}

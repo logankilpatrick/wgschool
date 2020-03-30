@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-02-filesystem"
 +++
 
+{{< next111 prev="../bash-01-intro" up="../bash" next="../bash-03-creating-moving-copying" >}}
+
 # Navigating directories
 
 ~~~ {.bash}

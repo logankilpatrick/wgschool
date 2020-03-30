@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-10-text-manipulation"
 +++
 
+{{< next111 prev="../bash-09-grep-find" up="../bash" next="../bash-11-other" >}}
+
 # Text manipulation (DH part: the invisible man)
 
 In this section we'll use two tools for text manipulation: *sed* and *tr*. Our goal is to calculate the

@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-07-loops"
 +++
 
+{{< next111 prev="../bash-06-wildcards-redirection-pipes" up="../bash" next="../bash-08-scripts-functions" >}}
+
 # Loops
 
 ~~~ {.bash}

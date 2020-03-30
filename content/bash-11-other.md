@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-11-other"
 +++
 
+{{< next110 prev="../bash-10-text-manipulation" up="../bash" >}}
+
 # Fuzzy finder `fzf`
 
 * third-party tool, not installed by default

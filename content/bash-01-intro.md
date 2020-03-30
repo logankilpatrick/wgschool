@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-01-intro"
 +++
 
+{{< next011 up="../bash" next="../bash-02-filesystem" >}}
+
 # Introduction
 
 - Why use a cluster: computing beyond the scale of a desktop (faster, bigger, cost, efficiency)
@@ -39,7 +41,3 @@ Let's log in to *cassiopeia.c3.ca* using a username userXXX (where XXX=001..118)
 
 - those on Windows please use MobaXterm
 - use the prompt to distinguish the remote from local terminals
-
-[parent ⇧](../bash)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[next ⇨](../bash-02-filesystem)

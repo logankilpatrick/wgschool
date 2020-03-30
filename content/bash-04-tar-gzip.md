@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-04-tar-gzip"
 +++
 
+{{< next111 prev="../bash-03-creating-moving-copying" up="../bash" next="../bash-05-file-transfer" >}}
+
 # Working with `tar` and `gzip/gunzip`
 
 Let's download some files in Windows' ZIP format:
