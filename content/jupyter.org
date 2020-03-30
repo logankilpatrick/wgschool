@@ -2,7 +2,7 @@
 #+slug: jupyter
 
 {{< video >}}
-{{< link url="https://westgrid-ml.netlify.com/school/intro.html" text="WestGrid Summer School Project Jupyter lesson (2 min)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/jpintro.html" text="WestGrid Summer School Project Jupyter lesson (2 min)" >}}
 {{< /video >}}
 
 {{< external >}}

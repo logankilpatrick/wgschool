@@ -2,23 +2,23 @@
 #+slug: git
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/intro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/gitintro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
 {{< /video >}}
 
 {{< lecture >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git.html" text="Why Git?" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/gitwhy.html" text="Why Git?" >}}
 {{< /lecture >}}
 
 {{< handson >}}
-{{< link url="https://westgrid-cli.netlify.com/school/config.html" text="Configuring Git" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/gitconfig.html" text="Configuring Git" >}}
 {{< /handson >}}
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/basics.html" text="Git basics" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/gitbasics.html" text="Git basics" >}}
 {{< /video >}}
 
 {{< interactive >}}
-{{< link url="https://westgrid-cli.netlify.com/workshops/git.html" text="Debugging session" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/gitxxx.html" text="Debugging session" >}}
 {{< /interactive >}}
 
 {{< external >}}
