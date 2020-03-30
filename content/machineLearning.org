@@ -6,9 +6,16 @@
 {{< /video >}}
 
 {{< external >}}
+<u>Documentation:</u>
+<br>
 <a href="https://pytorch.org/">PyTorch website</a><br>
 <a href="https://pytorch.org/docs/stable/index.html">PyTorch documentation</a><br>
 <a href="https://pytorch.org/tutorials/">PyTorch tutorials</a><br>
+<a href="https://www.fast.ai/">PyTorch online courses</a><br>
+<a href="https://github.com/pytorch/examples">PyTorch examples</a><br>
+<br>
+<u>Getting help:</u>
+<br>
 <a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
 {{< /external >}}
 
