@@ -58,12 +58,16 @@
       <a href="{{ .RelPermalink }}">
         <i class="fas fa-chevron-left fa-2x" style="color: #336699"></i>
       </a>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      {{ else }}
+      &emsp;&nbsp;
       {{ end }}
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       {{ with .PrevInSection }}
       <a href="{{ .RelPermalink }}">
 	<i class="fas fa-chevron-right fa-2x" style="color: #336699"></i>
       </a>
+      {{ else }}
+      &emsp;&nbsp;
       {{ end }}
     </center>
   </article>
