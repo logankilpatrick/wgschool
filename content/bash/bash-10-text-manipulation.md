@@ -1,6 +1,7 @@
 +++
 title = "Text manipulation"
 slug = "bash-10-text-manipulation"
+weight = 10
 +++
 
 # Text manipulation (DH part: the invisible man)

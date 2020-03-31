@@ -1,6 +1,7 @@
 +++
 title = "Wildcards, redirections, pipes"
 slug = "bash-06-wildcards-redirection-pipes"
+weight = 6
 +++
 
 # Wildcards, redirection to files, and pipes

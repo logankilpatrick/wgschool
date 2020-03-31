@@ -1,6 +1,7 @@
 +++
 title = "Loops"
 slug = "bash-07-loops"
+weight = 7
 +++
 
 # Loops

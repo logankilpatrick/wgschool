@@ -1,6 +1,7 @@
 +++
 title = "tar and gzip"
 slug = "bash-04-tar-gzip"
+weight = 4
 +++
 
 # Working with `tar` and `gzip/gunzip`

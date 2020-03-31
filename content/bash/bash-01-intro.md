@@ -1,6 +1,7 @@
 +++
 title = "Introduction"
 slug = "bash-01-intro"
+weight = 1
 +++
 
 <!-- # Introduction -->

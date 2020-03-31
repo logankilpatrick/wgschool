@@ -1,6 +1,7 @@
 +++
 title = "Scripts and functions"
 slug = "bash-08-scripts-functions"
+weight = 8
 +++
 
 # Shell Scripts

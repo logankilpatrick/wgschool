@@ -1,6 +1,7 @@
 +++
 title = "Filesystem"
 slug = "bash-02-filesystem"
+weight = 2
 +++
 
 # Navigating directories

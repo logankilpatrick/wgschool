@@ -1,6 +1,7 @@
 +++
 title = "File transfer"
 slug = "bash-05-file-transfer"
+weight = 5
 +++
 
 # Transferring files and folders with `scp`

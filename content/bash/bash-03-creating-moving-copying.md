@@ -1,6 +1,7 @@
 +++
 title = "Creating, moving, copying"
 slug = "bash-03-creating-moving-copying"
+weight = 3
 +++
 
 # Creating things

@@ -1,6 +1,7 @@
 +++
 title = "Other"
 slug = "bash-11-other"
+weight = 11
 +++
 
 # Fuzzy finder `fzf`

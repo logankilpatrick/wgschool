@@ -13,13 +13,13 @@
       </a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       {{ end }}
-      {{ with .PrevInSection }}
+      {{ with .NextInSection }}
       <a href="{{ .RelPermalink }}">
         <i class="fas fa-chevron-left fa-2x" style="color: #336699"></i>
       </a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       {{ end }}
-      {{ with .NextInSection }}
+      {{ with .PrevInSection }}
       <a href="{{ .RelPermalink }}">
 	<i class="fas fa-chevron-right fa-2x" style="color: #336699"></i>
       </a>
@@ -54,13 +54,13 @@
       </a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       {{ end }}
-      {{ with .PrevInSection }}
+      {{ with .NextInSection }}
       <a href="{{ .RelPermalink }}">
         <i class="fas fa-chevron-left fa-2x" style="color: #336699"></i>
       </a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       {{ end }}
-      {{ with .NextInSection }}
+      {{ with .PrevInSection }}
       <a href="{{ .RelPermalink }}">
 	<i class="fas fa-chevron-right fa-2x" style="color: #336699"></i>
       </a>
