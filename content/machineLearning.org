@@ -2,7 +2,7 @@
 #+slug: ml
 
 {{< video >}}
-{{< link url="https://westgrid-ml.netlify.com/school/intro.html" text="WestGrid Summer School PyTorch lesson (2 min)" >}}
+{{< link url="https://westgrid-ml.netlify.com/school/pt-01-intro.html" text="WestGrid Summer School PyTorch lesson (2 min)" >}}
 {{< /video >}}
 
 {{< external >}}
