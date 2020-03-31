@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Other"
 slug = "bash-11-other"
 +++
-
-{{< next110 prev="../bash-10-text-manipulation" up="../bash" >}}
 
 # Fuzzy finder `fzf`
 
@@ -28,5 +26,3 @@ $ nano $(fzf --height 40%)
 - how to control processes
 - GNU_Parallel
 - homebrew if enough Macs
-
-{{< next110 prev="../bash-10-text-manipulation" up="../bash" >}}

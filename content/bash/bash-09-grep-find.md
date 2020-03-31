@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Grep and find"
 slug = "bash-09-grep-find"
 +++
-
-{{< next111 prev="../bash-08-scripts-functions" up="../bash" next="../bash-10-text-manipulation" >}}
 
 # Finding things
 
@@ -78,5 +76,3 @@ find . -name "*.txt" -exec command {} \;       # important to have spaces
 ~~~
 
 -- this will run the command on each item in the output of find.
-
-{{< next111 prev="../bash-08-scripts-functions" up="../bash" next="../bash-10-text-manipulation" >}}

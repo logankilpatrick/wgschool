@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Filesystem"
 slug = "bash-02-filesystem"
 +++
-
-{{< next111 prev="../bash-01-intro" up="../bash" next="../bash-03-creating-moving-copying" >}}
 
 # Navigating directories
 
@@ -44,5 +42,3 @@ Explain tab completion in bash.
 > **Quiz 3:** What does the command `cd` without a directory name do?
 
 > **Quiz 4:** Multiple ways to return to the home directory.
-
-{{< next111 prev="../bash-01-intro" up="../bash" next="../bash-03-creating-moving-copying" >}}

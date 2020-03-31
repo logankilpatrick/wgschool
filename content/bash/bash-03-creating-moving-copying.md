@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Creating, moving, copying"
 slug = "bash-03-creating-moving-copying"
 +++
-
-{{< next111 prev="../bash-02-filesystem" up="../bash" next="../bash-04-tar-gzip" >}}
 
 # Creating things
 
@@ -60,5 +58,3 @@ $ ls thesis
 > the following commands could you use to do so?
 
 > **Quiz 6:** What is the output of the closing `ls` command in the sequence shown below?
-
-{{< next111 prev="../bash-02-filesystem" up="../bash" next="../bash-04-tar-gzip" >}}

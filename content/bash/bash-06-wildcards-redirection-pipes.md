@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Wildcards, redirections, pipes"
 slug = "bash-06-wildcards-redirection-pipes"
 +++
-
-{{< next111 prev="../bash-05-file-transfer" up="../bash" next="../bash-07-loops" >}}
 
 # Wildcards, redirection to files, and pipes
 
@@ -52,5 +50,3 @@ $ alias hi='history'
 $ alias cedar='ssh -Y cedar.computecanada.ca'
 $ alias weather='curl wttr.in/vancouver'
 ~~~
-
-{{< next111 prev="../bash-05-file-transfer" up="../bash" next="../bash-07-loops" >}}

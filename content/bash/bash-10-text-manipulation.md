@@ -1,9 +1,7 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Text manipulation"
 slug = "bash-10-text-manipulation"
 +++
-
-{{< next111 prev="../bash-09-grep-find" up="../bash" next="../bash-11-other" >}}
 
 # Text manipulation (DH part: the invisible man)
 
@@ -136,5 +134,3 @@ awk 'NR>1 && NR < 5' haiku.txt    # print lines 2-4
 > **Exercise:** write a awk script to process `cities.csv` to print only town/city names and their
 > population and store it in a separate file `populations.csv`. Try to do everything in a single-line
 > command.
-
-{{< next111 prev="../bash-09-grep-find" up="../bash" next="../bash-11-other" >}}
