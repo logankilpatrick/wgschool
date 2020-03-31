@@ -1,6 +1,6 @@
 +++
 title = "Parallel programming in Chapel"
-slug = "chapel"
+slug = "chapel-menu"
 +++
 
 * 3 live two-hour sessions
