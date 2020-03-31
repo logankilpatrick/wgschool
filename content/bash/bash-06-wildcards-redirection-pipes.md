@@ -1,11 +1,10 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Wildcards, redirection to files, and pipes"
 slug = "bash-06-wildcards-redirection-pipes"
+weight = 6
 +++
 
-{{< next111 prev="../bash-05-file-transfer" up="../bash" next="../bash-07-loops" >}}
-
-# Wildcards, redirection to files, and pipes
+<!-- # Wildcards, redirection to files, and pipes -->
 
 <!-- * open http://bit.ly/bashfile in your browser, it'll download the file bfiles.zip -->
 <!-- * unpack bfiles.zip to your Desktop; you should see ~/Desktop/data-shell -->
@@ -52,5 +51,3 @@ $ alias hi='history'
 $ alias cedar='ssh -Y cedar.computecanada.ca'
 $ alias weather='curl wttr.in/vancouver'
 ~~~
-
-{{< next111 prev="../bash-05-file-transfer" up="../bash" next="../bash-07-loops" >}}

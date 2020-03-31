@@ -1,11 +1,10 @@
 +++
-title = "Bash Scripting and Tools"
+title = "Loops"
 slug = "bash-07-loops"
+weight = 7
 +++
 
-{{< next111 prev="../bash-06-wildcards-redirection-pipes" up="../bash" next="../bash-08-scripts-functions" >}}
-
-# Loops
+<!-- # Loops -->
 
 ~~~ {.bash}
 $ cd ~/Desktop/data-shell/creatures
@@ -86,5 +85,3 @@ $ echo {a..z}{a..z}    # this will produce 676 items
 $ seq 1 2 10      # step=2, so can use: for i in $(seq 1 2 10)
 $ for ((i=1; i<=5; i++)) do echo $i; done   # can use C-style loops
 ~~~
-
-{{< next111 prev="../bash-06-wildcards-redirection-pipes" up="../bash" next="../bash-08-scripts-functions" >}}

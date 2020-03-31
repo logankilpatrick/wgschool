@@ -1,6 +1,6 @@
 +++
 title = "Scientific visualization"
-slug = "scivis"
+slug = "scivis-menu"
 +++
 
 * short videos

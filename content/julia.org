@@ -2,7 +2,7 @@
 #+slug: julia
 
 {{< video >}}
-{{< link url="https://westgrid-julia.netlify.com/school/intro.html" text="WestGrid Summer School Julia lesson (2 min)" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="WestGrid Summer School Julia lesson (2 min)" >}}
 {{< /video >}}
 
 {{< external >}}

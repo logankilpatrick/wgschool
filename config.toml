@@ -104,22 +104,22 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Bash"
             weight = 2
-            url = "bash/"
+            url = "bash-menu/"
 
             [[languages.en.menu.main]]
             name = "HPC"
             weight = 3
-            url = "hpc/"
+            url = "hpc-menu/"
 
             [[languages.en.menu.main]]
             name = "SciVis"
             weight = 4
-            url = "scivis/"
+            url = "scivis-menu/"
 
             [[languages.en.menu.main]]
             name = "Chapel"
             weight = 5
-            url = "chapel/"
+            url = "chapel-menu/"
 
             [[languages.en.menu.main]]
             name = "Julia"
