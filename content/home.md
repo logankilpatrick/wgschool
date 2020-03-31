@@ -3,28 +3,38 @@ title = "Summer school details"
 slug = "home"
 +++
 
-- registration link
+- Eventbrite registration link
+  - publish the link
+  - open to participants from all WG institutions
+  - separate morning and afternoon tracks
 - dates: last week of May to first week of July
 - format: mix of reading materials, pre-recorded videos, takeaway exercises, and hands-on interactive
-sessions
-  - discussing no-shows and policies
-  <!-- - hands-on **option 1:** registration cap (20) for the hands-on sessions with blacklists, many repeats -->
-  <!--   of the each session, the number of repeats depends on the registration numbers -- better, but more work -->
-  <!-- - hands-on **option 2:** no caps, no repeats (guaranteed poor attendance or harder to debug problems) -->
+  sessions
+- hands-on sessions:
+  - each course will have several short (~1 hour) hands-on sessions, their number and length determined
+    by each instructor
+  - cap of 20 participants, but we'll strive to accommodate everyone with repeats
+  - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use socrative with names
+  - if a participant does not cancel at least 48 hours in advance and does not attend a session in full,
+    they will forfeit any further online hands-on sessions in this school, with exceptions for the current
+    circumstances and network/hardware failures (in these cases have to let us know via email - see email
+    wording from Marie from Mar-30)
+  - we will not be recording the hands-on sessions
   - advertise the hands-on session links only to registered participants
 - requirements for participants:
   - must read/watch dependency materials before each hands-on session
-  - must install and test software dependencies before the early software installation meetup, and must attend the
-    meetup in case of problems
+  - must install and test software dependencies before the early software installation meetup, and must
+    attend the meetup in case of problems
+  - we will not be debugging software installations during the actual hands-on sessions
 - suggestions to participants:
   - be prepared to share your screen for debugging sessions
     - everyone will benefit from your debugging session
   - use a dual-screen setup: presenter's materials on one screen, your workspace on another
   - turn on your video
   - use a good headset/microphone
-
-
-Instructors will need to determine the number and length of their hands-on sessions.
+- we will issue certificate listing the courses each participant has attendeed in-full
+  - a participant will need to attend all hands-on sessions in at least one course to get a certificate
+<!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 WestGrid Central courses:
 - [Bash Scripting and Tools](../bash)

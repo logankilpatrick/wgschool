@@ -7,7 +7,12 @@ slug = "bash-01-intro"
 
 # Introduction
 
-- Why use a cluster: computing beyond the scale of a desktop (faster, bigger, cost, efficiency)
+We use HPC systems (clusters) to do computing beyond the scale of a desktop, specifically by:
+
+* using many processors speed up computation,
+* solve larger problems that do not fit on a desktop,
+* decompose large problems onto multiple nodes and compute them in parallel.
+
 - Using HPC systems usually involves the use of a shell
   - unlike a GUI, it is a text-based interface to the operating system that excels at two things: <!-- command interpreter -->
     1. launching other tools and scripts and
@@ -20,12 +25,12 @@ slug = "bash-01-intro"
   necessary to work on larger Unix systems
 - Bash is one of many Unix shell implementations
 
-We have set up a small training cluster *cassiopeia.c3.ca* that features the same software setup as our
-real production clusters. In the ["Introduction to HPC"](../hpc) course you will learn the specifics
-of working on a cluster: its software environment, scheduler, compilers, parallel programming models, and
-so on. In this course -- with the shell hands-on on our training cluster -- we will learn how to work
-with a remote Linux machine and its filesystem, the basic Linux commands, how to transfer files
-to/from/between remote systems, and similar introductory topics.
+For the hands-on work, we have set up a small training cluster *cassiopeia.c3.ca* that features the same
+software setup as our real production clusters. In the ["Introduction to HPC"](../hpc) course you will
+learn the specifics of working on a cluster: its software environment, scheduler, compilers, parallel
+programming models, and so on. In this course we will learn how to work with a remote Linux machine and
+its filesystem, the basic Linux commands, how to transfer files to/from/between remote systems, and
+similar introductory topics.
 
 You can connect to a remote HPC system via SSH (secure shell) using a terminal on your laptop. Linux and
 Mac laptops have built-in terminals, whereas on Windows we suggest using a free version of MobaXterm
