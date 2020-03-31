@@ -25,7 +25,7 @@ We use HPC systems (clusters) to do computing beyond the scale of a desktop, spe
 - Bash is one of many Unix shell implementations
 
 For the hands-on work, we have set up a small training cluster *cassiopeia.c3.ca* that features the same
-software setup as our real production clusters. In the ["Introduction to HPC"](../hpc) course you will
+software setup as our real production clusters. In the ["Introduction to HPC"](../../hpc-menu) course you will
 learn the specifics of working on a cluster: its software environment, scheduler, compilers, parallel
 programming models, and so on. In this course we will learn how to work with a remote Linux machine and
 its filesystem, the basic Linux commands, how to transfer files to/from/between remote systems, and

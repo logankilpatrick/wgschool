@@ -37,10 +37,10 @@ slug = "home"
 <!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 WestGrid Central courses:
-- [Bash Scripting and Tools](../bash)
-- [Introduction to HPC](../hpc)
-- [Scientific visualization](../scivis)
-- [Parallel programming in Chapel](../chapel)
+- [Bash Scripting and Tools](../bash-menu)
+- [Introduction to HPC](../hpc-menu)
+- [Scientific visualization](../scivis-menu)
+- [Parallel programming in Chapel](../chapel-menu)
 - [Programming in Julia](../julia)
 - [Introduction to PyTorch](../ml)
 - [Version control with Git](../git)
