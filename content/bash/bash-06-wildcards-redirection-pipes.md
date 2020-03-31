@@ -1,10 +1,10 @@
 +++
-title = "Wildcards, redirections, pipes"
+title = "Wildcards, redirection to files, and pipes"
 slug = "bash-06-wildcards-redirection-pipes"
 weight = 6
 +++
 
-# Wildcards, redirection to files, and pipes
+<!-- # Wildcards, redirection to files, and pipes -->
 
 <!-- * open http://bit.ly/bashfile in your browser, it'll download the file bfiles.zip -->
 <!-- * unpack bfiles.zip to your Desktop; you should see ~/Desktop/data-shell -->

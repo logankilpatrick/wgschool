@@ -4,7 +4,7 @@ slug = "bash-07-loops"
 weight = 7
 +++
 
-# Loops
+<!-- # Loops -->
 
 ~~~ {.bash}
 $ cd ~/Desktop/data-shell/creatures
