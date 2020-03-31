@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-07-loops"
 +++
 
+{{< next111 prev="../bash-06-wildcards-redirection-pipes" up="../bash" next="../bash-08-scripts-functions" >}}
+
 # Loops
 
 ~~~ {.bash}
@@ -84,3 +86,5 @@ $ echo {a..z}{a..z}    # this will produce 676 items
 $ seq 1 2 10      # step=2, so can use: for i in $(seq 1 2 10)
 $ for ((i=1; i<=5; i++)) do echo $i; done   # can use C-style loops
 ~~~
+
+{{< next111 prev="../bash-06-wildcards-redirection-pipes" up="../bash" next="../bash-08-scripts-functions" >}}

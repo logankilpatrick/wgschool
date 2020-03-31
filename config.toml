@@ -107,9 +107,9 @@ disqusShortname = "yourdiscussshortname"
             url = "bash/"
 
             [[languages.en.menu.main]]
-            name = "IntroHPC"
+            name = "HPC"
             weight = 3
-            url = "introhpc/"
+            url = "hpc/"
 
             [[languages.en.menu.main]]
             name = "SciVis"

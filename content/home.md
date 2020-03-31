@@ -26,10 +26,9 @@ sessions
 
 Instructors will need to determine the number and length of their hands-on sessions.
 
-
 WestGrid Central courses:
 - [Bash Scripting and Tools](../bash)
-- [Introduction to HPC](../introhpc)
+- [Introduction to HPC](../hpc)
 - [Scientific visualization](../scivis)
 - [Parallel programming in Chapel](../chapel)
 - [Programming in Julia](../julia)

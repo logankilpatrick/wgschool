@@ -3,6 +3,8 @@ title = "Bash Scripting and Tools"
 slug = "bash-05-file-transfer"
 +++
 
+{{< next111 prev="../bash-04-tar-gzip" up="../bash" next="../bash-06-wildcards-redirection-pipes" >}}
+
 # Transferring files and folders with `scp`
 
 To copy a single file to/from the cluster, we can use `scp`:
@@ -113,3 +115,5 @@ To quit, type `exit` or `bye`.
 **Note on syncing**: there also a command `rsync` for synching two directories. It is super useful,
 especially for work in progress. For example, you can use it the download all the latest PNG images from
 your working directory on the cluster.
+
+{{< next111 prev="../bash-04-tar-gzip" up="../bash" next="../bash-06-wildcards-redirection-pipes" >}}
