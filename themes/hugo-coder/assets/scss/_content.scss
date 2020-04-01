@@ -182,15 +182,15 @@ img[alt=wgavatar] {
   .left {
     // font-family: $heading-font-family;
     display: table-cell;
-    width: 14.0rem;
     text-align: center;
+    width: 15.0rem;
     font-weight: bold;
   }
   .right {
     font-family: $heading-font-family;
     line-height: 3.0rem;
     display: table-cell;
-    padding-left: 3.0rem;
+    padding-left: 5.0rem;
   }
 }
 
