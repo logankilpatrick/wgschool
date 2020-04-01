@@ -37,6 +37,10 @@
 {{< link url="https://westgrid-cli.netlify.com/school/git-09-remotes.html" text="Remotes" >}}
 {{< /video >}}
 
+{{< handson >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-10-collaboration.html" text="Collaborating through GitHub (or similar)" >}}
+{{< /handson >}}
+
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
 <a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a>
