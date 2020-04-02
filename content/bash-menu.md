@@ -15,7 +15,7 @@ training.
 - [Navigating the filesystem](../bash/bash-02-filesystem)
 - [Creating, moving and copying things](../bash/bash-03-creating-moving-copying)
 - [Archives and compression](../bash/bash-04-tar-gzip)
-- [Transferring files and directories to/from remote computers](bash-05-file-transfer)
+- [Transferring files and directories to/from remote computers](../bash/bash-05-file-transfer)
 - [Wildcards, redirection to files, and pipes](../bash/bash-06-wildcards-redirection-pipes)
 - [Loops](../bash/bash-07-loops)
 - [Bash scripts and functions](../bash/bash-08-scripts-functions)

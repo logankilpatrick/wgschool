@@ -13,28 +13,28 @@ whenever we want, and are a great way to automate our work.
 
 ~~~ {.bash}
 $ cd ~/Desktop/data-shell/molecules
-$ nano middle.sh
+$ nano process.sh
 	#!/bin/bash         # this is called sha-bang; can be omitted for generic (bash/csh/tcsh) commands
 	echo Looking into file octane.pdb
 	head -15 octane.pdb | tail -5       # what does it do?
-$ bash middle.sh   # the script ran!
+$ bash process.sh   # the script ran!
 ~~~
 
 Alternatively, you can change file permissions:
 
 ~~~ {.bash}
-$ chmod u+x middle.sh
-$ ./middle.sh
+$ chmod u+x process.sh
+$ ./process.sh
 ~~~
 
 Let's pass an arbitrary file to it:
 ~~~ {.bash}
-$ nano middle.sh
+$ nano process.sh
 	#!/bin/bash
 	echo Looking into file $1       # $1 means the first argument to the script
     head -15 $1 | tail -5
-$ ./middle cubane.pdb
-$ ./middle propane.pdb
+$ ./process cubane.pdb
+$ ./process propane.pdb
 ~~~
 
 * head -15 "$1" | tail -5     # placing in double-quotes lets us pass filenames with spaces
@@ -48,62 +48,62 @@ $ ./middle propane.pdb
 > propane.pdb", for each file prints the number of lines and its first five lines, and separates the
 > output from different files by an empty line.
 
-## If statements
+<!-- ## If statements -->
 
-Let's write and run the following script:
+<!-- Let's write and run the following script: -->
 
-~~~ {.bash}
-$ nano check.sh
-    for f in $@
-    do
-      if [ -e $f ]      # make sure to have spaces around each bracket!
-      then
-        echo $f exists
-      else
-        echo $f does not exist
-      fi
-    done
-$ chmod u+x check.sh
-$ ./check.sh a b c check.sh
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ nano check.sh -->
+<!--     for f in $@ -->
+<!--     do -->
+<!--       if [ -e $f ]      # make sure to have spaces around each bracket! -->
+<!--       then -->
+<!--         echo $f exists -->
+<!--       else -->
+<!--         echo $f does not exist -->
+<!--       fi -->
+<!--     done -->
+<!-- $ chmod u+x check.sh -->
+<!-- $ ./check.sh a b c check.sh -->
+<!-- ~~~ -->
 
-* Full syntax is:
+<!-- * Full syntax is: -->
 
-~~~ {.bash}
-if [ condition1 ]
-then
-  command 1
-  command 2
-  command 3
-elif [ condition2 ]
-then
-  command 4
-  command 5
-else
-  default command
-fi
-~~~
+<!-- ~~~ {.bash} -->
+<!-- if [ condition1 ] -->
+<!-- then -->
+<!--   command 1 -->
+<!--   command 2 -->
+<!--   command 3 -->
+<!-- elif [ condition2 ] -->
+<!-- then -->
+<!--   command 4 -->
+<!--   command 5 -->
+<!-- else -->
+<!--   default command -->
+<!-- fi -->
+<!-- ~~~ -->
 
-Some examples of conditions (**make sure to have spaces around each bracket!**):
+<!-- Some examples of conditions (**make sure to have spaces around each bracket!**): -->
 
-* [ $myvar == 'text' ] checks if variable is equal to 'text'
-* [ $myvar == number ] checks if variable is equal to number
-* [ -e fileOrDirName ] checks if fileOrDirName exists
-* [ -d name ] checks if name is a directory
-* [ -f name ] checks if name is a file
-* [ -s name ] checks if file name has length greater than 0
+<!-- * [ $myvar == 'text' ] checks if variable is equal to 'text' -->
+<!-- * [ $myvar == number ] checks if variable is equal to number -->
+<!-- * [ -e fileOrDirName ] checks if fileOrDirName exists -->
+<!-- * [ -d name ] checks if name is a directory -->
+<!-- * [ -f name ] checks if name is a file -->
+<!-- * [ -s name ] checks if file name has length greater than 0 -->
 
-> **Exercise:** write a script that complains when it does not receive arguments.
+<!-- > **Exercise:** write a script that complains when it does not receive arguments. -->
 
 ## Variables
 
-We already saw variables that were specific to scripts ($1, $@, ...). Variables can be used outside of
-scripts:
+We already saw variables that were specific to scripts ($1, $@, ...) and to loops ($file). Variables can be used
+outside of scripts:
 
 ~~~ {.bash}
-$ myvar=3     # no spaces permitted around the equality sign!
+$ myvar=3        # no spaces permitted around the equality sign!
 $ echo myvar     # will print the string 'myvar'
-$ echo $myvar     # will print the value of myvar
+$ echo $myvar    # will print the value of myvar
 ~~~
 
 Sometimes you see notation:
@@ -116,7 +116,7 @@ Using 'export' will make sure that all inherited processes of this shell will ha
 variable. Try defining the variable *newvar* without/with 'export' and then running the script:
 
 ~~~ {.bash}
-$ nano middle.sh
+$ nano process.sh
 	#!/bin/bash
     echo $newvar
 ~~~
