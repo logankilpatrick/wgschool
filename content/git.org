@@ -13,13 +13,33 @@
 {{< link url="https://westgrid-cli.netlify.com/school/git-03-config.html" text="Configuring Git" >}}
 {{< /handson >}}
 
+{{< lecture >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-04-man.html" text="Man pages" >}}
+{{< /lecture >}}
+
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-04-basics.html" text="Git basics" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-05-basics.html" text="Git basics: repositories, status, staging, committing, diff" >}}
 {{< /video >}}
 
 {{< interactive >}}
-{{< link url="https://westgrid-cli.netlify.com/school/gitxxx.html" text="Debugging session" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-recording.html" text="Let's record a project's history with Git together" >}}
 {{< /interactive >}}
+
+{{< lecture >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-07-recovering.html" text="Recovering old versions" >}}
+{{< /lecture >}}
+
+{{< interactive >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-08-branches.html" text="Working with branches" >}}
+{{< /interactive >}}
+
+{{< video >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-09-remotes.html" text="Remotes" >}}
+{{< /video >}}
+
+{{< handson >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-10-collaboration.html" text="Collaborating through GitHub (or similar)" >}}
+{{< /handson >}}
 
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
