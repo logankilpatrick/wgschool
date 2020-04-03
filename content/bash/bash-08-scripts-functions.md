@@ -4,49 +4,58 @@ slug = "bash-08-scripts-functions"
 weight = 8
 +++
 
-# Shell Scripts
+## Shell Scripts
 
 We now know a lot of UNIX commands! Wouldn't it be great if we could save certain commands so that we
 could run them later or not have to type them out again? As it turns out, this is extremely easy to
 do. Saving a list of commands to a file is called a "shell script". These shell scripts can be run
 whenever we want, and are a great way to automate our work.
 
-~~~ {.bash}
-$ cd ~/Desktop/data-shell/molecules
-$ nano process.sh
-	#!/bin/bash         # this is called sha-bang; can be omitted for generic (bash/csh/tcsh) commands
-	echo Looking into file octane.pdb
-	head -15 octane.pdb | tail -5       # what does it do?
-$ bash process.sh   # the script ran!
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ cd ~/Desktop/data-shell/molecules -->
+<!-- $ nano process.sh -->
+<!-- 	#!/bin/bash         # this is called sha-bang; can be omitted for generic (bash/csh/tcsh) commands -->
+<!-- 	echo Looking into file octane.pdb -->
+<!-- 	head -15 octane.pdb | tail -5       # what does it do? -->
+<!-- $ bash process.sh   # the script ran! -->
+<!-- ~~~ -->
 
-Alternatively, you can change file permissions:
+<!-- Alternatively, you can change file permissions: -->
 
-~~~ {.bash}
-$ chmod u+x process.sh
-$ ./process.sh
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ chmod u+x process.sh -->
+<!-- $ ./process.sh -->
+<!-- ~~~ -->
 
-Let's pass an arbitrary file to it:
-~~~ {.bash}
-$ nano process.sh
-	#!/bin/bash
-	echo Looking into file $1       # $1 means the first argument to the script
-    head -15 $1 | tail -5
-$ ./process cubane.pdb
-$ ./process propane.pdb
-~~~
+<!-- Let's pass an arbitrary file to it: -->
+<!-- ~~~ {.bash} -->
+<!-- $ nano process.sh -->
+<!-- 	#!/bin/bash -->
+<!-- 	echo Looking into file $1       # $1 means the first argument to the script -->
+<!--     head -15 $1 | tail -5 -->
+<!-- $ ./process cubane.pdb -->
+<!-- $ ./process propane.pdb -->
+<!-- ~~~ -->
 
-* head -15 "$1" | tail -5     # placing in double-quotes lets us pass filenames with spaces
-* head $2 $1 | tail $3        # what will this do?
-* $# holds the number of command-line arguments
-* $@ means all command-lines arguments to the script (words in a string)
+<!-- * head -15 "$1" | tail -5     # placing in double-quotes lets us pass filenames with spaces -->
+<!-- * head $2 $1 | tail $3        # what will this do? -->
+<!-- * $# holds the number of command-line arguments -->
+<!-- * $@ means all command-lines arguments to the script (words in a string) -->
 
-> **Quiz 11:** script.sh in molecules Users/nelle/molecules.
+<!-- > **Quiz 11:** script.sh in molecules Users/nelle/molecules. -->
 
-> **Exercise:** write a script that takes any number of filenames, e.g., "scriptName.sh cubane.pdb
-> propane.pdb", for each file prints the number of lines and its first five lines, and separates the
-> output from different files by an empty line.
+<!-- > **Exercise:** write a script that takes any number of filenames, e.g., "scriptName.sh cubane.pdb -->
+<!-- > propane.pdb", for each file prints the number of lines and its first five lines, and separates the -->
+<!-- > output from different files by an empty line. -->
+
+08-scripts.mkv
+
+08-script-molecules.mkv
+
+
+
+
+
 
 <!-- ## If statements -->
 
@@ -97,50 +106,52 @@ $ ./process propane.pdb
 
 ## Variables
 
-We already saw variables that were specific to scripts ($1, $@, ...) and to loops ($file). Variables can be used
-outside of scripts:
+<!-- We already saw variables that were specific to scripts ($1, $@, ...) and to loops ($file). Variables can be used -->
+<!-- outside of scripts: -->
 
-~~~ {.bash}
-$ myvar=3        # no spaces permitted around the equality sign!
-$ echo myvar     # will print the string 'myvar'
-$ echo $myvar    # will print the value of myvar
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ myvar=3        # no spaces permitted around the equality sign! -->
+<!-- $ echo myvar     # will print the string 'myvar' -->
+<!-- $ echo $myvar    # will print the value of myvar -->
+<!-- ~~~ -->
 
-Sometimes you see notation:
+<!-- Sometimes you see notation: -->
 
-~~~ {.bash}
-$ export myvar=3
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ export myvar=3 -->
+<!-- ~~~ -->
 
-Using 'export' will make sure that all inherited processes of this shell will have access to this
-variable. Try defining the variable *newvar* without/with 'export' and then running the script:
+<!-- Using 'export' will make sure that all inherited processes of this shell will have access to this -->
+<!-- variable. Try defining the variable *newvar* without/with 'export' and then running the script: -->
 
-~~~ {.bash}
-$ nano process.sh
-	#!/bin/bash
-    echo $newvar
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ nano process.sh -->
+<!-- 	#!/bin/bash -->
+<!--     echo $newvar -->
+<!-- ~~~ -->
 
-You can assign a command's output to a variable to use in another command (this is called *command
-substitution*) -- we'll see this later when we play with 'find' command.
+<!-- You can assign a command's output to a variable to use in another command (this is called *command -->
+<!-- substitution*) -- we'll see this later when we play with 'find' command. -->
 
-~~~ {.bash}
-$ printenv    # print all declared variables
-$ env         # same
-$ unset myvar   # unset a variable
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ printenv    # print all declared variables -->
+<!-- $ env         # same -->
+<!-- $ unset myvar   # unset a variable -->
+<!-- ~~~ -->
 
-Environment variables are those that affect the behaviour of the shell and user interface:
+<!-- Environment variables are those that affect the behaviour of the shell and user interface: -->
 
-~~~ {.bash}
-$ echo $HOME
-$ echo $PATH
-$ echo $PWD
-$ echo $PS1
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ echo $HOME -->
+<!-- $ echo $PATH -->
+<!-- $ echo $PWD -->
+<!-- $ echo $PS1 -->
+<!-- ~~~ -->
 
-It is best to define custom environment variables inside your ~/.bashrc file. It is loaded every time you
-start a new shell.
+<!-- It is best to define custom environment variables inside your ~/.bashrc file. It is loaded every time you -->
+<!-- start a new shell. -->
+
+08-variables.mkv
 
 ## Functions
 
@@ -194,3 +205,5 @@ combine() {
 > tar archive (often called *tarball*) and deletes the original directory.
 
 > **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory.
+
+08-functions.mkv
