@@ -18,7 +18,7 @@
 {{< /lecture >}}
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-05-basics.html" text="Git basics: repositories, status, staging, committing, diff" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-05-basics.html" text="Git basics: understanding the core concepts of repositories" >}}
 {{< /video >}}
 
 {{< interactive >}}
