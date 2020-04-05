@@ -34,17 +34,17 @@ Please only sign up for this session if you have carefully followed the session 
 {{< link url="https://westgrid-cli.netlify.com/school/git-08-recovering.html" text="Recovering old versions" >}}
 {{< /lecture >}}
 
-{{< interactive >}}
-{{< /interactive >}}
+{{< handson >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-09-branches.html" text="Working with branches" >}}
+{{< /handson >}}
 
 {{< video >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-10-remotes.html" text="Remotes" >}}
 {{< /video >}}
 
-{{< handson >}}
-{{< /handson >}}
+{{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-11-collaboration.html" text="Collaborating through GitHub (or similar)" >}}
+{{< /interactive >}}
 
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
