@@ -15,7 +15,7 @@
 
 {{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-04-debug.html" text="Debugging session for those having issues installing or configuring Git" >}}<br>
-Please only sign up for this session if you have carefully followed the session above and have already tried everything you could on your own.
+Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
 {{< /interactive >}}
 
 {{< lecture >}}
@@ -27,7 +27,8 @@ Please only sign up for this session if you have carefully followed the session 
 {{< /video >}}
 
 {{< interactive >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
+Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-06-basics.html">Git basics</a> before joining this interactive session.
 {{< /interactive >}}
 
 {{< lecture >}}
@@ -43,7 +44,8 @@ Please only sign up for this session if you have carefully followed the session 
 {{< /video >}}
 
 {{< interactive >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-11-collaboration.html" text="Collaborating through GitHub (or similar)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-11-collaborating.html" text="Collaborating through GitHub (or similar)" >}}<br>
+Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-10-remotes.html">remotes</a> before joining this interactive session.
 {{< /interactive >}}
 
 {{< external >}}
