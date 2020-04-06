@@ -6,6 +6,8 @@ weight = 2
 
 ## Navigating directories (6 min)
 
+Covered topics: `pwd`, `ls`, absolute vs. relative paths, command flags, `cd`, path shortcuts.
+
 <!-- In the shell you can type any command after the "$" prompt and press "enter". The *standard output* from -->
 <!-- this command will be printed in your terminal. Let's try a simple command: -->
 
@@ -37,6 +39,8 @@ weight = 2
 {{< yt 96Hc_sLKi-k laptop >}}
 
 ## Getting help (3 min)
+
+Covered topics: `man`, navigating manual pages, `--help` flag.
 
 <!-- ~~~ {.bash} -->
 <!-- $ man ls -->
