@@ -12,11 +12,15 @@ weight = 11
 
 On cassiopeia.c3.ca you can install it into your $HOME with:
 
-~~~ {.bash}
-$ source /project/shared/fzf/.fzf.bash     # each user in each shell or put it into your ~/.bashrc
-$ fzf
-$ nano $(fzf --height 40%)
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ source /project/shared/fzf/.fzf.bash     # each user in each shell or put it into your ~/.bashrc -->
+<!-- $ fzf -->
+<!-- $ nano $(fzf --height 40%) -->
+<!-- $ kill -9 `/bin/ps aux | fzf | awk '{print $2}'` -->
+<!-- $ e `find ~/Documents/ -type f | fzf` -->
+<!-- ~~~ -->
+
+11-fzf.mkv
 
 # Other advanced bash topics
 

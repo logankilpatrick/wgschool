@@ -6,6 +6,19 @@ weight = 4
 
 ## Working with `tar` and `gzip/gunzip`
 
+In this video we will be working with a ZIP file that you can download and unpack with
+
+~~~ {.bash}
+$ wget http://bit.ly/bashfile -O bfiles.zip
+$ unzip bfiles.zip
+~~~
+
+Unlike an SSD or a hard drive on your laptop, the filesystem on HPC cluster was designed to store large
+files, ideally with parallel I/O. As a result, it handles any large number of small I/O requests (reads
+or writes) very poorly, sometimes bringing the I/O system to a halt. For this reason, we strongly
+recommend that users do not store thousands (or more) individual files -- instead you should pack them
+into a small number of large archives. This is where the archiving tool `tar` comes in handy.
+
 <!-- Let's download some files in Windows' ZIP format: -->
 
 <!-- ~~~ {.bash} -->

@@ -155,55 +155,55 @@ whenever we want, and are a great way to automate our work.
 
 ## Functions
 
-Like in any programming language, in bash a function is a block of code that you can access by its
-name. The syntax is:
+<!-- Like in any programming language, in bash a function is a block of code that you can access by its -->
+<!-- name. The syntax is: -->
 
-~~~ {.bash}
-functionName() {
-  command 1
-  command 2
-  ...
-}
-~~~
+<!-- ~~~ {.bash} -->
+<!-- functionName() { -->
+<!--   command 1 -->
+<!--   command 2 -->
+<!--   ... -->
+<!-- } -->
+<!-- ~~~ -->
 
-Inside functions you can access its arguments with variables $1 $2 ... $# $@ -- exactly the same as in
-scripts. Functions are very convenient because you can define them inside your ~/.bashrc
-file. Alternatively, you can place them into a file and then **source** them whenever needed:
+<!-- Inside functions you can access its arguments with variables $1 $2 ... $# $@ -- exactly the same as in -->
+<!-- scripts. Functions are very convenient because you can define them inside your ~/.bashrc -->
+<!-- file. Alternatively, you can place them into a file and then **source** them whenever needed: -->
 
-~~~ {.bash}
-$ source allMyFunctions.sh
-~~~
+<!-- ~~~ {.bash} -->
+<!-- $ source allMyFunctions.sh -->
+<!-- ~~~ -->
 
-Here is our first function:
+<!-- Here is our first function: -->
 
-~~~ {.bash}
-greetings() {
-  echo hello
-}
-~~~
+<!-- ~~~ {.bash} -->
+<!-- greetings() { -->
+<!--   echo hello -->
+<!-- } -->
+<!-- ~~~ -->
 
-Let's write a function 'combine()' that takes all the files we pass to it, copies them into a
-randomly-named directory and prints that directory to the screen:
+<!-- Let's write a function 'combine()' that takes all the files we pass to it, copies them into a -->
+<!-- randomly-named directory and prints that directory to the screen: -->
 
-~~~ {.bash}
-combine() {
-  if [ $# -eq 0 ]; then
-    echo "No arguments specified. Usage: combine file1 [file2 ...]"
-    return 1        # return a non-zero error code
-  fi
-  dir=$RANDOM$RANDOM
-  mkdir $dir
-  cp $@ $dir
-  echo look in the directory $dir
-}
-~~~
+<!-- ~~~ {.bash} -->
+<!-- combine() { -->
+<!--   if [ $# -eq 0 ]; then -->
+<!--     echo "No arguments specified. Usage: combine file1 [file2 ...]" -->
+<!--     return 1        # return a non-zero error code -->
+<!--   fi -->
+<!--   dir=$RANDOM$RANDOM -->
+<!--   mkdir $dir -->
+<!--   cp $@ $dir -->
+<!--   echo look in the directory $dir -->
+<!-- } -->
+<!-- ~~~ -->
 
-> **Exercise:** write a function to swap two file names. Add a check that both files exist, before
-> renaming them.
+<!-- > **Exercise:** write a function to swap two file names. Add a check that both files exist, before -->
+<!-- > renaming them. -->
 
-> **Exercise:** write a function archive() that takes a directory as an argument, packs it into a gzipped
-> tar archive (often called *tarball*) and deletes the original directory.
+<!-- > **Exercise:** write a function archive() that takes a directory as an argument, packs it into a gzipped -->
+<!-- > tar archive (often called *tarball*) and deletes the original directory. -->
 
-> **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory.
+<!-- > **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory. -->
 
 08-functions.mkv

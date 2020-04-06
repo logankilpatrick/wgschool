@@ -53,3 +53,9 @@ $ alias hi='history'
 $ alias cedar='ssh -Y cedar.computecanada.ca'
 $ alias weather='curl wttr.in/vancouver'
 ~~~
+
+Now, instead of typing `ssh -Y cedar.computecanada.ca`, you can simply type `cedar`. To see all your
+defined aliases, type `alias`. To remove, e.g. the alias `cedar`, type `unalias cedar`.
+
+You may want to put all your alias definitions into the file `~/.bashrc` which is run every time you
+start a new local or remote shell.
