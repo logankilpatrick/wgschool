@@ -4,7 +4,7 @@ slug = "bash-02-filesystem"
 weight = 2
 +++
 
-## Navigating directories
+## Navigating directories (6 min)
 
 <!-- In the shell you can type any command after the "$" prompt and press "enter". The *standard output* from -->
 <!-- this command will be printed in your terminal. Let's try a simple command: -->
@@ -30,9 +30,13 @@ weight = 2
 <!-- $ cd -   # go to previous directory -->
 <!-- ~~~ -->
 
-02-navigating.mkv
+<!-- {{< video >}} -->
+<!-- {{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="Navigating directories (6m31s)" >}} -->
+<!-- {{< /video >}} -->
+<!-- 02-navigating.mkv -->
+{{< yt 96Hc_sLKi-k laptop >}}
 
-## Getting help
+## Getting help (3 min)
 
 <!-- ~~~ {.bash} -->
 <!-- $ man ls -->
@@ -52,4 +56,5 @@ weight = 2
 
 <!-- > **Quiz 4:** Multiple ways to return to the home directory. -->
 
-02-help.mkv
+<!-- 02-help.mkv -->
+{{< yt BlT97Vvi3E0 laptop >}}
