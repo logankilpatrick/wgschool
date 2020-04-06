@@ -1,9 +1,12 @@
 #+title: Version control with Git
 #+slug: git
 
-Day 1
+Lectures, videos, and hands-on sessions are self-directed, but they are prerequisites for the zoom sessions.
+
+*Day 1*
 {{< zoom >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-01-intro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-01-intro.html" text="Introduction to WestGrid Summer School Git lesson" >}}<br>
+In this session, I will go over this week's Git program and we will get to know each other.
 {{< /zoom >}}
 
 {{< lecture >}}
@@ -14,7 +17,7 @@ Day 1
 {{< link url="https://westgrid-cli.netlify.com/school/git-03-config.html" text="Configuring Git" >}}
 {{< /handson >}}
 
-Day 2
+*Day 2*
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-04-debug.html" text="Debugging session for those having issues installing or configuring Git" >}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
@@ -28,7 +31,7 @@ Please only sign up for this session if you have carefully followed the session 
 {{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Git basics: understanding the core concepts of repositories" >}}
 {{< /video >}}
 
-Day 3
+*Day 3*
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-06-basics.html">Git basics</a> before joining this interactive session.
@@ -46,11 +49,22 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.c
 {{< link url="https://westgrid-cli.netlify.com/school/git-10-remotes.html" text="Remotes" >}}
 {{< /video >}}
 
-Day 4
+*Day 4*
 {{< zoom >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-11-collaborating.html" text="Collaborating through GitHub (or similar)" >}}<br>
-Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-10-remotes.html">remotes</a> before joining this interactive session.
+{{< link url="https://westgrid-cli.netlify.com/school/git-11-collaborating.html" text="Collaborating through GitHub" >}}<br>
+Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-10-remotes.html">remotes</a> before joining this interactive session.<br>
+This session will close our WestGrid Summer School Git lesson.
 {{< /zoom >}}
+
+#+BEGIN_export html
+<br>
+<hr style="border-width: 1px 1px 0;
+           border-style: solid;
+           border-color: #52527a;
+           width: 50%;
+           margin-left: auto;
+           margin-right: auto;">
+#+END_export
 
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
