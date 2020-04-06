@@ -2,9 +2,9 @@
 #+slug: git
 
 Day 1
-{{< video >}}
+{{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-01-intro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
-{{< /video >}}
+{{< /interactive >}}
 
 {{< lecture >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-02-why.html" text="Why Git?" >}}
@@ -34,7 +34,6 @@ Day 3
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-06-basics.html">Git basics</a> before joining this interactive session.
 {{< /interactive >}}
 
-Day 4
 {{< lecture >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-08-recovering.html" text="Going back in time" >}}
 {{< /lecture >}}
@@ -43,11 +42,11 @@ Day 4
 {{< link url="https://westgrid-cli.netlify.com/school/git-09-branches.html" text="Working with branches" >}}
 {{< /handson >}}
 
-Day 5
 {{< video >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-10-remotes.html" text="Remotes" >}}
 {{< /video >}}
 
+Day 4
 {{< interactive >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-11-collaborating.html" text="Collaborating through GitHub (or similar)" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-10-remotes.html">remotes</a> before joining this interactive session.
