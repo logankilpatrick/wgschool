@@ -1,10 +1,8 @@
 +++
-title = "tar and gzip"
+title = "Archiving and compressing"
 slug = "bash-04-tar-gzip"
 weight = 4
 +++
-
-## Working with `tar` and `gzip/gunzip`
 
 In this video we will be working with a ZIP file that you can download and unpack with
 
@@ -18,6 +16,8 @@ files, ideally with parallel I/O. As a result, it handles any large number of sm
 or writes) very poorly, sometimes bringing the I/O system to a halt. For this reason, we strongly
 recommend that users do not store thousands (or more) individual files -- instead you should pack them
 into a small number of large archives. This is where the archiving tool `tar` comes in handy.
+
+## Working with `tar` and `gzip/gunzip` (8 min)
 
 <!-- Let's download some files in Windows' ZIP format: -->
 
@@ -55,4 +55,7 @@ into a small number of large archives. This is where the archiving tool `tar` co
 <!-- > **Exercise:** Let's create a new subdirectory `~/tmp` with 1000 files inside using `touch a{000..999}` -->
 <!-- > and then gzip-archive that subdirectory. -->
 
-04-archives.mkv
+Covered topics: `tar` and `g(un)zip`.
+
+<!-- 04-archives.mkv -->
+{{< yt ckD5jOCnyBU laptop >}}

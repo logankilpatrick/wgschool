@@ -4,7 +4,10 @@ slug = "bash-03-creating-moving-copying"
 weight = 3
 +++
 
-## Creating things
+## Creating things (6 min)
+
+Covered topics: creating directories with `mkdir`, using `nano` text editor, deleting with `rm` and
+`rmdir`.
 
 <!-- ~~~ {.bash} -->
 <!-- $ mkdir thesis -->
@@ -23,9 +26,12 @@ weight = 3
 
 <!-- Also could do 'rm -r thesis' in lieu of the last two commands. -->
 
-03-creating.mkv
+<!-- 03-creating.mkv -->
+{{< yt _tJyfkG-_KA laptop >}}
 
-## Moving and copying things
+## Moving and copying things (4 min)
+
+Covered topics: `mv` and `cp`.
 
 <!-- ~~~ {.bash} -->
 <!-- $ mkdir thesis -->
@@ -62,4 +68,5 @@ weight = 3
 
 <!-- > **Quiz 6:** What is the output of the closing `ls` command in the sequence shown below? -->
 
-03-moving.mkv
+<!-- 03-moving.mkv -->
+{{< yt QJGmgfwgBLk laptop >}}
