@@ -2,9 +2,9 @@
 #+slug: git
 
 Day 1
-{{< interactive >}}
+{{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-01-intro.html" text="WestGrid Summer School Git lesson (2 min)" >}}
-{{< /interactive >}}
+{{< /zoom >}}
 
 {{< lecture >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-02-why.html" text="Why Git?" >}}
@@ -15,10 +15,10 @@ Day 1
 {{< /handson >}}
 
 Day 2
-{{< interactive >}}
+{{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-04-debug.html" text="Debugging session for those having issues installing or configuring Git" >}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
-{{< /interactive >}}
+{{< /zoom >}}
 
 {{< lecture >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-05-man.html" text="Man pages" >}}
@@ -29,10 +29,10 @@ Please only sign up for this session if you have carefully followed the session 
 {{< /video >}}
 
 Day 3
-{{< interactive >}}
+{{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-06-basics.html">Git basics</a> before joining this interactive session.
-{{< /interactive >}}
+{{< /zoom >}}
 
 {{< lecture >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-08-recovering.html" text="Going back in time" >}}
@@ -47,10 +47,10 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.c
 {{< /video >}}
 
 Day 4
-{{< interactive >}}
+{{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-11-collaborating.html" text="Collaborating through GitHub (or similar)" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.com/school/git-10-remotes.html">remotes</a> before joining this interactive session.
-{{< /interactive >}}
+{{< /zoom >}}
 
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
