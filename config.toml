@@ -152,6 +152,6 @@ disqusShortname = "yourdiscussshortname"
             # url = "contact/"
 
 	    [[languages.en.menu.main]]
-	    name = "📧"
+	    name = "📬"
 	    weight = 10
 	    url  = "mailto:training@westgrid.ca"
