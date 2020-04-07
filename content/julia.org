@@ -10,6 +10,49 @@ The debugging session is not part of the lesson, but there in case someone is st
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
 {{< /zoom >}}
 
+{{< reading >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-02-why.html" text="Why another programming language?" >}}
+{{< /reading >}}
+
+{{< practice >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-03-install.html" text="Installing Julia and getting started" >}}
+{{< /practice >}}
+
+{{< video >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-05-repl.html" text="The Julia REPL" >}}
+{{< /video >}}
+
+{{< practice >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-05-pkg.html" text="Packages" >}}
+{{< /practice >}}
+
+*Day 2*
+{{< debug >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-04-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
+Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
+{{< /debug >}}
+
+{{< zoom >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Variables and types" >}}
+{{< /zoom >}}
+
+{{< reading >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Functions and macros" >}}
+{{< /reading >}}
+
+{{< practice >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Plotting in Julia" >}}
+{{< /practice >}}
+
+*Day 3*
+{{< video >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Parallel programming" >}}
+{{< /video >}}
+
+{{< zoom >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Distributed computing" >}}
+{{< /zoom >}}
+
 {{< external >}}
 <u>Documentation:</u>
 <br>
