@@ -1,7 +1,7 @@
 #+title: Version control with Git
 #+slug: git
 
-Readings, videos, and hands-on sessions are self-directed, but they are prerequisites for the zoom sessions.
+Readings, videos, and practice sessions are self-directed, but they are prerequisites for the Zoom sessions.
 
 *Day 1*
 {{< zoom >}}
@@ -13,9 +13,9 @@ In this session, I will go over this week's Git program and we will get to know 
 {{< link url="https://westgrid-cli.netlify.com/school/git-02-why.html" text="Why Git?" >}}
 {{< /reading >}}
 
-{{< handson >}}
+{{< practice >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-03-config.html" text="Configuring Git" >}}
-{{< /handson >}}
+{{< /practice >}}
 
 {{< reading >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-05-man.html" text="Man pages" >}}
@@ -40,9 +40,9 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.c
 {{< link url="https://westgrid-cli.netlify.com/school/git-08-recovering.html" text="Going back in time" >}}
 {{< /reading >}}
 
-{{< handson >}}
+{{< practice >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-09-branches.html" text="Working with branches" >}}
-{{< /handson >}}
+{{< /practice >}}
 
 {{< video >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-10-remotes.html" text="Remotes" >}}
