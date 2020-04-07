@@ -7,7 +7,7 @@ slug = "home"
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | Bash | Bash | HPC | HPC | HPC |
 week of June 1st | SciVis | SciVis | Chapel | Chapel | Chapel |
-week of June 8th | Julia | Julia | ML | ML | ML |
+week of June 8th | Julia | Julia | Julia | ML | ML |
 week of June 15th | Jupyter | (TECC) | (TECC) | (TECC) | Other |
 week of June 22nd | Git | Git | Git | Other | Other |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
