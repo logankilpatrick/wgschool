@@ -3,14 +3,14 @@ title = "Summer school details"
 slug = "home"
 +++
 
-| | Mo | Tu | We | Th | Fr |
+| | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | Bash | Bash | HPC | HPC | HPC |
 week of June 1st | SciVis | SciVis | Chapel | Chapel | Chapel |
 week of June 8th | Julia | Julia | ML | ML | ML |
 week of June 15th | Jupyter | (TECC) | (TECC) | (TECC) | Other |
 week of June 22nd | Git | Git | Git | Other | Other |
-week of June 29th | repeat Bash | repeat Bash | repeat HPC | repeat HPC | repeat HPC |
+week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repeat ML |
 
 - Eventbrite registration link
