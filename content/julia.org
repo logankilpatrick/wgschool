@@ -19,7 +19,7 @@ In this session, I will go over the program for our Julia lesson and we will get
 {{< /practice >}}
 
 {{< video >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-05-repl.html" text="The Julia REPL" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-04-repl.html" text="The Julia REPL" >}}
 {{< /video >}}
 
 {{< practice >}}
@@ -28,29 +28,29 @@ In this session, I will go over the program for our Julia lesson and we will get
 
 *Day 2*
 {{< debug >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-04-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
-Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
+Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.com/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
 {{< /debug >}}
 
 {{< zoom >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Variables and types" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-var.html" text="Variables and types" >}}
 {{< /zoom >}}
 
 {{< reading >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Functions and macros" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-fun.html" text="Functions and macros" >}}
 {{< /reading >}}
 
 {{< practice >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Plotting in Julia" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-plots.html" text="Plotting in Julia" >}}
 {{< /practice >}}
 
 *Day 3*
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Parallel programming" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-parallel.html" text="Parallel programming" >}}
 {{< /video >}}
 
 {{< zoom >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-06-basics.html" text="Distributed computing" >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-06-distributed.html" text="Distributed computing" >}}
 {{< /zoom >}}
 
 {{< external >}}
