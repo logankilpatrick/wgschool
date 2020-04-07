@@ -55,16 +55,6 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.c
 This session will close our WestGrid Summer School Git lesson.
 {{< /zoom >}}
 
-#+BEGIN_export html
-<br>
-<hr style="border-width: 1px 1px 0;
-           border-style: solid;
-           border-color: #52527a;
-           width: 50%;
-           margin-left: auto;
-           margin-right: auto;">
-#+END_export
-
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
 <a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a>
