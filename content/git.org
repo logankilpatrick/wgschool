@@ -7,7 +7,7 @@ The debugging session is not part of the lesson, but there in case someone is st
 *Day 1*
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-01-intro.html" text="Introduction to WestGrid Summer School Git lesson" >}}<br>
-In this session, I will go over this week's Git program and we will get to know each other.
+In this session, I will go over the program for our Git lesson and we will get to know each other.
 {{< /zoom >}}
 
 {{< reading >}}
