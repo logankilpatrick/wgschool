@@ -29,20 +29,22 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
     circumstances and network/hardware failures (in these cases have to let us know via email - see email
     wording from Marie from Mar-30)
   - we will not be recording the Zoom sessions
-  - advertise the Zoom session and Debug session links only to registered participants
+  - advertise the Zoom session links only to registered participants
+  - we will NOT be debugging software installations during the actual Zoom sessions as this will be done in special debugging sessions (see below)
+- Debugging sessions:
+  - these sessions are not considered part of the actual course and only participants with technical difficulties should attend them
+  - be prepared to share your screen during debugging sessions: it will help us help you and help others with similar issues
+  - advertise the Debug session links only to registered participants
 - Requirements for participants:
-  - must read/watch dependency materials before each Zoom session
-  - must install and test software dependencies before the early software installation meetup, and must
-    attend the meetup in case of problems
-  - we will not be debugging software installations during the actual Zoom sessions. Instead, there will be special debugging sessions only for those having technical issues
+  - must read/watch preceding materials before each Zoom session
+  - must attend debugging sessions in case of problem with software installation
 - Suggestions to participants:
-  - be prepared to share your screen for debugging sessions
-    - everyone will benefit from your debugging session
-  - use a dual-screen setup: presenter's materials on one screen, your workspace on another
+  - use a dual-screen setup if possible: presenter's materials on one screen, your workspace on another
   - turn on your video
   - use a good headset/microphone
-- We will issue certificate listing the courses each participant has attendeed in-full
-  - a participant will need to attend all Zoom sessions (with the exclusion of the debugging sessions) in at least one course to get a certificate
+- Certificates:
+  - we will issue certificates listing the courses each participant has attended in full
+  - a course is considered attended in full when a participant attends all Zoom sessions in that course (debugging sessions do not count as Zoom sessions)
 <!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 WestGrid Central courses:
