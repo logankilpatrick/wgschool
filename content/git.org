@@ -1,7 +1,8 @@
 #+title: Version control with Git
 #+slug: git
 
-Readings, videos, and practice sessions are self-directed, but they are prerequisites for the Zoom sessions.
+Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
+The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
 *Day 1*
 {{< zoom >}}
@@ -26,10 +27,10 @@ In this session, I will go over this week's Git program and we will get to know 
 {{< /video >}}
 
 *Day 2*
-{{< zoom >}}
-{{< link url="https://westgrid-cli.netlify.com/school/git-04-debug.html" text="(Debugging session for those having issues installing or configuring Git)" >}}<br>
+{{< debug >}}
+{{< link url="https://westgrid-cli.netlify.com/school/git-04-debug.html" text="Issues installing or configuring Git" >}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.com/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
-{{< /zoom >}}
+{{< /debug >}}
 
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.com/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
