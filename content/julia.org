@@ -1,9 +1,14 @@
 #+title: Programming in Julia
 #+slug: julia
 
-{{< video >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="WestGrid Summer School Julia lesson (2 min)" >}}
-{{< /video >}}
+Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
+The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
+
+*Day 1*
+{{< zoom >}}
+{{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson" >}}<br>
+In this session, I will go over the program for our Julia lesson and we will get to know each other.
+{{< /zoom >}}
 
 {{< external >}}
 <u>Documentation:</u>

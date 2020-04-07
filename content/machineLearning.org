@@ -1,9 +1,14 @@
 #+title: Introduction to PyTorch
 #+slug: ml
 
-{{< video >}}
-{{< link url="https://westgrid-ml.netlify.com/school/pt-01-intro.html" text="WestGrid Summer School PyTorch lesson (2 min)" >}}
-{{< /video >}}
+Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
+The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
+
+*Day 1*
+{{< zoom >}}
+{{< link url="https://westgrid-ml.netlify.com/school/pt-01-intro.html" text="Introduction to WestGrid Summer School PyTorch lesson" >}}<br>
+I will go over the program for our ML lesson with PyTorch and we will introduce each other.
+{{< /zoom >}}
 
 {{< external >}}
 <u>Documentation:</u>
@@ -18,4 +23,3 @@
 <br>
 <a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
 {{< /external >}}
-
