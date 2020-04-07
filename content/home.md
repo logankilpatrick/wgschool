@@ -20,21 +20,21 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
   - format: mix of reading materials, pre-recorded videos, takeaway exercises, and Zoom sessions
 - To simplify logistics, we will not have parallel courses
 - Zoom sessions:
-  - each course will have several short (1-1.5 hours) hands-on sessions, their number and length
+  - each course will have several short (1-1.5 hours) Zoom sessions, their number and length
     determined by each instructor
   - no cap, but participants can instead register for repeats of the most popular courses
   - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use socrative with names
   - if a participant does not cancel at least 48 hours in advance and does not attend a session in full,
-    they will forfeit any further online hands-on sessions in this school, with exceptions for the current
+    they will forfeit any further online Zoom sessions in this school, with exceptions for the current
     circumstances and network/hardware failures (in these cases have to let us know via email - see email
     wording from Marie from Mar-30)
-  - we will not be recording the hands-on sessions
-  - advertise the hands-on session links only to registered participants
+  - we will not be recording the Zoom sessions
+  - advertise the Zoom session and Debug session links only to registered participants
 - Requirements for participants:
-  - must read/watch dependency materials before each hands-on session
+  - must read/watch dependency materials before each Zoom session
   - must install and test software dependencies before the early software installation meetup, and must
     attend the meetup in case of problems
-  - we will not be debugging software installations during the actual hands-on sessions
+  - we will not be debugging software installations during the actual Zoom sessions. Instead, there will be special debugging sessions only for those having technical issues
 - Suggestions to participants:
   - be prepared to share your screen for debugging sessions
     - everyone will benefit from your debugging session
@@ -42,7 +42,7 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
   - turn on your video
   - use a good headset/microphone
 - We will issue certificate listing the courses each participant has attendeed in-full
-  - a participant will need to attend all hands-on sessions in at least one course to get a certificate
+  - a participant will need to attend all Zoom sessions (with the exclusion of the debugging sessions) in at least one course to get a certificate
 <!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 WestGrid Central courses:
