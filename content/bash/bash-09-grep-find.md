@@ -4,7 +4,7 @@ slug = "bash-09-grep-find"
 weight = 9
 +++
 
-## Finding things
+## Searching inside files with `grep` (4 min)
 
 <!-- ~~~ {.bash} -->
 <!-- $ cd ~/Desktop/data-shell/writing -->
@@ -32,7 +32,10 @@ weight = 9
 
 <!-- > **Quiz 12:** grep command. -->
 
-09-grep.mkv
+<!-- 09-grep.mkv -->
+{{< yt mbZ8nB-V4zQ laptop >}}
+
+## Finding files with `find` (5 min)
 
 <!-- Now on to finding files: -->
 <!-- ~~~ {.bash} -->
@@ -61,9 +64,11 @@ weight = 9
 <!-- > **Exercise:** write a function 'countFiles()' that counts the number of files in each directory that -->
 <!-- > you pass to it and prints it after the directory name. -->
 
-09-find.mkv
+<!-- 09-find.mkv -->
+{{< yt AnwsnESj82Q laptop >}}
 
-<!-- ## Running a command on the results of *find* -->
+## Combining `find` and `grep` (4 min)
+<!-- ## Running a command on the results of `find` -->
 
 <!-- You always can do something like this: -->
 
@@ -82,4 +87,5 @@ weight = 9
 
 <!-- -- this will run the command on each item in the output of find. -->
 
-09-findgrep.mkv
+<!-- 09-findgrep.mkv -->
+{{< yt aFrMKkjMIHY laptop >}}

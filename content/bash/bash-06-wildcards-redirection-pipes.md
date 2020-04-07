@@ -1,10 +1,10 @@
 +++
-title = "Wildcards, redirection to files, and pipes"
+title = "Tapping the power of Unix"
 slug = "bash-06-wildcards-redirection-pipes"
 weight = 6
 +++
 
-<!-- # Wildcards, redirection to files, and pipes -->
+## Wildcards, redirection to files, and pipes (8 min)
 
 <!-- * open http://bit.ly/bashfile in your browser, it'll download the file bfiles.zip -->
 <!-- * unpack bfiles.zip to your Desktop; you should see ~/Desktop/data-shell -->
@@ -27,7 +27,10 @@ weight = 6
 
 <!-- Standard input of a process. Standard output of a process. Pipes connect the two. -->
 
-06-pipes.mkv
+Covered topics: working with multiple files using wildmasks, standard output redirection to a file,
+constructing complex commands with Unix pipes.
+<!-- 06-pipes.mkv -->
+{{< yt lueQ-KxLFYI laptop >}}
 
 <!-- > **Exercise:** build a single command to show the lenth of the longest (number of lines) file -->
 

@@ -4,7 +4,7 @@ slug = "bash-08-scripts-functions"
 weight = 8
 +++
 
-## Shell Scripts
+## Shell scripts (9 min + 3 min)
 
 We now know a lot of UNIX commands! Wouldn't it be great if we could save certain commands so that we
 could run them later or not have to type them out again? As it turns out, this is extremely easy to
@@ -48,9 +48,13 @@ whenever we want, and are a great way to automate our work.
 <!-- > propane.pdb", for each file prints the number of lines and its first five lines, and separates the -->
 <!-- > output from different files by an empty line. -->
 
-08-scripts.mkv
+<!-- 08-scripts.mkv -->
+{{< yt UGZI6_HDyDc laptop >}}
 
-08-script-molecules.mkv
+Here is a an example of processing files with scripts:
+
+<!-- 08-script-molecules.mkv -->
+{{< yt rNnrcqkhXQo laptop >}}
 
 
 
@@ -104,7 +108,9 @@ whenever we want, and are a great way to automate our work.
 
 <!-- > **Exercise:** write a script that complains when it does not receive arguments. -->
 
-## Variables
+
+
+## Variables (7 min)
 
 <!-- We already saw variables that were specific to scripts ($1, $@, ...) and to loops ($file). Variables can be used -->
 <!-- outside of scripts: -->
@@ -151,9 +157,13 @@ whenever we want, and are a great way to automate our work.
 <!-- It is best to define custom environment variables inside your ~/.bashrc file. It is loaded every time you -->
 <!-- start a new shell. -->
 
-08-variables.mkv
+<!-- 08-variables.mkv -->
+{{< yt nNf4Xb56yEs laptop >}}
 
-## Functions
+
+
+
+## Functions (13 min)
 
 <!-- Like in any programming language, in bash a function is a block of code that you can access by its -->
 <!-- name. The syntax is: -->
@@ -206,4 +216,5 @@ whenever we want, and are a great way to automate our work.
 
 <!-- > **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory. -->
 
-08-functions.mkv
+<!-- 08-functions.mkv -->
+{{< yt gSCRWUG9fy4 laptop >}}

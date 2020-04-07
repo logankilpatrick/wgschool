@@ -4,13 +4,13 @@ slug = "bash-11-other"
 weight = 11
 +++
 
-# Fuzzy finder `fzf`
+# Fuzzy finder (6 min)
 
-* third-party tool, not installed by default
-* basic usage: interactive processing of standard input
-* advanced usage: key bindings and fuzzy completion
+Fuzzy finder `fzf` is a third-party tool, not installed by default. With basic usage, it does interactive
+processing of standard input. At a more advanced level (not covered in the video below), it provides key
+bindings and fuzzy completion.
 
-On cassiopeia.c3.ca you can install it into your $HOME with:
+On cassiopeia.c3.ca you can source it from `/project/shared`.
 
 <!-- ~~~ {.bash} -->
 <!-- $ source /project/shared/fzf/.fzf.bash     # each user in each shell or put it into your ~/.bashrc -->
@@ -20,14 +20,15 @@ On cassiopeia.c3.ca you can install it into your $HOME with:
 <!-- $ e `find ~/Documents/ -type f | fzf` -->
 <!-- ~~~ -->
 
-11-fzf.mkv
+<!-- 11-fzf.mkv -->
+{{< yt Mq6Vs9v_VAI laptop >}}
 
 # Other advanced bash topics
 
-- exercise: write a function to compare two directories
-- sed, awk
-- arithmetics
+If there is interest, we could explore some other topics:
+
+<!-- - arithmetics -->
 - permissions
 - how to control processes
-- GNU_Parallel
-- homebrew if enough Macs
+- Homebrew if enough Macs
+<!-- - GNU Parallel -->

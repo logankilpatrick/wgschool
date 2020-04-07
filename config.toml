@@ -155,8 +155,3 @@ disqusShortname = "yourdiscussshortname"
 	    name = "📬"
 	    weight = 10
 	    url  = "mailto:training@westgrid.ca"
-
-            [[languages.en.menu.main]]
-	    name = "S"
-	    weight = 11
-	    url  = "schedule/"

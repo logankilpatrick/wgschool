@@ -4,7 +4,7 @@ slug = "bash-05-file-transfer"
 weight = 5
 +++
 
-## Transferring files and folders with `scp`
+## Transferring files and folders with `scp` (5 min)
 
 <!-- To copy a single file to/from the cluster, we can use `scp`: -->
 
@@ -14,7 +14,8 @@ weight = 5
 <!-- [local]$ scp userXXX@cassiopeia.c3.ca:/path/on/remote/computer/file.txt /path/to/local/ -->
 <!-- ~~~ -->
 
-05-scp.mkv
+<!-- 05-scp.mkv -->
+{{< yt 6iqwJWGJ6es laptop >}}
 
 To recursively copy a directory, we just add the `-r` (recursive) flag:
 
@@ -35,10 +36,11 @@ download/upload buttons.
 > **Exercise:** try to transfer a file from your laptop to the cluster. Then try moving another file in
 > the opposite direction.
 
+
+
+
+
 ## Transferring files interactively with `sftp`
-
-
-
 
 `scp` is useful, but what if we don't know the exact location of what we want to transfer? Or perhaps
 we're simply not sure which files we want to transfer yet. `sftp` is an interactive way of downloading
