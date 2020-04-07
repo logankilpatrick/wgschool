@@ -4,9 +4,10 @@ slug = "bash-10-text-manipulation"
 weight = 10
 +++
 
-## Text manipulation (DH part: the invisible man)
+## Text manipulation (11 min)
+<!-- (DH part: the invisible man) -->
 
-(This example was copied from John Simpson.)
+(This example was kindly provided by John Simpson.)
 
 In this section we'll use two tools for text manipulation: *sed* and *tr*. Our goal is to calculate the
 frequency of all dictionary words in the novel "The Invisible Man" by Herbert Wells (public
@@ -78,11 +79,8 @@ domain). First, let's apply our knowledge of grep to this text:
 <!-- > wellsInvisibleMan.txt`. The script should not leave any intermediate files. Or even better, write a -->
 <!-- > function 'countWords()' taking a text file name as an argument. -->
 
-
-
-10-textManipulation.mkv
-
-
+<!-- 10-textManipulation.mkv -->
+{{< yt 4IkHY84uUss laptop >}}
 
 
 
@@ -90,7 +88,9 @@ domain). First, let's apply our knowledge of grep to this text:
 
 
 
-## Column-based text processing with `awk` scripting language
+
+
+## Column-based text processing with `awk` scripting language (8 min)
 
 <!-- ~~~ {.bash} -->
 <!-- cd .../data-shell/writing -->
@@ -146,4 +146,5 @@ domain). First, let's apply our knowledge of grep to this text:
 <!-- > population and store it in a separate file `populations.csv`. Try to do everything in a single-line -->
 <!-- > command. -->
 
-10-awk.mkv
+<!-- 10-awk.mkv -->
+{{< yt BMrL7zoyJH8 laptop >}}

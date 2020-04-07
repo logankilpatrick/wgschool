@@ -8,8 +8,8 @@ Introduction to Linux command line
 This workshop mixes [Software Carpentry](https://software-carpentry.org) materials with WestGrid's custom
 training.
 
-* online notes (required reading)
-* 3 one-hour hands-on sessions
+* online reading and videos
+* three 1-1.5-hour hands-on sessions
 
 - [Introduction](../bash/bash-01-intro)
 - [Navigating the filesystem](../bash/bash-02-filesystem)

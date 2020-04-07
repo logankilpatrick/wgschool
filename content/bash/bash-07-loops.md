@@ -4,7 +4,7 @@ slug = "bash-07-loops"
 weight = 7
 +++
 
-<!-- # Loops -->
+# Bash loops (9 min)
 
 <!-- ~~~ {.bash} -->
 <!-- $ cd ~/Desktop/data-shell/creatures -->
@@ -86,4 +86,5 @@ weight = 7
 <!-- $ for ((i=1; i<=5; i++)) do echo $i; done   # can use C-style loops -->
 <!-- ~~~ -->
 
-07-loops.mkv
+<!-- 07-loops.mkv -->
+{{< yt cCunoOIksAE laptop >}}
