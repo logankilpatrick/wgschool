@@ -13,6 +13,10 @@ week of June 22nd | Git | Git | Other | Other | Other |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repeat ML |
 
+Other confirmed:
+- 'Singularity' by Grigory Shamov
+
+Notes:
 - Eventbrite registration will open to participants from all WG institutions in late April - early May
   - participants will register for individual courses
 - Format: self-paced learning (mix of reading materials, pre-recorded videos, takeaway exercises) and Zoom sessions
@@ -64,20 +68,20 @@ WestGrid Central courses:
 - [Version control with Git](../git)
 - [Introduction to Project Jupyter](../jupyter)
 
-Site courses:
-- 'Gromacs and NAMD code optimization' by Olivier Fisette
-- 'Intro to Sockeye cluster' by Roman Baranowski
-- 'CC cloud' by Venkat Mahadevan
-- 'Docker in your VM' by Jacob Boschee
-- 'Introduction to databases on Cedar' by Wolfgang Richter
-- 'Software Installation' by Ali Kerrache
-- 'Virtual Machines in CC cloud' by Grigory Shamov
-- 'Singularity' by Grigory Shamov
+<!-- Site courses: -->
+<!-- - 'Gromacs and NAMD code optimization' by Olivier Fisette -->
+<!-- - 'Intro to Sockeye cluster' by Roman Baranowski -->
+<!-- - 'CC cloud' by Venkat Mahadevan -->
+<!-- - 'Docker in your VM' by Jacob Boschee -->
+<!-- - 'Introduction to databases on Cedar' by Wolfgang Richter -->
+<!-- - 'Software Installation' by Ali Kerrache -->
+<!-- - 'Virtual Machines in CC cloud' by Grigory Shamov -->
+<!-- - 'Singularity' by Grigory Shamov -->
 
-Third-party courses:
-- GPU-related by NVIDIA
-- Amazon's Cloud
-- Bioinformatics session by Phillip Richmond, Matthew Douglas, Brian McConeghy
-- 'MATLAB Parallel Computing', tentatively by Sam Marshalik
-- 'Practical Applications of Deep Learning with MATLAB', tentatively by Reece Teramoto
-- 'Jupyter Notebooks' by Ian Allison
+<!-- Third-party courses: -->
+<!-- - GPU-related by NVIDIA -->
+<!-- - Amazon's Cloud -->
+<!-- - Bioinformatics session by Phillip Richmond, Matthew Douglas, Brian McConeghy -->
+<!-- - 'MATLAB Parallel Computing', tentatively by Sam Marshalik -->
+<!-- - 'Practical Applications of Deep Learning with MATLAB', tentatively by Reece Teramoto -->
+<!-- - 'Jupyter Notebooks' by Ian Allison -->
