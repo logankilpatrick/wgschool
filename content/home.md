@@ -21,8 +21,8 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
 - Zoom sessions:
   - each course will have several short (1-1.5 hours) hands-on sessions
   - their number and length determined by each instructor
-  - live debugging sessions (Software Carpentry style) in which all participants are expected to follow
-    the instructions and do exercises
+  - live Zoom sessions (Software Carpentry style) in which all participants are expected to follow the
+    instructions and do exercises
   - no registration cap (we considered a cap + repeats, but that would be a nightmare to schedule)
   - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use
     socrative with names
@@ -33,19 +33,25 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
   <!--   wording from Marie from Mar-30) -->
   - will not be recorded
   - links will be advertised only to registered participants
+  - we will NOT be debugging software installations during the actual Zoom sessions as this will be done
+    in special debugging sessions (see below)
+- Debugging sessions:
+  - these sessions are not considered part of the actual course and only participants with technical
+    difficulties should attend them
+  - be prepared to share your screen during debugging sessions: it will help us help you and help others
+    with similar issues
+  - links will be advertised only to registered participants
 - Requirements for participants:
-  - must read/watch dependency materials before each hands-on session
-  - must install and test software dependencies before the early software installation meetup, and must
-    attend the meetup in case of problems
-  - we will not be debugging software installations during the actual hands-on sessions
+  - must read/watch preceding materials before each Zoom session
+  - must attend debugging sessions in case of problem with software installation
 - Suggestions to participants:
-  - be prepared to share your screen for debugging sessions
-    - everyone will benefit from your debugging session
-  - use a dual-screen setup: presenter's materials on one screen, your workspace on another
+  - use a dual-screen setup if possible: presenter's materials on one screen, your workspace on another
   - turn on your video
   - use a good headset/microphone
-- We will issue certificate listing the courses each participant has attendeed in-full
-  - a participant will need to attend all hands-on sessions in at least one course to get a certificate
+- Certificates:
+  - we will issue certificates listing the courses each participant has attended in full
+  - a course is considered attended in full when a participant attends all Zoom sessions in that course
+    (debugging sessions do not count as Zoom sessions)
 <!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 WestGrid Central courses:
