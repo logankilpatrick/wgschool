@@ -8,28 +8,31 @@ slug = "home"
 week of May 25th | Bash | Bash | HPC | HPC | HPC |
 week of June 1st | SciVis | SciVis | Chapel | Chapel | Chapel |
 week of June 8th | Julia | Julia | ML | ML | ML |
-week of June 15th | Jupyter | (TECC) | (TECC) | (TECC) | Other |
-week of June 22nd | Git | Git | Git | Other | Other |
+week of June 15th | Jupyter | Other | Other | Other | Other |
+week of June 22nd | Git | Git | Other | Other | Other |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repeat ML |
 
-- Eventbrite registration link
-  - will publish the link in late April - early May
-  - open to participants from all WG institutions
-  - separate morning and afternoon tracks
-  - format: mix of reading materials, pre-recorded videos, takeaway exercises, and Zoom sessions
-- To simplify logistics, we will not have parallel courses
+- Eventbrite registration will open to participants from all WG institutions in late April - early May
+  - participants will register for individual courses
+- Format: self-paced learning (mix of reading materials, pre-recorded videos, takeaway exercises) and Zoom sessions
+- To simplify logistics, we will not have parallel courses (single track)
+- Few most popular courses will repeat towards the end
 - Zoom sessions:
-  - each course will have several short (1-1.5 hours) hands-on sessions, their number and length
-    determined by each instructor
-  - no cap, but participants can instead register for repeats of the most popular courses
-  - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use socrative with names
-  - if a participant does not cancel at least 48 hours in advance and does not attend a session in full,
-    they will forfeit any further online hands-on sessions in this school, with exceptions for the current
-    circumstances and network/hardware failures (in these cases have to let us know via email - see email
-    wording from Marie from Mar-30)
-  - we will not be recording the hands-on sessions
-  - advertise the hands-on session links only to registered participants
+  - each course will have several short (1-1.5 hours) hands-on sessions
+  - their number and length determined by each instructor
+  - live debugging sessions (Software Carpentry style) in which all participants are expected to follow
+    the instructions and do exercises
+  - no registration cap (we considered a cap + repeats, but that would be a nightmare to schedule)
+  - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use
+    socrative with names
+  <!-- participants can instead register for repeats of the most popular courses -->
+  <!-- - if a participant does not cancel at least 48 hours in advance and does not attend a session in full, -->
+  <!--   they will forfeit any further online hands-on sessions in this school, with exceptions for the current -->
+  <!--   circumstances and network/hardware failures (in these cases have to let us know via email - see email -->
+  <!--   wording from Marie from Mar-30) -->
+  - will not be recorded
+  - links will be advertised only to registered participants
 - Requirements for participants:
   - must read/watch dependency materials before each hands-on session
   - must install and test software dependencies before the early software installation meetup, and must
