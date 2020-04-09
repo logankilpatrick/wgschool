@@ -36,7 +36,7 @@ Covered topics: `pwd`, `ls`, absolute vs. relative paths, command flags, `cd`, p
 <!-- {{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="Navigating directories (6m31s)" >}} -->
 <!-- {{< /video >}} -->
 <!-- 02-navigating.mkv -->
-{{< yt 96Hc_sLKi-k laptop >}}
+{{< yt OjbecASHm2k laptop >}}
 
 ## Getting help (3 min)
 
@@ -61,4 +61,4 @@ Covered topics: `man`, navigating manual pages, `--help` flag.
 <!-- > **Quiz 4:** Multiple ways to return to the home directory. -->
 
 <!-- 02-help.mkv -->
-{{< yt BlT97Vvi3E0 laptop >}}
+{{< yt EAp3Xze1TZ0 laptop >}}

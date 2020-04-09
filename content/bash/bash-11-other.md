@@ -1,8 +1,11 @@
 +++
-title = "Other"
+title = "Other topics"
 slug = "bash-11-other"
 weight = 11
 +++
+
+This page covers tools that we do not normally teach in our Linux command line introduction but we would
+like to mention as we find them useful.
 
 # Fuzzy finder (6 min)
 
