@@ -10,6 +10,14 @@ The debugging session is not part of the lesson, but there in case someone is st
 I will go over the program for our ML lesson with PyTorch and we will introduce each other.
 {{< /zoom >}}
 
+
+
+*Day 2*
+{{< debug >}}
+{{< link url="https://westgrid-ml.netlify.com/school/pt-04-debug.html" text="Issues xxxxx" >}}<br>
+Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-ml.netlify.com/school/pt-xx-xxx.html">xxx</a> and have already tried everything you could on your own.
+{{< /debug >}}
+
 {{< external >}}
 <u>Documentation:</u>
 <br>
