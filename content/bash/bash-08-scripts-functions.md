@@ -165,6 +165,13 @@ Here is a an example of processing files with scripts:
 
 ## Functions (13 min)
 
+Functions are similar to scripts, except that we reference a function by its name. Therefore, once
+defined, a function can be run in any directory, whereas running a script in another directory requires
+its path.
+
+A convenient place to put all your function definitions is `~/.bashrc` file which is run every time you
+start a new shell (local or remote).
+
 <!-- Like in any programming language, in bash a function is a block of code that you can access by its -->
 <!-- name. The syntax is: -->
 
