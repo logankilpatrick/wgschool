@@ -6,51 +6,51 @@ The debugging session is not part of the lesson, but there in case someone is st
 
 *Day 1*
 {{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson" >}}<br>
+{{< link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson" >}}<br>
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
 {{< /zoom >}}
 
 {{< reading >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-02-why.html" text="Why another programming language?" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-02-why.html" text="Why another programming language?" >}}
 {{< /reading >}}
 
 {{< practice >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-03-install.html" text="Installing Julia and getting started" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-03-install.html" text="Installing Julia and getting started" >}}
 {{< /practice >}}
 
 {{< video >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-04-repl.html" text="The Julia REPL" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-04-repl.html" text="The Julia REPL" >}}
 {{< /video >}}
 
 {{< practice >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-05-pkg.html" text="Packages" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-05-pkg.html" text="Packages" >}}
 {{< /practice >}}
 
 *Day 2*
 {{< debug >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-06-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
-Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.com/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
+{{< link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
+Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
 {{< /debug >}}
 
 {{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-07-var.html" text="Variables and types" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types" >}}
 {{< /zoom >}}
 
 {{< reading >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-08-fun.html" text="Functions and macros" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros" >}}
 {{< /reading >}}
 
 {{< practice >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-09-plots.html" text="Plotting in Julia" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting in Julia" >}}
 {{< /practice >}}
 
 *Day 3*
 {{< video >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-10-parallel.html" text="Parallel programming" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming" >}}
 {{< /video >}}
 
 {{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.com/school/jl-11-distributed.html" text="Distributed computing" >}}
+{{< link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing" >}}
 {{< /zoom >}}
 
 {{< external >}}
