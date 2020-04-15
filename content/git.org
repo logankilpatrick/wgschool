@@ -58,5 +58,6 @@ This session will close our WestGrid Summer School Git lesson.
 
 {{< external >}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
-<a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a>
+<a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a><br>
+<a href="https://www.atlassian.com/git/tutorials/setting-up-a-repository">Git tutorials by Atlassian, the owner of Bitbucket</a>
 {{< /external >}}
