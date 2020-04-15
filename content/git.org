@@ -19,22 +19,22 @@ In this session, I will go over the program for our Git lesson and we will get t
 {{< /practice >}}
 
 {{< reading >}}
-{{< link url="https://westgrid-cli.netlify.app/school/git-05-man.html" text="Man pages" >}}
+{{< link url="https://westgrid-cli.netlify.app/school/git-04-man.html" text="Man pages" >}}
 {{< /reading >}}
 
 {{< video >}}
-{{< link url="https://westgrid-cli.netlify.app/school/git-06-basics.html" text="Git basics: understanding the core concepts of repositories" >}}
+{{< link url="https://westgrid-cli.netlify.app/school/git-05-basics.html" text="Git basics: understanding the core concepts of repositories" >}}
 {{< /video >}}
 
 *Day 2*
 {{< debug >}}
-{{< link url="https://westgrid-cli.netlify.app/school/git-04-debug.html" text="Issues installing or configuring Git" >}}<br>
+{{< link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git" >}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
 {{< /debug >}}
 
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
-Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-06-basics.html">Git basics</a> before joining this interactive session.
+Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics</a> before joining this interactive session.
 {{< /zoom >}}
 
 {{< reading >}}
