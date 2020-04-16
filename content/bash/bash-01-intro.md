@@ -65,5 +65,4 @@ Let's log in to *cassiopeia.c3.ca* using a username userXXX (where XXX=001..118)
 Please enter the password when prompted. Note that no characters will be shown when typing the
 password. If you make a mistake, you will have to start your connection from scratch.
 
-Once connected, compare the prompt on the local and remote systems -- their difference lets you
-distinguish the two shells.
+Once connected, compare the prompt on the local and remote systems -- do you notice any difference?
