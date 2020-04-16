@@ -37,9 +37,9 @@ Please only sign up for this session if you have carefully followed the session 
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics</a> before joining this interactive session.
 {{< /zoom >}}
 
-{{< reading >}}
+{{< practice >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-08-recovering.html" text="Going back in time" >}}
-{{< /reading >}}
+{{< /practice >}}
 
 {{< practice >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-09-branches.html" text="Working with branches" >}}
