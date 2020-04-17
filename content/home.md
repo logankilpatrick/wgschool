@@ -8,8 +8,8 @@ slug = "home"
 week of May 25th | Bash | Bash | HPC | HPC | HPC |
 week of June 1st | SciVis | SciVis | Chapel | Chapel | Chapel |
 week of June 8th | Julia | Julia | Julia | ML | ML |
-week of June 15th | Jupyter | Other | Bioinfo | Bioinfo | Bioinfo |
-week of June 22nd | Git | Git | Other | Other | Other |
+week of June 15th | Gromacs | Other | Bioinfo | Bioinfo | Bioinfo |
+week of June 22nd | Git | Git | Databases | Databases | Jupyter |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repeat ML |
 
@@ -23,8 +23,8 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
 <!-- - [Introduction to Project Jupyter](../jupyter) -->
 
 Other:
-- confirmed: 'Singularity' by Grigory Shamov, 'Databases on Cedar' by Alex Lopes and Wolfgang Richter
-- likely: 'Gromacs and NAMD code optimization' by Olivier Fisette
+- confirmed: *Singularity* by Grigory Shamov, *Databases on Cedar* by Alex Lopes and Wolfgang Richter,
+  *Gromacs simulation optimisation* by Olivier Fisette
 - maybe: MATLAB topics, UBC courses
 
 Instructors:
