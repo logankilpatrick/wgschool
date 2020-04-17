@@ -10,9 +10,9 @@ Introduction to Linux command line -- this workshop mixes
 <!-- - most of this time: watching pre-recorded videos and doing exercises on their own -->
 <!-- - set the pace through 1hr-long Zoom sessions -->
 
-*Day 1*
+**Day 1**
 {{< zoom >}}
-**9am-10am Pacific** In this session, I will introduce myself, will review the program for today and
+<b>9am-10am Pacific</b> In this session, I will introduce myself, will review the program for today and
 distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
 exercises.
 {{< /zoom >}}
@@ -46,12 +46,12 @@ exercises.
 {{< /video >}}
 
 {{< zoom >}}
-**2pm-3pm Pacific** We will go together through the challenges, do some exercises, and debug problems.
+<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
 {{< /zoom >}}
 
-*Day 2*
+**Day 2**
 {{< zoom >}}
-**9am-10am Pacific** In this session, I will cover the program for today, answer any questions and
+<b>9am-10am Pacific</b> In this session, I will cover the program for today, answer any questions and
 share the afternoon exercises.
 {{< /zoom >}}
 
@@ -72,6 +72,6 @@ share the afternoon exercises.
 {{< /video >}}
 
 {{< zoom >}}
-**2pm-3pm Pacific** We will go together through the challenges, do some exercises, debug problems, and
+<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
 wrap up the course.
 {{< /zoom >}}
