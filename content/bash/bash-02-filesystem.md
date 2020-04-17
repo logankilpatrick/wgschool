@@ -62,4 +62,5 @@ Covered topics: `man`, navigating manual pages, `--help` flag.
 <!-- > **Quiz 4:** Multiple ways to return to the home directory. -->
 
 <!-- 02-help.mkv -->
+
 {{< yt EAp3Xze1TZ0 laptop >}}
