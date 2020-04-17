@@ -27,7 +27,7 @@ Covered topics: creating directories with `mkdir`, using `nano` text editor, del
 <!-- Also could do 'rm -r thesis' in lieu of the last two commands. -->
 
 <!-- 03-creating.mkv -->
-{{< yt _tJyfkG-_KA laptop >}}
+{{< yt _tJyfkG-_KA 63 >}}
 
 ## Moving and copying things (4 min)
 
@@ -69,4 +69,4 @@ Covered topics: `mv` and `cp`.
 <!-- > **Quiz 6:** What is the output of the closing `ls` command in the sequence shown below? -->
 
 <!-- 03-moving.mkv -->
-{{< yt QJGmgfwgBLk laptop >}}
+{{< yt QJGmgfwgBLk 63 >}}

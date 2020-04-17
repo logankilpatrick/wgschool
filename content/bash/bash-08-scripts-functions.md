@@ -49,12 +49,12 @@ whenever we want, and are a great way to automate our work.
 <!-- > output from different files by an empty line. -->
 
 <!-- 08-scripts.mkv -->
-{{< yt UGZI6_HDyDc laptop >}}
+{{< yt UGZI6_HDyDc 63 >}}
 
 Here is a an example of processing files with scripts:
 
 <!-- 08-script-molecules.mkv -->
-{{< yt rNnrcqkhXQo laptop >}}
+{{< yt rNnrcqkhXQo 63 >}}
 
 
 
@@ -158,7 +158,7 @@ Here is a an example of processing files with scripts:
 <!-- start a new shell. -->
 
 <!-- 08-variables.mkv -->
-{{< yt nNf4Xb56yEs laptop >}}
+{{< yt nNf4Xb56yEs 63 >}}
 
 
 
@@ -224,4 +224,4 @@ start a new shell (local or remote).
 <!-- > **Exercise:** write the reverse function unarchive() that replaces a gzipped tarball with a directory. -->
 
 <!-- 08-functions.mkv -->
-{{< yt gSCRWUG9fy4 laptop >}}
+{{< yt gSCRWUG9fy4 63 >}}

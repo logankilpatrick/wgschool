@@ -33,7 +33,7 @@ weight = 9
 <!-- > **Quiz 12:** grep command. -->
 
 <!-- 09-grep.mkv -->
-{{< yt mbZ8nB-V4zQ laptop >}}
+{{< yt mbZ8nB-V4zQ 63 >}}
 
 ## Finding files with `find` (5 min)
 
@@ -65,7 +65,7 @@ weight = 9
 <!-- > you pass to it and prints it after the directory name. -->
 
 <!-- 09-find.mkv -->
-{{< yt AnwsnESj82Q laptop >}}
+{{< yt AnwsnESj82Q 63 >}}
 
 ## Combining `find` and `grep` (4 min)
 <!-- ## Running a command on the results of `find` -->
@@ -88,4 +88,4 @@ weight = 9
 <!-- -- this will run the command on each item in the output of find. -->
 
 <!-- 09-findgrep.mkv -->
-{{< yt aFrMKkjMIHY laptop >}}
+{{< yt aFrMKkjMIHY 63 >}}

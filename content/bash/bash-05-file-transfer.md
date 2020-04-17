@@ -15,7 +15,7 @@ weight = 5
 <!-- ~~~ -->
 
 <!-- 05-scp.mkv -->
-{{< yt 6iqwJWGJ6es laptop >}}
+{{< yt 6iqwJWGJ6es 63 >}}
 
 To recursively copy a directory, we just add the `-r` (recursive) flag:
 

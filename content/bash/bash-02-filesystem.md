@@ -37,7 +37,7 @@ Covered topics: `pwd`, `ls`, absolute vs. relative paths, command flags, `cd`, p
 <!-- {{< /video >}} -->
 <!-- 02-navigating.mkv -->
 
-{{< yt OjbecASHm2k laptop >}}
+{{< yt OjbecASHm2k 63 >}}
 
 ## Getting help (3 min)
 

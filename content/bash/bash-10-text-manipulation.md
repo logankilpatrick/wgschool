@@ -80,7 +80,7 @@ domain). First, let's apply our knowledge of grep to this text:
 <!-- > function 'countWords()' taking a text file name as an argument. -->
 
 <!-- 10-textManipulation.mkv -->
-{{< yt 4IkHY84uUss laptop >}}
+{{< yt 4IkHY84uUss 63 >}}
 
 
 
@@ -147,4 +147,4 @@ domain). First, let's apply our knowledge of grep to this text:
 <!-- > command. -->
 
 <!-- 10-awk.mkv -->
-{{< yt BMrL7zoyJH8 laptop >}}
+{{< yt BMrL7zoyJH8 63 >}}

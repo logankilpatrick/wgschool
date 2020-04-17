@@ -30,7 +30,7 @@ weight = 6
 Covered topics: working with multiple files using wildmasks, standard output redirection to a file,
 constructing complex commands with Unix pipes.
 <!-- 06-pipes.mkv -->
-{{< yt lueQ-KxLFYI laptop >}}
+{{< yt lueQ-KxLFYI 63 >}}
 
 <!-- > **Exercise:** build a single command to show the lenth of the longest (number of lines) file -->
 
