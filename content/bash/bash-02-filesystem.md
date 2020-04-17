@@ -36,6 +36,7 @@ Covered topics: `pwd`, `ls`, absolute vs. relative paths, command flags, `cd`, p
 <!-- {{< link url="https://westgrid-julia.netlify.com/school/jl-01-intro.html" text="Navigating directories (6m31s)" >}} -->
 <!-- {{< /video >}} -->
 <!-- 02-navigating.mkv -->
+
 {{< yt OjbecASHm2k laptop >}}
 
 ## Getting help (3 min)
