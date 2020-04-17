@@ -49,12 +49,13 @@ constructing complex commands with Unix pipes.
 Aliases are one-line shortcuts/abbreviation to avoid typing a longer command, e.g.
 
 ~~~ {.bash}
-$ alias cp='cp -i'
-$ alias mv='mv -i'
 $ alias ls='ls -aFh'
+$ alias pwd='pwd -P'
 $ alias hi='history'
+$ alias top='top -o cpu -s 10 -stats "pid,command,cpu,mem,threads,state,user"'
 $ alias cedar='ssh -Y cedar.computecanada.ca'
 $ alias weather='curl wttr.in/vancouver'
+$ alias cal='gcal --starting-day=1'  # starts on Monday
 ~~~
 
 Now, instead of typing `ssh -Y cedar.computecanada.ca`, you can simply type `cedar`. To see all your
