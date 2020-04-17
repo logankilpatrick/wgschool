@@ -68,25 +68,3 @@ Covered topics: `man`, navigating manual pages, `--help` flag.
 {{< ytt EAp3Xze1TZ0 63 >}}
 
 <!-- {{< youtube EAp3Xze1TZ0 >}} -->
-
-
-
-
-<!-- saldhsakjjhkd -->
-
-<!-- <div style="position: relative; padding-bottom: 63%; overflow: hidden;"> -->
-<!--     <iframe style="position: absolute; width: 100%; height: 100%;" -->
-<!--         src="http://www.youtube.com/embed/EAp3Xze1TZ0" allowfullscreen frameborder="0"> -->
-<!--     </iframe> -->
-<!-- </div> -->
-
-<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> -->
-<!-- 	<iframe src="https://www.youtube.com/embed/EAp3Xze1TZ0" style="position: absolute; top: 0; left: 0; -->
-<!-- 	width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe> -->
-<!-- </div> -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="720" height="405" src="https://www.youtube.com/embed/js4KgC_Jucs" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
