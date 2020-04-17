@@ -22,26 +22,11 @@ exercises.
 {{< /reading >}}
 
 {{< video >}}
-{{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-03-creating-moving-copying" text="Creating, moving and copying things" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-04-tar-gzip" text="Archives and compression" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-05-file-transfer" text="Transferring files and directories to/from remote computers" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-06-wildcards-redirection-pipes" text="Wildcards, redirection to files, pipes, and aliases" >}}
-{{< /video >}}
-
-{{< video >}}
+{{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem" >}}<br>
+{{< link url="../bash/bash-03-creating-moving-copying" text="Creating, moving and copying things" >}}<br>
+{{< link url="../bash/bash-04-tar-gzip" text="Archives and compression" >}}<br>
+{{< link url="../bash/bash-05-file-transfer" text="Transferring files and directories to/from remote computers" >}}<br>
+{{< link url="../bash/bash-06-wildcards-redirection-pipes" text="Wildcards, redirection to files, pipes, and aliases" >}}<br>
 {{< link url="../bash/bash-07-loops" text="Loops" >}}
 {{< /video >}}
 
@@ -56,18 +41,9 @@ share the afternoon exercises.
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find`" >}}
-{{< /video >}}
-
-{{< video >}}
-{{< link url="../bash/bash-10-text-manipulation" text="Text manipulation" >}}
-{{< /video >}}
-
-{{< video >}}
+{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions" >}}<br>
+{{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find`" >}}<br>
+{{< link url="../bash/bash-10-text-manipulation" text="Text manipulation" >}}<br>
 {{< link url="../bash/bash-11-other" text="Other advanced topics" >}}
 {{< /video >}}
 
