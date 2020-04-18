@@ -5,7 +5,7 @@ slug = "hpc-menu"
 
 This course is an introduction to High-Performance Computing on Compute Canada clusters. Please download
 a [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with all slides (single
-PDF combining all chapters) and codes
+PDF combining all chapters) and codes.
 
 **Day 1**
 {{< zoom >}}

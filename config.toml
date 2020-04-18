@@ -114,7 +114,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "SciVis"
             weight = 4
-            url = "scivis-menu/"
+            url = "vis-menu/"
 
             [[languages.en.menu.main]]
             name = "Chapel"

@@ -15,7 +15,7 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
 
 <!-- - [Bash Scripting and Tools]() -->
 <!-- - [Introduction to HPC](../hpc-menu) -->
-<!-- - [Scientific visualization](../scivis-menu) -->
+<!-- - [Scientific visualization](../vis-menu) -->
 <!-- - [Parallel programming in Chapel](../chapel-menu) -->
 <!-- - [Programming in Julia](../julia) -->
 <!-- - [Introduction to PyTorch](../ml) -->
