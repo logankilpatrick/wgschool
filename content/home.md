@@ -5,13 +5,15 @@ slug = "home"
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
-week of May 25th | Bash | Bash | HPC | HPC | HPC |
-week of June 1st | SciVis | SciVis | Chapel | Chapel | Chapel |
-week of June 8th | Julia | Julia | Julia | ML | ML |
-week of June 15th | Gromacs | Singularity | Bioinfo | Bioinfo | Bioinfo |
-week of June 22nd | Git | Git | Databases | Databases | Jupyter |
+week of May 25th | **Debug** | Bash | Bash | HPC | HPC |
+week of June 1st | Julia | Julia | Julia | ML | ML |
+week of June 8th | SciVis | SciVis | Chapel | Chapel | Chapel |
+week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
+week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
-week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repeat ML |
+week of July 6th | repeat SciVis | repeat SciVis | - | repeat ML | repeat ML |
+
+(Sessions in bold are fixed in time.)
 
 <!-- - [Bash Scripting and Tools]() -->
 <!-- - [Introduction to HPC](../hpc-menu) -->
@@ -23,9 +25,11 @@ week of July 6th | repeat SciVis | repeat SciVis | repeat ML | repeat ML | repea
 <!-- - [Introduction to Project Jupyter](../jupyter) -->
 
 Other:
+- UBC courses: *Intro to Sockeye cluster* by Roman Baranowski, *CC cloud* by Venkat Mahadevan,
+  *Docker in your VM* by Jacob Boschee
 - confirmed: *Singularity* by Grigory Shamov, *Databases on Cedar* by Alex Lopes and Wolfgang Richter,
   *Gromacs simulation optimisation* by Olivier Fisette
-- maybe: MATLAB topics, UBC courses
+- maybe: MATLAB topics
 
 Instructors:
 - Check [the bash course](../bash-menu) to see the timing example. Here we have 4-5 hours of live
