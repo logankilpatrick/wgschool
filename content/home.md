@@ -9,7 +9,7 @@ week of May 25th | **Debug** | Bash | Bash | HPC | HPC |
 week of June 1st | Julia | Julia | Julia | ML | ML |
 week of June 8th | SciVis | SciVis | Chapel | Chapel | Chapel |
 week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
-week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter |
+week of June 22nd | Git | Git | **Databases** | **Databases** | (Jupyter) |
 week of June 29th | repeat Bash | repeat Bash | Canada Day | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | - | repeat ML | repeat ML |
 
