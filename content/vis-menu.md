@@ -17,7 +17,7 @@ share the afternoon exercises.
 {{< link url="../vis/vis-02-arch" text="ParaView architecture and GUI" >}}<br>
 {{< link url="../vis/vis-03-import" text="Importing data into ParaView" >}}<br>
 {{< link url="../vis/vis-04-filters" text="Working with ParaView filters" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
@@ -35,7 +35,7 @@ share the afternoon exercises.
 {{< link url="../vis/vis-07-scripting" text="Python scripting in ParaView" >}}<br>
 {{< link url="../vis/vis-08-remote" text="Remote and distributed visualization" >}}<br>
 {{< link url="../vis/vis-09-summary" text="Summary" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
