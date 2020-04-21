@@ -18,7 +18,7 @@ exercises.
 {{< link url="../hpc/hpc-01-overview" text="Overview" >}}<br>
 {{< link url="../hpc/hpc-02-basics" text="Basics" >}}<br>
 {{< link url="../hpc/hpc-03-languages" text="Languages and tools" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
@@ -34,7 +34,7 @@ share the afternoon exercises.
 {{< link url="../hpc/hpc-04-scheduling" text="Scheduling" >}}<br>
 {{< link url="../hpc/hpc-05-best" text="Best practices" >}}<br>
 {{< link url="../hpc/hpc-06-summary" text="Summary" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
