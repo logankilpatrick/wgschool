@@ -5,13 +5,13 @@ slug = "home"
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
-week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | HPC | HPC |
-week of June 1st | Julia | Julia | Julia | SciVis | SciVis |
-week of June 8th | Machine learning | Machine learning | **UBC Sockeye cluster** | Chapel | Chapel |
+week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | [HPC](../hpc-menu) | [HPC](../hpc-menu) |
+week of June 1st | [Julia](../julia) | [Julia](../julia) | [Julia](../julia) | [SciVis](../vis-menu) | [SciVis](../vis-menu) |
+week of June 8th | [Machine learning](../ml) | [Machine learning](../ml) | **UBC Sockeye cluster** | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
 week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
-week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter? |
-week of June 29th | CC cloud | Docker in your VM | Canada Day | repeat HPC | repeat HPC |
-week of July 6th | **Parallel MATLAB** | **Machine learning with MATLAB** | **Deep learning with with MATLAB** | repeat ML | repeat ML |
+week of June 22nd | [Git](../git) | [Git](../git) | **Databases** | **Databases** | [Jupyter?](../jupyter) |
+week of June 29th | CC cloud | Docker in your VM | Canada Day | [repeat HPC](../hpc-menu) | [repeat HPC](../hpc-menu) |
+week of July 6th | **Parallel MATLAB** | **Machine learning with MATLAB** | **Deep learning with with MATLAB** | [repeat Machine learning](../ml) | [repeat Machine learning](../ml) |
 
 <!-- - Reece Teramoto: Machine learning with MATLAB and Deep learning with with MATLAB - will need guest -->
 <!--   accounts on Cedar + reservation for this session -->
@@ -22,15 +22,6 @@ week of July 6th | **Parallel MATLAB** | **Machine learning with MATLAB** | **De
 <!--   *Gromacs simulation optimisation* by Olivier Fisette -->
 
 (Sessions in bold are fixed in time.)
-
-<!-- - [Bash Scripting and Tools]() -->
-<!-- - [Introduction to HPC](../hpc-menu) -->
-<!-- - [Scientific visualization](../vis-menu) -->
-<!-- - [Parallel programming in Chapel](../chapel-menu) -->
-<!-- - [Programming in Julia](../julia) -->
-<!-- - [Introduction to PyTorch](../ml) -->
-<!-- - [Version control with Git](../git) -->
-<!-- - [Introduction to Project Jupyter](../jupyter) -->
 
 Instructors:
 - Check [the bash course](../bash-menu) to see the timing example. Here we have 4-5 hours of live
