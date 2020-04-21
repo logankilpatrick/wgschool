@@ -4,7 +4,7 @@
 Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
 The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
-*Day 1*
+*Day 1* {{<n>}} June 22
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-01-intro.html" text="Introduction to WestGrid Summer School Git lesson" >}}<br>
 In this session, I will go over the program for our Git lesson and we will get to know each other.
@@ -26,12 +26,12 @@ In this session, I will go over the program for our Git lesson and we will get t
 {{< link url="https://westgrid-cli.netlify.app/school/git-05-basics.html" text="Git basics: understanding the core concepts of repositories" >}}
 {{< /video >}}
 
-*Day 2*
 {{< debug >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git" >}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
 {{< /debug >}}
 
+*Day 2* {{<n>}} June 23
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-07-recording.html" text="Let's record a project's history with Git together" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics</a> before joining this interactive session.
@@ -49,7 +49,6 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.a
 {{< link url="https://westgrid-cli.netlify.app/school/git-10-remotes.html" text="Remotes" >}}
 {{< /video >}}
 
-*Day 3*
 {{< zoom >}}
 {{< link url="https://westgrid-cli.netlify.app/school/git-11-collaborating.html" text="Collaborating through GitHub" >}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-10-remotes.html">remotes</a> before joining this interactive session.<br>

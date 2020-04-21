@@ -19,7 +19,7 @@ exercises.
 
 {{< reading >}}
 {{< link url="../bash/bash-01-intro" text="Introduction" >}}
-{{< /reading >}}
+{{< /reading >}}<br>
 
 {{< video >}}
 {{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem" >}}<br>
@@ -28,7 +28,7 @@ exercises.
 {{< link url="../bash/bash-05-file-transfer" text="Transferring files and directories to/from remote computers" >}}<br>
 {{< link url="../bash/bash-06-wildcards-redirection-pipes" text="Wildcards, redirection to files, pipes, and aliases" >}}<br>
 {{< link url="../bash/bash-07-loops" text="Loops" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
@@ -45,7 +45,7 @@ share the afternoon exercises.
 {{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find`" >}}<br>
 {{< link url="../bash/bash-10-text-manipulation" text="Text manipulation" >}}<br>
 {{< link url="../bash/bash-11-other" text="Other advanced topics" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
