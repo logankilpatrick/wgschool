@@ -7,19 +7,13 @@ slug = "home"
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | [HPC](../hpc-menu) | [HPC](../hpc-menu) |
 week of June 1st | [Julia](../julia) | [Julia](../julia) | [Julia](../julia) | [SciVis](../vis-menu) | [SciVis](../vis-menu) |
-week of June 8th | [Machine learning](../ml) | [Machine learning](../ml) | **UBC Sockeye cluster** | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
-week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
-week of June 22nd | [Git](../git) | [Git](../git) | **Databases** | **Databases** | [Jupyter?](../jupyter) |
+week of June 8th | [Machine learning](../ml) | [Machine learning](../ml) | [**Intro to Sockeye cluster**](../sockeye) | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
+week of June 15th | [**Gromacs**](../gromacs) | [**Singularity**](../singularity) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) |
+week of June 22nd | [Git](../git) | [Git](../git) | [**Databases**](../databases) | [**Databases**](../databases) | [Jupyter?](../jupyter) |
 week of June 29th | CC cloud | Docker in your VM | Canada Day | [repeat HPC](../hpc-menu) | [repeat HPC](../hpc-menu) |
-week of July 6th | **Parallel MATLAB** | **Machine learning with MATLAB** | **Deep learning with with MATLAB** | [repeat Machine learning](../ml) | [repeat Machine learning](../ml) |
+week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with MATLAB**](../matlab) | [**Deep learning with with MATLAB**](../matlab) | [repeat Machine learning](../ml) | [repeat Machine learning](../ml) |
 
-<!-- - Reece Teramoto: Machine learning with MATLAB and Deep learning with with MATLAB - will need guest -->
-<!--   accounts on Cedar + reservation for this session -->
-<!-- - Raymond Norris: Parallel MATLAB -->
-<!-- - UBC courses: *Intro to Sockeye cluster* by Roman Baranowski, *CC cloud* by Venkat Mahadevan, -->
-<!--   *Docker in your VM* by Jacob Boschee -->
-<!-- - confirmed: *Singularity* by Grigory Shamov, *Databases on Cedar* by Alex Lopes and Wolfgang Richter, -->
-<!--   *Gromacs simulation optimisation* by Olivier Fisette -->
+<!-- - *CC cloud* by Venkat Mahadevan, *Docker in your VM* by Jacob Boschee -->
 
 (Sessions in bold are fixed in time.)
 
