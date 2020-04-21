@@ -5,9 +5,9 @@ slug = "home"
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
-week of May 25th | **Debug / Installation** | Bash | Bash | HPC | HPC |
-week of June 1st | Julia | Julia | **UBC Sockeye cluster** | SciVis | SciVis |
-week of June 8th | Machine learning | Machine learning | - | Chapel | Chapel |
+week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | HPC | HPC |
+week of June 1st | Julia | Julia | Julia | SciVis | SciVis |
+week of June 8th | Machine learning | Machine learning | **UBC Sockeye cluster** | Chapel | Chapel |
 week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
 week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter? |
 week of June 29th | CC cloud | Docker in your VM | Canada Day | repeat HPC | repeat HPC |
