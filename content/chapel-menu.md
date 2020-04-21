@@ -19,7 +19,7 @@ exercises.
 {{< video >}}
 {{< link url="../chapel/chapel-01-base" text="Basic language features" >}}<br>
 {{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}<br>
-{{< /video >}}
+{{< /video >}}<br>
 
 **Day 2**
 {{< zoom >}}
@@ -29,7 +29,7 @@ share the afternoon exercises.
 
 {{< video >}}
 {{< link url="../chapel/chapel-03-domain-parallelism" text="Domain parallelism" >}}
-{{< /video >}}
+{{< /video >}}<br>
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
