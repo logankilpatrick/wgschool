@@ -10,7 +10,7 @@ week of June 1st | Julia | Julia | **UBC Sockeye cluster** | ML | ML |
 week of June 8th | SciVis | SciVis | - | Chapel | Chapel |
 week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
 week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter? |
-week of June 29th | CC cloud | Docker in your VM | Canada Day | repeat HPC | repeat HPC |
+week of June 29th | CC cloud | Docker in your VM | *Canada Day* | repeat HPC | repeat HPC |
 week of July 6th | repeat SciVis | repeat SciVis | - | repeat ML | repeat ML |
 
 (Sessions in bold are fixed in time.)
