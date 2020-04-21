@@ -5,13 +5,21 @@ slug = "home"
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
-week of May 25th | **Debug** | Bash | Bash | HPC | HPC |
-week of June 1st | Julia | Julia | **UBC Sockeye cluster** | ML | ML |
-week of June 8th | SciVis | SciVis | - | Chapel | Chapel |
+week of May 25th | **Debug / Installation** | Bash | Bash | HPC | HPC |
+week of June 1st | Julia | Julia | **UBC Sockeye cluster** | SciVis | SciVis |
+week of June 8th | Machine learning | Machine learning | - | Chapel | Chapel |
 week of June 15th | **Gromacs** | **Singularity** | **Bioinfo** | **Bioinfo** | **Bioinfo** |
 week of June 22nd | Git | Git | **Databases** | **Databases** | Jupyter? |
 week of June 29th | CC cloud | Docker in your VM | Canada Day | repeat HPC | repeat HPC |
-week of July 6th | repeat SciVis | repeat SciVis | - | repeat ML | repeat ML |
+week of July 6th | **Parallel MATLAB** | **Machine learning with MATLAB** | **Deep learning with with MATLAB** | repeat ML | repeat ML |
+
+<!-- - Reece Teramoto: Machine learning with MATLAB and Deep learning with with MATLAB - will need guest -->
+<!--   accounts on Cedar + reservation for this session -->
+<!-- - Raymond Norris: Parallel MATLAB -->
+<!-- - UBC courses: *Intro to Sockeye cluster* by Roman Baranowski, *CC cloud* by Venkat Mahadevan, -->
+<!--   *Docker in your VM* by Jacob Boschee -->
+<!-- - confirmed: *Singularity* by Grigory Shamov, *Databases on Cedar* by Alex Lopes and Wolfgang Richter, -->
+<!--   *Gromacs simulation optimisation* by Olivier Fisette -->
 
 (Sessions in bold are fixed in time.)
 
@@ -23,13 +31,6 @@ week of July 6th | repeat SciVis | repeat SciVis | - | repeat ML | repeat ML |
 <!-- - [Introduction to PyTorch](../ml) -->
 <!-- - [Version control with Git](../git) -->
 <!-- - [Introduction to Project Jupyter](../jupyter) -->
-
-Other:
-- UBC courses: *Intro to Sockeye cluster* by Roman Baranowski, *CC cloud* by Venkat Mahadevan,
-  *Docker in your VM* by Jacob Boschee
-- confirmed: *Singularity* by Grigory Shamov, *Databases on Cedar* by Alex Lopes and Wolfgang Richter,
-  *Gromacs simulation optimisation* by Olivier Fisette
-- maybe: MATLAB topics
 
 Instructors:
 - Check [the bash course](../bash-menu) to see the timing example. Here we have 4-5 hours of live
