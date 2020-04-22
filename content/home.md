@@ -17,16 +17,9 @@ week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with M
 
 (Sessions in bold are fixed in time.)
 
-Instructors:
-- Check [the bash course](../bash-menu) to see the timing example. Here we have 4-5 hours of live
-  in-person lectures converted to 2.5 hours of pre-recorded videos and eventually two days in the online
-  summer school.
-- Let us know if you need a cluster reservation and/or guest accounts on Cedar or Graham. By default we
-  are not creating these. All WestGrid-Central-taught courses will use a dedicated 6-node (2 cores, 3GB
-  per node) virtual training cluster on Arbutus.
+## Details
 
-Details:
-- Eventbrite registration will open to participants from all WG institutions in late April - early May
+- Eventbrite registration will open to participants from all WG institutions in early May
   - participants will register for individual courses
 - Format: self-paced learning (mix of reading materials, pre-recorded videos, takeaway exercises) and Zoom sessions
 - To simplify logistics, we will not have parallel courses (everything will be in a single track)
@@ -61,10 +54,14 @@ Details:
   - use a dual-screen setup if possible: presenter's materials on one screen, your workspace on another
   - turn on your video
   - use a good headset/microphone
-- Certificates:
-  - we will issue certificates listing the courses each participant has attended in full
-  - a course is considered attended in full when a participant attends and stays active in all Zoom
-    sessions in that course (debugging sessions do not count as Zoom sessions)
+
+## Certificates:
+- we will issue certificates listing the courses each participant has attended in full
+- a course is considered attended in full when a participant attends and stays active in all Zoom
+  sessions in that course (debugging sessions do not count as Zoom sessions)
+
+[Instructor notes](../instructor)
+
 <!--   - perhaps get in touch with Phil Richardson (he gave them out last year) -->
 
 <!-- Site courses: -->

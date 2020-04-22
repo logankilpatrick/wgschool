@@ -3,8 +3,6 @@ title = "Introduction to databases on Cedar"
 slug = "databases"
 +++
 
-# Introduction to databases on Cedar
-
 **Instructors**: Alex Lopes and Wolfgang Richter (SFU / WestGrid)
 
 **Course plan**:
