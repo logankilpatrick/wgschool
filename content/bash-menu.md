@@ -41,7 +41,7 @@ share the afternoon exercises.
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions" >}}<br>
+{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions, and variables" >}}<br>
 {{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find`" >}}<br>
 {{< link url="../bash/bash-10-text-manipulation" text="Text manipulation" >}}<br>
 {{< link url="../bash/bash-11-other" text="Other advanced topics" >}}
