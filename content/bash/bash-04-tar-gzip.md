@@ -14,8 +14,8 @@ $ unzip bfiles.zip
 Unlike an SSD or a hard drive on your laptop, the filesystem on HPC cluster was designed to store large
 files, ideally with parallel I/O. As a result, it handles any large number of small I/O requests (reads
 or writes) very poorly, sometimes bringing the I/O system to a halt. For this reason, we strongly
-recommend that users do not store thousands (or more) individual files -- instead you should pack them
-into a small number of large archives. This is where the archiving tool `tar` comes in handy.
+recommend that users do not store many thousands of small files -- instead you should pack them into a
+small number of large archives. This is where the archiving tool `tar` comes in handy.
 
 ## Working with `tar` and `gzip/gunzip` (8 min)
 

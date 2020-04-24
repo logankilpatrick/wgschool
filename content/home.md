@@ -17,6 +17,19 @@ week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with M
 
 (Sessions in bold are fixed in time.)
 
+
+
+<!-- ## Cross-listed UBC workshops -->
+
+<!-- These Core Skill workshops by the UBC Research Commons will be open to all, including participants -->
+<!-- outside UBC. The schedule will come very shortly with accompanying registration details. -->
+
+<!-- + Introduction to APIs -->
+<!-- + Introduction to the OSF -->
+<!-- + Introduction to Web Scraping -->
+
+
+
 ## Details
 
 - Eventbrite registration will open to participants from all WG institutions in early May
