@@ -4,7 +4,7 @@
 Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
 The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
-*Day 1* {{<n>}} June 1
+*June 1*
 {{< zoom >}}
 {{< link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson" >}}<br>
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
@@ -31,7 +31,7 @@ In this session, I will go over the program for our Julia lesson and we will get
 Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
 {{< /debug >}}
 
-*Day 2* {{<n>}} June 2
+*June 2*
 {{< zoom >}}
 {{< link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types" >}}
 {{< /zoom >}}
