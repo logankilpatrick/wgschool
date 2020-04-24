@@ -10,10 +10,8 @@ week of June 1st | [Julia](../julia) | [Julia](../julia) | [Julia](../julia) | [
 week of June 8th | [Machine learning](../ml) | [Machine learning](../ml) | [**Intro to Sockeye cluster**](../sockeye) | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
 week of June 15th | [**Gromacs**](../gromacs) | [**Singularity**](../singularity) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) |
 week of June 22nd | [Git](../git) | [Git](../git) | [**Databases**](../databases) | [**Databases**](../databases) | [Jupyter?](../jupyter) |
-week of June 29th | CC cloud | Docker in your VM | Canada Day | [repeat HPC](../hpc-menu) | [repeat HPC](../hpc-menu) |
+week of June 29th | [**CC cloud**](../cloud) | [**Docker in your VM**](../docker) | Canada Day | [repeat HPC](../hpc-menu) | [repeat HPC](../hpc-menu) |
 week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with MATLAB**](../matlab) | [**Deep learning with with MATLAB**](../matlab) | [repeat Machine learning](../ml) | [repeat Machine learning](../ml) |
-
-<!-- - *CC cloud* by Venkat Mahadevan, *Docker in your VM* by Jacob Boschee -->
 
 (Sessions in bold are fixed in time.)
 
