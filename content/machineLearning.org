@@ -5,22 +5,24 @@ Readings, videos, and practices are self-directed, but they are prerequisites fo
 The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
 *June 8*
-{{< zoom >}}
-{{< link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to WestGrid Summer School PyTorch lesson" >}}<br>
+{{<zoom>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to WestGrid Summer School PyTorch lesson">}}<br>
 I will go over the program for our ML lesson with PyTorch and we will introduce each other.
-{{< /zoom >}}
+{{</zoom>}}
+
+{{<link url="" text="What is machine learning?">}}<br>
 
 
 
 
-{{< debug >}}
-{{< link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues xxxxx" >}}<br>
+{{<debug>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues xxxxx">}}<br>
 Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-ml.netlify.app/school/pt-xx-xxx.html">xxx</a> and have already tried everything you could on your own.
-{{< /debug >}}
+{{</debug>}}
 
 *June 9*
 
-{{< external >}}
+{{<external>}}
 <u>Documentation:</u>
 <br>
 <a href="https://pytorch.org/">PyTorch website</a><br>
@@ -32,4 +34,4 @@ Please only sign up for this session if you have carefully followed the session 
 <u>Getting help:</u>
 <br>
 <a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
-{{< /external >}}
+{{</external>}}

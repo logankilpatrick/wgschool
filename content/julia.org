@@ -5,54 +5,54 @@ Readings, videos, and practices are self-directed, but they are prerequisites fo
 The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
 *June 1*
-{{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson" >}}<br>
+{{<zoom>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson">}}<br>
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
-{{< /zoom >}}
+{{</zoom>}}
 
-{{< reading >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-02-why.html" text="Why another programming language?" >}}
-{{< /reading >}}
+{{<reading>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-02-why.html" text="Why another programming language?">}}
+{{</reading>}}
 
-{{< practice >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-03-install.html" text="Installing Julia and getting started" >}}
-{{< /practice >}}
+{{<practice>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-03-install.html" text="Installing Julia and getting started">}}
+{{</practice>}}
 
-{{< video >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-04-repl.html" text="The Julia REPL" >}}
-{{< /video >}}
+{{<video>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-04-repl.html" text="The Julia REPL">}}
+{{</video>}}
 
-{{< practice >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-05-pkg.html" text="Packages" >}}
-{{< /practice >}}
+{{<practice>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-05-pkg.html" text="Packages">}}
+{{</practice>}}
 
-{{< debug >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages" >}}<br>
+{{<debug>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages">}}<br>
 Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
-{{< /debug >}}
+{{</debug>}}
 
 *June 2*
-{{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types" >}}
-{{< /zoom >}}
+{{<zoom>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types">}}
+{{</zoom>}}
 
-{{< reading >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros" >}}
-{{< /reading >}}
+{{<reading>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros">}}
+{{</reading>}}
 
-{{< practice >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting in Julia" >}}
-{{< /practice >}}
+{{<practice>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting in Julia">}}
+{{</practice>}}
 
-{{< video >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming" >}}
-{{< /video >}}
+{{<video>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming">}}
+{{</video>}}
 
-{{< zoom >}}
-{{< link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing" >}}
-{{< /zoom >}}
+{{<zoom>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing">}}
+{{</zoom>}}
 
-{{< external >}}
+{{<external>}}
 <u>Documentation:</u>
 <br>
 <a href="https://julialang.org/">Julia website</a><br>
@@ -66,7 +66,7 @@ Please only sign up for this session if you have carefully followed the sessions
 <br>
 <a href="https://discourse.julialang.org/">Julia Discourse forum</a><br>
 <a href="https://stackoverflow.com/tags/julia">[julia] tag on Stack Overflow</a><br>
-<a href="https://app.slack.com/client/T68168MUP/C67910KEH">Julia Slack team</a> 
+<a href="https://app.slack.com/client/T68168MUP/C67910KEH">Julia Slack team</a>
 (you need to <a href="slackinvite.julialang.org">agree to the community code of conduct</a> first)<br>
 <a href="https://twitter.com/search?q=%23julialang">#julialang hashtag on Twitter</a><br>
 <a href="https://www.reddit.com/r/Julia/">Julia subreddit</a><br>
@@ -80,4 +80,4 @@ Please only sign up for this session if you have carefully followed the sessions
 <a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a><br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a> in <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="http://millejoh.github.io/emacs-ipython-notebook/">EIN</a> package<br>
-{{< /external >}}
+{{</external>}}
