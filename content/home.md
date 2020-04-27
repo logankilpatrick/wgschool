@@ -25,7 +25,7 @@ institutions in early May.
 The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,
 takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have
 parallel courses -- everything will be in a single track. Few most popular courses will repeat towards
-the end.
+the end (to be scheduled later, based on the registration numbers).
 
 Many courses will have several short (1-1.5 hours) hands-on Zoom sessions; their number and length will
 be determined by each instructor. We will not have any registration caps, however, our Zoom sessions will
