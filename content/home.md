@@ -15,61 +15,56 @@ week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with M
 
 (Sessions in bold are fixed in time.)
 
+## Registration
 
+Free Eventbrite registration for individual courses will open to participants from all WestGrid
+institutions in early May.
 
-<!-- ## Cross-listed UBC workshops -->
+## Format
 
-<!-- These Core Skill workshops by the UBC Research Commons will be open to all, including participants -->
-<!-- outside UBC. The schedule will come very shortly with accompanying registration details. -->
+The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,
+takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have
+parallel courses -- everything will be in a single track. Few most popular courses will repeat towards
+the end.
 
-<!-- + Introduction to APIs -->
-<!-- + Introduction to the OSF -->
-<!-- + Introduction to Web Scraping -->
+Many courses will have several short (1-1.5 hours) hands-on Zoom sessions; their number and length will
+be determined by each instructor. We will not have any registration caps, however, our Zoom sessions will
+be limited to 100 participants. We do not expect more than 100 attendees in any single session, however,
+to be on the safe side, we suggest logging in a little bit early. The details (room and password) of each
+Zoom session will be emailed to registrants in any given course.
 
+Before each Zoom session that is part of a course, all participants must read/watch the required
+materials. In Zoom sessions we will guide participants through a series of hands-on exercises. 
 
+We suggest that all participants use a dual-screen setup if possible: presenter's materials on one
+screen, your workspace on another. We also suggest to use a good headset/microphone.
 
-## Details
+<!-- - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use socrative with names -->
+<!-- - will not be recorded -->
 
-- Eventbrite registration will open to participants from all WG institutions in early May
-  - participants will register for individual courses
-- Format: self-paced learning (mix of reading materials, pre-recorded videos, takeaway exercises) and Zoom sessions
-- To simplify logistics, we will not have parallel courses (everything will be in a single track)
-- Few most popular courses will repeat towards the end
-- Zoom sessions:
-  - each course will have several short (1-1.5 hours) hands-on sessions
-  - their number and length determined by each instructor
-  - live Zoom sessions (Software Carpentry style) in which all participants are expected to follow the
-    instructions and do exercises
-  - no registration cap (we considered a cap + repeats, but that would be a nightmare to schedule)
-  - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use
-    socrative with names
-  <!-- participants can instead register for repeats of the most popular courses -->
-  <!-- - if a participant does not cancel at least 48 hours in advance and does not attend a session in full, -->
-  <!--   they will forfeit any further online hands-on sessions in this school, with exceptions for the current -->
-  <!--   circumstances and network/hardware failures (in these cases have to let us know via email - see email -->
-  <!--   wording from Marie from Mar-30) -->
-  - will not be recorded
-  - links will be advertised only to registered participants
-  - we will NOT be debugging software installations during the actual Zoom sessions as this will be done
-    in special debugging sessions (see below)
-- Debugging sessions:
-  - these sessions are not considered part of the actual course and only participants with technical
-    difficulties should attend them
-  - be prepared to share your screen during debugging sessions: it will help us help you and help others
-    with similar issues
-  - links will be advertised only to registered participants
-- Requirements for participants:
-  - must read/watch preceding materials before each Zoom session
-  - must attend debugging sessions in case of problems with software installation
-- Suggestions to participants:
-  - use a dual-screen setup if possible: presenter's materials on one screen, your workspace on another
-  - turn on your video
-  - use a good headset/microphone
+#### Software debugging sessions
+
+Please not that we will NOT be debugging software installations during the actual Zoom sessions as this
+will be done in special debugging sessions: several on Monday May-25, and a number of software debugging
+sessions for selected courses. If you require assistance with software, please consider attending a
+debugging sessions, but please be prepared to share your screen with the problem: it will help us help
+you and help others with similar issues. Once again, these debugging sessions are not considered part of
+any course, and only participants with technical difficulties should attend them.
 
 ## Certificates:
-- we will issue certificates listing the courses each participant has attended in full
-- a course is considered attended in full when a participant attends and stays active in all Zoom
-  sessions in that course (debugging sessions do not count as Zoom sessions)
+
+We will issue certificates listing the courses each participant has attended in full. A course is
+considered attended in full when a participant attends and participates in all exercises in all Zoom
+sessions in that course (debugging sessions do not count).
+
+## Cross-listed UBC workshops
+
+These Core Skill workshops by the UBC Research Commons will be open to all, including participants
+outside UBC. The schedule will come very shortly with accompanying registration details.
+
+- Introduction to APIs
+- Introduction to the OSF
+- Introduction to Web Scraping
 
 [Instructor notes](../instructor)
 
