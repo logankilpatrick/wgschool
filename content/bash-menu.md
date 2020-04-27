@@ -3,14 +3,14 @@ title = "Bash Scripting and Tools"
 slug = "bash-menu"
 +++
 
-Introduction to Linux command line -- this workshop mixes
+This is a **2-day** Introduction to Linux command line. This course mixes
 [Software Carpentry](https://software-carpentry.org) materials with WestGrid's custom training.
 
 <!-- * online reading and videos -->
 <!-- - most of this time: watching pre-recorded videos and doing exercises on their own -->
 <!-- - set the pace through 1hr-long Zoom sessions -->
 
-**Day 1**
+**May-26**
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
 distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
@@ -34,7 +34,7 @@ exercises.
 <b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
 {{< /zoom >}}
 
-**Day 2**
+**May-27**
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
 share the afternoon exercises.

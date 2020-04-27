@@ -5,11 +5,11 @@ slug = "chapel-menu"
 
 {{< figure src="/images/solveMulti.gif" >}}
 
-This course is a combination of online reading and pre-recorded videos.
+This **2-day** course is a combination of online reading and pre-recorded videos.
 
 Please download introductory [PDF slides](http://bit.ly/chapeltop).
 
-**Day 1**
+**June-11**
 {{< zoom >}}
 <b>9am-10am Pacific</b> In this session, I will introduce myself, will review the program for today and
 distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
@@ -21,7 +21,7 @@ exercises.
 {{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}<br>
 {{< /video >}}<br>
 
-**Day 2**
+**June-12**
 {{< zoom >}}
 <b>9am-10am Pacific</b> In this session, I will cover the program for today, answer any questions and
 share the afternoon exercises.
