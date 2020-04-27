@@ -33,8 +33,11 @@ be limited to 100 participants. We do not expect more than 100 attendees in any 
 to be on the safe side, we suggest logging in a little bit early. The details (room and password) of each
 Zoom session will be emailed to registrants in any given course.
 
-Before each Zoom session that is part of a course, all participants must read/watch the required
-materials. In Zoom sessions we will guide participants through a series of hands-on exercises. 
+Before each course Zoom session, all participants must read/watch the required materials. In Zoom
+sessions we will guide participants through a series of hands-on exercises.
+
+Several courses will not follow this format and will be online Zoom lectures without any pre-recorded
+materials.
 
 We suggest that all participants use a dual-screen setup if possible: presenter's materials on one
 screen, your workspace on another. We also suggest to use a good headset/microphone.
@@ -44,7 +47,7 @@ screen, your workspace on another. We also suggest to use a good headset/microph
 
 #### Software debugging sessions
 
-Please not that we will NOT be debugging software installations during the actual Zoom sessions as this
+Please note that we will NOT be debugging software installations during the actual Zoom sessions as this
 will be done in special debugging sessions: several on Monday May-25, and a number of software debugging
 sessions for selected courses. If you require assistance with software, please consider attending a
 debugging sessions, but please be prepared to share your screen with the problem: it will help us help
