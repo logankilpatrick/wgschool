@@ -1,9 +1,0 @@
-#+title: Introduction to Project Jupyter
-#+slug: jupyter
-
-This is a **1-day** course.
-
-{{< external >}}
-<a href="https://jupyter.org/">Jupyter website</a><br>
-<a href="https://jupyter.org/documentation">Jupyter documentation</a><br>
-{{< /external >}}
