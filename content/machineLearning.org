@@ -1,6 +1,7 @@
 #+title: Introduction to PyTorch
 #+slug: ml
 
+This is a *2 day lesson*. \\
 Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
 The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
 
