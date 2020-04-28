@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Project Jupyter"
+title = "Python in Jupyter notebooks"
 slug = "jupyter"
 +++
 
