@@ -49,7 +49,6 @@ Please only sign up for this session if you have carefully followed the sessions
 {{<link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming">}}
 {{</video>}}
 
-*June 3*
 {{<zoom>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing">}}
 {{</zoom>}}
