@@ -3,8 +3,21 @@ title = "Bash scripting and tools"
 slug = "bash-menu"
 +++
 
-This is a **2-day** Introduction to Linux command line. This course mixes
-[Software Carpentry](https://software-carpentry.org) materials with WestGrid's custom training.
+This is a **2-day** hands-on introduction to the Linux command line and the interaction with a remote
+server. This course mixes [Software Carpentry](https://software-carpentry.org) materials with WestGrid's
+custom training.
+
+**Instructor**: Alex Razoumov (WestGrid)
+
+**Level**: beginner
+
+**Prerequisites**: This is an introductory course, no previous experience is required. We will provide
+guest accounts to one of our Linux systems.
+
+**Laptop software**: All attendees will need a remote secure shell (SSH) client installed. On Windows
+laptops we recommend
+[the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
+laptops SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
 <!-- * online reading and videos -->
 <!-- - most of this time: watching pre-recorded videos and doing exercises on their own -->

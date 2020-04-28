@@ -7,6 +7,17 @@ This **2-day** course is an introduction to scientific visualization with ParaVi
 [ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download) with all slides (single PDF
 combining all chapters), sample datasets and scripts.
 
+**Instructor**: Alex Razoumov (WestGrid)
+
+**Level**: beginner
+
+**Prerequisites**: This is an introductory course, no prior visualization experience is required.
+
+**Laptop software**: Please [install ParaView](https://www.paraview.org/download) on your laptop, and
+make sure you can start it before the course. We will provide all sample data and codes for the
+exercises. Let us know if you want to try loading your own dataset into ParaView. No need to install
+Plotly on your laptop -- we will have it installed on our remote cluster.
+
 **June-04**
 {{< zoom >}}
 <b>9am-10am Pacific</b> In this session, I will introduce myself, will review the program for today and

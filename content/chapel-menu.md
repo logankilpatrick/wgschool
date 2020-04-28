@@ -3,9 +3,32 @@ title = "Parallel programming in Chapel"
 slug = "chapel-menu"
 +++
 
-{{< figure src="/images/solveMulti.gif" >}}
+<!-- This course is a combination of online reading and pre-recorded videos. -->
 
-This **2-day** course is a combination of online reading and pre-recorded videos.
+This **2-day** course is a general introduction to the main principles of parallel programming, using
+Chapel programming language to illustrate the basic concepts and ideas. Chapel is a relatively new
+language for both shared- and distributed-memory programming, with easy-to-use, high-level abstractions
+for both task and data parallelism that make it ideal for learning parallel programming for a novice HPC
+user. Chapel is incredibly intuitive, striving to merge the ease-of-use of Python and the performance of
+traditional compiled languages such as C and Fortran. Parallel constructs that typically take tens of
+lines of MPI code can be expressed in only a few lines of Chapel code. Chapel is open source and can run
+on any Unix-like operating system, with hardware support from laptops to large HPC systems.
+
+**Instructor**: Alex Razoumov (WestGrid)
+
+**Level**: beginner/intermediate
+
+**Prerequisites**: This is an introductory course, no prior parallel programming experience is required;
+however, having some programming background will allow the attendees to get the most out of this
+workshop. Also, we strongly recommend that all attendees have the working knowledge of the
+[Linux command line](../bash-menu) and know the basic concepts of [high-performace computing](../hpc-menu).
+
+**Laptop software**: All attendees will need a remote secure shell (SSH) client installed. On Windows
+laptops we recommend
+[the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
+laptops SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+{{< figure src="/images/solveMulti.gif" >}}
 
 Please download introductory [PDF slides](http://bit.ly/chapeltop).
 
