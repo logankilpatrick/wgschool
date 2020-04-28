@@ -127,7 +127,7 @@ disqusShortname = "yourdiscussshortname"
             url = "julia/"
 
 	    [[languages.en.menu.main]]
-            name = "ML"
+            name = "PyTorch"
             weight = 7
             url = "ml/"
 
