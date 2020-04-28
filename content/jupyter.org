@@ -1,9 +1,0 @@
-#+title: Introduction to Project Jupyter
-#+slug: jupyter
-
-
-
-{{< external >}}
-<a href="https://jupyter.org/">Jupyter website</a><br>
-<a href="https://jupyter.org/documentation">Jupyter documentation</a><br>
-{{< /external >}}

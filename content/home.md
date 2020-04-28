@@ -6,12 +6,12 @@ slug = "home"
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | [HPC](../hpc-menu) | [HPC](../hpc-menu) |
-week of June 1st | [Julia](../julia) | [Julia](../julia) | [Julia](../julia) | [SciVis](../vis-menu) | [SciVis](../vis-menu) |
+week of June 1st | [Julia](../julia) | [Julia](../julia) | [Jupyter](../jupyter) | [SciVis](../vis-menu) | [SciVis](../vis-menu) |
 week of June 8th | [Machine learning](../ml) | [Machine learning](../ml) | [**Intro to Sockeye cluster**](../sockeye) | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
 week of June 15th | [**Gromacs**](../gromacs) | [**Singularity**](../singularity) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) |
-week of June 22nd | [Git](../git) | [Git](../git) | [**Databases**](../databases) | [**Databases**](../databases) | [Jupyter?](../jupyter) |
-week of June 29th | [**CC cloud**](../cloud) | [**Docker in your VM**](../docker) | Canada Day | [repeat HPC](../hpc-menu) | [repeat HPC](../hpc-menu) |
-week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with MATLAB**](../matlab) | [**Deep learning with with MATLAB**](../matlab) | [repeat Machine learning](../ml) | [repeat Machine learning](../ml) |
+week of June 22nd | [Git](../git) | [Git](../git) | [**Databases**](../databases) | [**Databases**](../databases) | - |
+week of June 29th | [**CC cloud**](../cloud) | [**Docker in your VM**](../docker) | Canada Day | possible repeat course | possible repeat course |
+week of July 6th | [**Parallel MATLAB**](../matlab) | [**Machine learning with MATLAB**](../matlab) | [**Deep learning with with MATLAB**](../matlab) | possible repeat course | possible repeat course |
 
 (Sessions in bold are fixed in time.)
 
@@ -25,7 +25,7 @@ institutions in early May.
 The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,
 takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have
 parallel courses -- everything will be in a single track. Few most popular courses will repeat towards
-the end.
+the end (to be scheduled later, based on the registration numbers).
 
 Many courses will have several short (1-1.5 hours) hands-on Zoom sessions; their number and length will
 be determined by each instructor. We will not have any registration caps, however, our Zoom sessions will

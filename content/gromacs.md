@@ -3,6 +3,8 @@ title = "Gromacs simulation optimisation"
 slug = "gromacs"
 +++
 
+This is a **1-day** course.
+
 **Instructor**: Olivier Fisette (Univ. of Saskatchewan / WestGrid)
 
 **Course plan**:

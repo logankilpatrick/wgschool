@@ -3,7 +3,7 @@ title = "Singularity"
 slug = "singularity"
 +++
 
-<!-- - confirmed: ** by , -->
+This is a **1-day** course.
 
 **Instructor**: Grigory Shamov (Univ. Of Manitoba / WestGrid)
 
