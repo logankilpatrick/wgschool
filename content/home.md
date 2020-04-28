@@ -7,7 +7,7 @@ slug = "home"
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | [**Debugging / installation**](../debug) | [Bash](../bash-menu) | [Bash](../bash-menu) | [HPC](../hpc-menu) | [HPC](../hpc-menu) |
 week of June 1st | [Julia](../julia) | [Julia](../julia) | [Python in Jupyter](../jupyter) | [SciVis](../vis-menu) | [SciVis](../vis-menu) |
-week of June 8th | [Machine learning with PyTorch](../ml) | [Machine learning with PyTorch](../ml) | [**Intro to Sockeye cluster**](../sockeye) | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
+week of June 8th | [Machine learning with PyTorch](../ml) | [Machine learning with PyTorch](../ml) | [**Sockeye cluster**](../sockeye) | [Chapel](../chapel-menu) | [Chapel](../chapel-menu) |
 week of June 15th | [**Gromacs**](../gromacs) | [**Singularity**](../singularity) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) | [**Bioinfo**](../bioinfo) |
 week of June 22nd | [Git](../git) | [Git](../git) | [**Databases**](../databases) | [**Databases**](../databases) | - |
 week of June 29th | [**CC cloud**](../cloud) | [**Docker in your VM**](../docker) | Canada Day | possible repeat course | possible repeat course |
