@@ -1,5 +1,5 @@
 +++
-title = "Singularity"
+title = "Introduction to Singularity containers"
 slug = "singularity"
 +++
 

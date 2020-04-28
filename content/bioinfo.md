@@ -1,5 +1,5 @@
 +++
-title = "Bioinformatics sessions"
+title = "Bioinformatics sessions: data analysis tools"
 slug = "bioinfo"
 +++
 
