@@ -65,30 +65,25 @@ disqusShortname = "yourdiscussshortname"
   tag = "tags"
 
 [[params.social]]
-  name = "WestGrid Training"
-  icon = "fas fa-chalkboard-teacher fa-2x"
+  name = "Program"
+  icon = "fa fa-calendar-alt fa-2x"
   weight = 1
-  url = "https://westgrid.github.io/trainingMaterials/"
+  url = "/program/"
 [[params.social]]
-  name = "Compute Canada"
-  icon = "fas fa-user-friends fa-2x"
+  name = "For attendees"
+  icon = "fas fa-chalkboard-teacher fa-2x"
   weight = 2
-  url = "https://www.computecanada.ca/"
+  url = "/attendee/"
 [[params.social]]
   name = "Twitter"
   icon = "fab fa-twitter fa-2x"
-  weight = 4
+  weight = 3
   url = "https://twitter.com/WestGrid"
 [[params.social]]
-  name = "YouTube"
-  icon = "fab fa-youtube fa-2x"
-  weight = 5
-  url = "https://www.youtube.com/channel/UCfgds4Qf7VFOv4ORRvFFmhw"
-[[params.social]]
-  name = "Events"
-  icon = "fa fa-calendar-alt fa-2x"
-  weight = 6
-  url = "https://www.westgrid.ca/events"
+  name = "Email"
+  icon = "far fa-envelope-open fa-2x"
+  weight = 4
+  url = "mailto:training@westgrid.ca"
 
 [languages]
     [languages.en]
