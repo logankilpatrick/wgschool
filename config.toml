@@ -98,20 +98,20 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Program"
-            weight = 2
+            weight = 1
             url = "program/"
 
             [[languages.en.menu.main]]
             name = "For attendees"
-            weight = 3
+            weight = 2
             url = "attendee/"
 
             [[languages.en.menu.main]]
             name = "For instructors"
-            weight = 4
+            weight = 3
             url = "instructor/"
 
 	    [[languages.en.menu.main]]
 	    name = "📬"
-	    weight = 10
+	    weight = 4
 	    url  = "mailto:training@westgrid.ca"
