@@ -4,7 +4,7 @@ slug = "vis-menu"
 +++
 
 This **2-day** course is an introduction to scientific visualization with ParaView. Please download a
-[ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download) with all slides (single PDF
+[ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download) with the slides (single PDF
 combining all chapters), sample datasets and scripts.
 
 **Instructor**: Alex Razoumov (WestGrid)
@@ -20,7 +20,7 @@ Plotly on your laptop -- we will have it installed on our remote cluster.
 
 **June-04**
 {{< zoom >}}
-<b>9am-10am Pacific</b> In this session, I will introduce myself, will review the program for today and
+<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
 share the afternoon exercises.
 {{< /zoom >}}
 
@@ -32,12 +32,12 @@ share the afternoon exercises.
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
+<b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
 {{< /zoom >}}
 
 **June-05**
 {{< zoom >}}
-<b>9am-10am Pacific</b> In this session, I will cover the program for today, answer any questions and
+<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
 share the afternoon exercises.
 {{< /zoom >}}
 
@@ -50,6 +50,6 @@ share the afternoon exercises.
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
+<b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
 wrap up the course.
 {{< /zoom >}}

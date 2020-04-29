@@ -18,6 +18,19 @@ week of July 6th | [Parallel MATLAB](../matlab) | [Machine learning with MATLAB]
 Free Eventbrite registration for individual courses will open to participants from all WestGrid
 institutions in early May.
 
+<!-- Please register via -->
+<!-- [this page](https://www.eventbrite.com/e/westgrid-research-computing-summer-school-2020-online-tickets-102614093516). Researchers, -->
+<!-- students, or staff members at Canadian post-secondary institutions and other research organizations can -->
+<!-- register for our school. All research disciplines and skill levels are welcome to participate. Some -->
+<!-- courses may require some pre-requisite knowledge. Please see the notes below and check the course -->
+<!-- descriptions for more details. -->
+
+<!-- <\!-- Note: If you are an international researcher / student living outside of Canada and you have no relation -\-> -->
+<!-- <\!-- to a Canadian post-secondary institution, then you cannot register; however, you are welcome to browse -\-> -->
+<!-- <\!-- WestGrid's Training Materials website for similar resources and recorded videos. -\-> -->
+
+
+
 ## Format
 
 The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,

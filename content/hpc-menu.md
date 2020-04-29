@@ -21,7 +21,7 @@ laptops SSH is usually pre-installed (try typing `ssh` in a terminal to make sur
 
 **May-28**
 {{< zoom >}}
-<b>9am-10am Pacific</b> In this session, I will introduce myself, will review the program for today and
+<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
 distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
 exercises.
 {{< /zoom >}}
@@ -33,12 +33,12 @@ exercises.
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
+<b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
 {{< /zoom >}}
 
 **May-29**
 {{< zoom >}}
-<b>9am-10am Pacific</b> In this session, I will cover the program for today, answer any questions and
+<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
 share the afternoon exercises.
 {{< /zoom >}}
 
@@ -49,6 +49,6 @@ share the afternoon exercises.
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>2pm-3pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
+<b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
 wrap up the course.
 {{< /zoom >}}
