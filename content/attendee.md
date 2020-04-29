@@ -8,11 +8,12 @@ slug = "attendee"
 <!-- Free Eventbrite registration for individual courses will open to participants from all WestGrid -->
 <!-- institutions in early May. -->
 
-Please register via
+Please register using
 [this page](https://www.eventbrite.com/e/westgrid-research-computing-summer-school-2020-online-tickets-102614093516),
-using your **institutional email address** (not a personal/gmail account). Researchers, students, and staff
-members at Canadian post-secondary institutions and other research organizations can register for our
-school. Researchers of all disciplines and skill levels are welcome to participate.
+with your **institutional email address** (not a personal/gmail account -- we will only send Zoom details
+to institutional emails). Researchers, students, and staff members at Canadian post-secondary
+institutions and other research organizations can register for our school. Researchers of all disciplines
+and skill levels are welcome to participate.
 
 Some courses may require some pre-requisite knowledge. Please see the notes below and check the course
 descriptions in the program for more details. Note that the course materials are still developed and will
@@ -23,10 +24,6 @@ be completed in time for each course.
 <!-- <\!-- WestGrid's Training Materials website for similar resources and recorded videos. -\-> -->
 
 ## Format
-
-<!-- • 
-<!-- • encouraging people to use a CC account if possible (their existing one, or registering for one if possible) -->
-<!-- • etc.... we might think of some other things....? -->
 
 The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,
 takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have

@@ -1,5 +1,5 @@
 +++
-title = "Gromacs simulation optimisation"
+title = "Gromacs simulation optimization"
 slug = "gromacs"
 +++
 
