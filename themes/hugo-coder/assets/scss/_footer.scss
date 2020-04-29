@@ -8,4 +8,20 @@
   a {
     color: $link-color;
   }
+  .footcontent {
+    a, span {
+      display: inline;
+      font-size: 1.6rem;
+      font-family: $heading-font-family;
+      font-weight: 700;
+      line-height: 6.0rem;
+      color: $fg-color;
+    }
+    a {
+      &:hover,
+      &:focus {
+	color: $link-color
+      }
+    }
+  }
 }
