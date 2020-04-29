@@ -5,21 +5,28 @@ slug = "attendee"
 
 ## Registration
 
-Free Eventbrite registration for individual courses will open to participants from all WestGrid
-institutions in early May.
+<!-- Free Eventbrite registration for individual courses will open to participants from all WestGrid -->
+<!-- institutions in early May. -->
 
-<!-- Please register via -->
-<!-- [this page](https://www.eventbrite.com/e/westgrid-research-computing-summer-school-2020-online-tickets-102614093516). Researchers, -->
-<!-- students, or staff members at Canadian post-secondary institutions and other research organizations can -->
-<!-- register for our school. All research disciplines and skill levels are welcome to participate. Some -->
-<!-- courses may require some pre-requisite knowledge. Please see the notes below and check the course -->
-<!-- descriptions for more details. -->
+Please register via
+[this page](https://www.eventbrite.com/e/westgrid-research-computing-summer-school-2020-online-tickets-102614093516),
+using your **institutional email address** (not a personal/gmail account). Researchers, students, and staff
+members at Canadian post-secondary institutions and other research organizations can register for our
+school. Researchers of all disciplines and skill levels are welcome to participate.
+
+Some courses may require some pre-requisite knowledge. Please see the notes below and check the course
+descriptions in the program for more details. Note that the course materials are still developed and will
+be completed in time for each course.
 
 <!-- <\!-- Note: If you are an international researcher / student living outside of Canada and you have no relation -\-> -->
 <!-- <\!-- to a Canadian post-secondary institution, then you cannot register; however, you are welcome to browse -\-> -->
 <!-- <\!-- WestGrid's Training Materials website for similar resources and recorded videos. -\-> -->
 
 ## Format
+
+<!-- • 
+<!-- • encouraging people to use a CC account if possible (their existing one, or registering for one if possible) -->
+<!-- • etc.... we might think of some other things....? -->
 
 The format of the school will be self-paced learning (mix of reading materials, pre-recorded videos,
 takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have
@@ -38,8 +45,21 @@ sessions we will guide participants through a series of hands-on exercises.
 Several courses will not follow this format and will be online Zoom lectures without any pre-recorded
 materials.
 
+A base-level knowledge of Linux is required for all courses, and that this can be achieved by attending
+the Bash course in Week 1.
+
+#### Cluster accounts
+
+All academic participants are encouraged (but not required) to obtain a Compute Canada account. To
+register for a free Compute Canada account,
+[click here](https://ccdb.computecanada.ca/account_application). We will also be providing guest
+accounts.
+
+#### Tips for using Zoom
+
 We suggest that all participants use a dual-screen setup if possible: presenter's materials on one
-screen, your workspace on another. We also suggest to use a good headset/microphone.
+screen, your workspace on another. We also suggest to use a good headset/microphone, and mute yourself
+during sessions unless asking a question.
 
 <!-- - tracking attendance: type your name + some small tidbit into the etherpad (or similar), or use socrative with names -->
 <!-- - will not be recorded -->
@@ -53,7 +73,7 @@ debugging sessions, but please be prepared to share your screen with the problem
 you and help others with similar issues. Once again, these debugging sessions are not considered part of
 any course, and only participants with technical difficulties should attend them.
 
-## Certificates:
+## Certificates
 
 We will issue certificates listing the courses each participant has attended in full. A course is
 considered attended in full when a participant attends and participates in all exercises in all Zoom
