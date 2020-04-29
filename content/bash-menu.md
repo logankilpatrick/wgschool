@@ -1,5 +1,5 @@
 +++
-title = "Bash scripting and tools"
+title = "Bash command line"
 slug = "bash-menu"
 +++
 
