@@ -17,4 +17,4 @@ This is a **3-day** workshop:
 
 **Prerequisites**: 
 
-**Laptop software**:
+**Software**:

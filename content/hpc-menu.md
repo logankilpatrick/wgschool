@@ -14,10 +14,10 @@ download a [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/d
 **Prerequisites**: Working knowledge of the Linux command line
 ([covered in bash course](../bash-menu)). We will provide guest accounts to one of our Linux systems.
 
-**Laptop software**: All attendees will need a remote secure shell (SSH) client installed. On Windows
-laptops we recommend
+**Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
+order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
-laptops SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
 **May-28**
 {{< zoom >}}

@@ -12,12 +12,10 @@ This is a **3-day** workshop:
   - based on first-hand experience in several research projects
 - Friday (June-19): *"Setting up a bioinformatics pipeline with SnakeMake"* with Brian McConeghy
 
-**Course plan**:
-
 **Target audience**: general
 
 **Level**: beginner
 
 **Prerequisites**: 
 
-**Laptop software**:
+**Software**:

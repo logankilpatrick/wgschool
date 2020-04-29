@@ -30,10 +30,10 @@ This is a **2-day** course.
 **Prerequisites**: This is an introductory course, no previous experience is required. We will provide
 guest accounts on Cedar cluster.
 
-**Laptop software**: All attendees will need to bring their laptops with wireless access and with a
-remote SSH client installed (on Windows laptops we recommend <a
-href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition of MobaXterm</a>; on
-Mac and Linux laptops no need to install anything).
+**Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
+order to participate in the course exercises. On Windows we recommend
+[the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
+computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
 **Background information**: The database services in WestGrid are now offered through high-performance
 database MySQL and Postgres servers on Cedar and Graham. Here is the

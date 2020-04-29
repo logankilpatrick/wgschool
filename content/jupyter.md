@@ -27,7 +27,7 @@ insights and visualizations and help create compelling showcases of your work.
 take a look at [these two notebooks](https://github.com/ianabc/WestGridRSSNotes/tree/master/python)
 before the course.
 
-**Laptop software**:
+**Software**:
 
 
 

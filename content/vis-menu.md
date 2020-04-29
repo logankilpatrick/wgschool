@@ -13,10 +13,10 @@ combining all chapters), sample datasets and scripts.
 
 **Prerequisites**: This is an introductory course, no prior visualization experience is required.
 
-**Laptop software**: Please [install ParaView](https://www.paraview.org/download) on your laptop, and
+**Software**: Please [install ParaView](https://www.paraview.org/download) on your computer, and
 make sure you can start it before the course. We will provide all sample data and codes for the
 exercises. Let us know if you want to try loading your own dataset into ParaView. No need to install
-Plotly on your laptop -- we will have it installed on our remote cluster.
+Plotly on your computer -- we will have it installed on our remote cluster.
 
 **June-04**
 {{< zoom >}}

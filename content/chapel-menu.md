@@ -23,14 +23,14 @@ however, having some programming background will allow the attendees to get the 
 workshop. Also, we strongly recommend that all attendees have the working knowledge of the
 [Linux command line](../bash-menu) and know the basic concepts of [high-performace computing](../hpc-menu).
 
-**Laptop software**: All attendees will need a remote secure shell (SSH) client installed. On Windows
-laptops we recommend
+**Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
+order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
-laptops SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
-
-{{< figure src="/images/solveMulti.gif" >}}
+computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
 Please download introductory [PDF slides](http://bit.ly/chapeltop).
+
+{{< figure src="/images/solveMulti.gif" >}}
 
 **June-11**
 {{< zoom >}}

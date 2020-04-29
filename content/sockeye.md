@@ -17,4 +17,4 @@ non-UBC researchers, unless you have a collaboration with a UBC research team.
 
 **Prerequisites**: 
 
-**Laptop software**:
+**Software**:
