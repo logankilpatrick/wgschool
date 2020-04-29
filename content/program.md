@@ -1,6 +1,6 @@
 +++
 title = "Summer school program"
-slug = "home"
+slug = "program"
 +++
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |

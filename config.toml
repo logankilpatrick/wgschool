@@ -99,7 +99,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Program"
             weight = 2
-            url = "home/"
+            url = "program/"
 
             [[languages.en.menu.main]]
             name = "For attendees"
