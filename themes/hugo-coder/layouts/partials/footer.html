@@ -1,7 +1,7 @@
 <footer class="footer">
   <section class="container">
     {{ with .Site.Params.footercontent | safeHTML }}
-    <p><a href="/home/">{{ . }}</a></p>
+    <p class="footcontent"><a href="/program/">{{ . }}</a></p>
     {{ end }}
     <div style="font-size: 1.3rem;">
       {{ if not .Site.Params.hideCopyright }}
