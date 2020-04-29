@@ -1,5 +1,5 @@
 +++
-title = "Instructor notes"
+title = "Details for instructors"
 slug = "instructor"
 +++
 

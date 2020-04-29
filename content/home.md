@@ -1,5 +1,5 @@
 +++
-title = "Summer school details"
+title = "Summer school program"
 slug = "home"
 +++
 
