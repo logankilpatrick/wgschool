@@ -1,4 +1,4 @@
-#+title: Version control with Git
+#+title: Introduction to version control with Git
 #+slug: git
 
 /(Under development)/

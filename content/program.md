@@ -7,7 +7,7 @@ slug = "program"
 | -- | -- | -- | -- | -- | -- |
 week of May 25th | [Debugging / installation](../debug) | [Bash command line](../bash-menu) | [Bash command line](../bash-menu) | [High-performance computing](../hpc-menu) | [High-performance computing](../hpc-menu) |
 week of June 1st | [Programming in Julia](../julia) | [Programming in Julia](../julia) | [Python in Jupyter](../jupyter) | [Scientific visualization](../vis-menu) | [Scientific visualization](../vis-menu) |
-week of June 8th | [Machine learning with PyTorch](../ml) | [Machine learning with PyTorch](../ml) | [Sockeye cluster](../sockeye) | [Parallel programming in Chapel](../chapel-menu) | [Parallel programming in Chapel](../chapel-menu) |
+week of June 8th | [Machine learning with PyTorch](../ml) | [Machine learning with PyTorch](../ml) | [UBC Sockeye cluster](../sockeye) | [Parallel programming in Chapel](../chapel-menu) | [Parallel programming in Chapel](../chapel-menu) |
 week of June 15th | [Gromacs optimization](../gromacs) | [Singularity containers](../singularity) | [Bioinfo](../bioinfo) | [Bioinfo](../bioinfo) | [Bioinfo](../bioinfo) |
 week of June 22nd | [Git version control](../git) | [Git version control](../git) | [Databases](../databases) | [Databases](../databases) | - |
 week of June 29th | [Compute Canada cloud](../cloud) | [Docker in your VM](../docker) | Canada Day | possible repeat course | possible repeat course |

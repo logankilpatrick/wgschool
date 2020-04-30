@@ -1,4 +1,4 @@
-#+title: Programming in Julia
+#+title: Introduction to programming in Julia
 #+slug: julia
 
 /(Under development)/
