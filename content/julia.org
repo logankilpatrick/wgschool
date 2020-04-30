@@ -1,9 +1,18 @@
 #+title: Programming in Julia
 #+slug: julia
 
-This is a *2-day course*. \\
-Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
-The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
+/(Under development)/
+{{<2br>}}
+{{<i>}}
+{{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
+{{<itxtb "Length:" "2 days">}}<br>
+{{<itxtb "Level:" Beginner>}}<br>
+{{<itxtb "Prerequisites:" "Experience with a programming language (e.g. R, Python)">}}<br>
+{{<itxtb "Goal:" "Introduce you to the Julia programming language">}}<br>
+{{<itxt "Program:" "We will meet during the Zoom sessions">}}<br>
+{{<itxt " " "You will go over the material in Readings, Videos, and Practices on your own">}}<br>
+{{<itxt " " "Going over the self-directed sections prior to our meetings is necessary to be able to follow">}}<br>
+{{</i>}}
 
 *June 1*
 {{<zoom>}}
@@ -29,7 +38,7 @@ In this session, I will go over the program for our Julia lesson and we will get
 
 {{<debug>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages">}}<br>
-Please only sign up for this session if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>.
+This session is not part of the actual course. Please only sign up for it if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>, but are still stuck with technical difficulties.
 {{</debug>}}
 
 *June 2*

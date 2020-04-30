@@ -1,9 +1,18 @@
 #+title: Version control with Git
 #+slug: git
 
-This is a *2-day course*. \\
-Readings, videos, and practices are self-directed, but they are prerequisites for the interactive Zoom sessions.\\
-The debugging session is not part of the lesson, but there in case someone is stuck with a technical difficulty.
+/(Under development)/
+{{<2br>}}
+{{<i>}}
+{{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
+{{<itxtb "Length:" "2 days">}}<br>
+{{<itxtb "Level:" Beginner>}}<br>
+{{<itxtb "Prerequisites:" None>}}<br>
+{{<itxtb "Goal:" "Get you started with version control with Git">}}<br>
+{{<itxt "Program:" "We will meet during the Zoom sessions">}}<br>
+{{<itxt " " "You will go over the material in Readings, Videos, and Practices on your own">}}<br>
+{{<itxt " " "Going over the self-directed sections prior to our meetings is necessary to be able to follow">}}<br>
+{{</i>}}
 
 *June 22*
 {{<zoom>}}
@@ -29,7 +38,7 @@ In this session, I will go over the program for our Git lesson and we will get t
 
 {{<debug>}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git">}}<br>
-Please only sign up for this session if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have already tried everything you could on your own.
+This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
 {{</debug>}}
 
 *June 23*
