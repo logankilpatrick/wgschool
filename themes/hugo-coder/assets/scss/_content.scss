@@ -194,6 +194,23 @@ img[alt=wgavatar] {
   }
 }
 
+#twocoli {
+  line-height: 1.6rem;
+  .left {
+    // font-family: $heading-font-family;
+    display: table-cell;
+    width: 13.0rem;
+    // text-align: right;
+    // font-weight: bold;
+  }
+  .right {
+    // font-family: $heading-font-family;
+    display: table-cell;
+    // padding-left: 5.0rem;
+    // font-weight: bold;
+  }
+}
+
 .linktitle {
   color: $fg-color;
   font-style: italic;
