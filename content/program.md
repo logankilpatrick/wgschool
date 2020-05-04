@@ -20,8 +20,8 @@ outside UBC:
 
 - [Introduction to APIs](https://libcal.library.ubc.ca/calendar/vancouver/apimay29) with Eka Grguric &
   Jeremy Buhler, May 29 at 12:30pm-2:00pm
-- [Introduction to the OSF](https://libcal.library.ubc.ca/calendar/vancouver/osfjune1) with Sarah Parker
-  & Eka Grguric, June 1 at 1:00pm-2:00pm
+- [Introduction to the OSF](https://libcal.library.ubc.ca/calendar/vancouver/osfjune1) with Sarah Parker,
+  June 1 at 1:00pm-2:00pm
 - [Introduction to Web Scraping](https://libcal.library.ubc.ca/calendar/vancouver/webscrapingjune5) with
   Jeremy Buhler & Eka Grguric, June 5 at 12:30pm-2:00pm
 
