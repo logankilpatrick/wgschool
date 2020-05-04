@@ -16,7 +16,7 @@ week of July 6th | [Parallel MATLAB](../matlab) | [Machine learning with MATLAB]
 ## Cross-listed UBC workshops
 
 These Core Skill workshops by the UBC Research Commons will be open to all, including participants
-outside UBC. The schedule will come very shortly with accompanying registration details.
+outside UBC:
 
 - [Introduction to APIs](https://libcal.library.ubc.ca/calendar/vancouver/apimay29) with Eka Grguric &
   Jeremy Buhler, May 29 at 12:30pm-2:00pm
