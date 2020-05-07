@@ -44,8 +44,7 @@ share the afternoon exercises.
 
 {{< video >}}
 {{< link url="../hpc/hpc-04-scheduling" text="Scheduling" >}}<br>
-{{< link url="../hpc/hpc-05-best" text="Best practices" >}}<br>
-{{< link url="../hpc/hpc-06-summary" text="Summary" >}}
+{{< link url="../hpc/hpc-05-best-summary" text="Best practices and summary" >}}<br>
 {{< /video >}}<br>
 
 {{< zoom >}}

@@ -28,3 +28,25 @@ weight = 4
 
 <!-- 04e-mpi.mp4 -->
 {{< yt 7RWpRtCCPz8 63 >}}
+
+
+
+
+
+
+
+#### Slurm jobs and memory
+
+<!-- 04f-memory.mp4 -->
+
+#### Hybrid and GPU jobs
+
+<!-- 04g-hybrid-gpu.mp4 -->
+
+#### Interactive jobs
+
+<!-- 04h-interactive.mp4 -->
+
+#### Getting information and other Slurm commands
+
+<!-- 04i-info.mp4 -->
