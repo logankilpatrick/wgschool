@@ -6,7 +6,8 @@ weight = 3
 
 ## Programming languages and tools (16 min)
 
-03a-languages.mp4
+<!-- 03a-languages.mp4 -->
+{{< yt dhV0Jg8VLoU 63 >}}
 
 ## Quick overview of parallel programming frameworks
 
@@ -16,30 +17,37 @@ the difference between shared- and distributed-memory parallel programming model
 you can use for each. Later, in the scheduler session, you will use this knowledge to submit parallel
 jobs to the queue.
 
-#### OpenMP
+#### OpenMP (3 min)
 
-03b-openmp.mp4
+<!-- 03b-openmp.mp4 -->
+{{< yt hrN8hYYI-GA 63 >}}
 
-#### MPI (message passing interface)
+#### MPI (message passing interface) (9 min)
 
-03c-mpi.mp4
+<!-- 03c-mpi.mp4 -->
+{{< yt 0jTuecDVPYI 63 >}}
 
-#### Chapel parallel programming language
+#### Chapel parallel programming language (7 min)
 
-03d-chapel.mp4
+<!-- 03d-chapel.mp4 -->
+{{< yt ptR9Wa-Saek 63 >}}
 
-#### Python Dask
+#### Python Dask (6 min)
 
-03e-dask.mp4
+<!-- 03e-dask.mp4 -->
+{{< yt -kYclNmUuX0 63 >}}
 
-## `make` build automation tool
+## Make build automation tool (9 min)
 
-03f-make.mp4
+<!-- 03f-make.mp4 -->
+{{< yt m_60GzGJn6E 63 >}}
 
-## Other essential tools
+## Other essential tools (5 min)
 
-03g-other.mp4
+<!-- 03g-other.mp4 -->
+{{< yt Ncwmx80zlGE 63 >}}
 
-## Python and R on clusters
+## Python and R on clusters (6 min)
 
-03h-python.mp4
+<!-- 03h-python.mp4 -->
+{{< yt hqdvNMAaegI 63 >}}
