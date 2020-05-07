@@ -42,4 +42,4 @@ jobs to the queue.
 
 ## Python and R on clusters
 
-03h-python.mp4 and 03i-r.mp4
+03h-python.mp4

@@ -31,12 +31,12 @@ parallel courses -- everything will be in a single track. Few most popular cours
 the end (to be scheduled later, based on the registration numbers).
 
 Many courses will have several short (1-1.5 hours) hands-on Zoom sessions; their number and length will
-be determined by each instructor. We will not have any registration caps, however, our Zoom sessions will
-be limited to 100 participants. We do not expect more than 100 attendees in any single session, however,
-to be on the safe side, we suggest logging in a little bit early. The room number and password of each
-Zoom session will be emailed to all registrants in each course. Before each Zoom session, all
-participants must read/watch the required materials. In Zoom sessions we will guide participants through
-a series of hands-on exercises based on the reviewed material.
+be determined by each instructor. Note that our Zoom sessions will be limited to 100 participants. We do
+not expect more than 100 attendees in any single session, however, to be on the safe side, we suggest
+logging in a little bit early. The room number and password of each Zoom session will be emailed to all
+registrants in each course. Before each Zoom session, all participants must read/watch the required
+materials. In Zoom sessions we will guide participants through a series of hands-on exercises based on
+the reviewed material.
 
 Several courses will not follow this format and will be live Zoom lectures without any pre-recorded
 content.
