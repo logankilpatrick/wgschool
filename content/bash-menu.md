@@ -26,7 +26,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 **May-26**
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
-distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
+distribute usernames and passwords, demo logging in to the training cluster, and will share the afternoon
 exercises.
 {{< /zoom >}}
 
@@ -35,12 +35,12 @@ exercises.
 {{< /reading >}}<br>
 
 {{< video >}}
-{{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem" >}}<br>
-{{< link url="../bash/bash-03-creating-moving-copying" text="Creating, moving and copying things" >}}<br>
-{{< link url="../bash/bash-04-tar-gzip" text="Archives and compression" >}}<br>
-{{< link url="../bash/bash-05-file-transfer" text="Transferring files and directories to/from remote computers" >}}<br>
-{{< link url="../bash/bash-06-wildcards-redirection-pipes" text="Wildcards, redirection to files, pipes, and aliases" >}}<br>
-{{< link url="../bash/bash-07-loops" text="Loops" >}}
+{{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem (9 min)" >}}<br>
+{{< link url="../bash/bash-03-creating-moving-copying" text="Creating, moving and copying things (10 min)" >}}<br>
+{{< link url="../bash/bash-04-tar-gzip" text="Archives and compression (12 min)" >}}<br>
+{{< link url="../bash/bash-05-file-transfer" text="Transferring files and directories to/from remote computers (15 min)" >}}<br>
+{{< link url="../bash/bash-06-wildcards-redirection-pipes" text="Wildcards, redirection to files, pipes, and aliases (10 min)" >}}<br>
+{{< link url="../bash/bash-07-loops" text="Loops (9 min)" >}}
 {{< /video >}}<br>
 
 {{< zoom >}}
