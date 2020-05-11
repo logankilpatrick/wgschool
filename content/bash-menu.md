@@ -25,9 +25,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 **May-26**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
-distribute usernames and passwords, demo logging in to the training cluster, and will share the afternoon
-exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../bash-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< reading >}}
@@ -49,8 +47,7 @@ exercises.
 
 **May-27**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
-share the afternoon exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../bash-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}

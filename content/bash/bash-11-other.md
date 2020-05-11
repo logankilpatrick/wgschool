@@ -26,12 +26,12 @@ On cassiopeia.c3.ca you can source it from `/project/shared`.
 <!-- 11-fzf.mkv -->
 {{< yt Mq6Vs9v_VAI 63 >}}
 
-# Other advanced bash topics
+<!-- # Other advanced bash topics -->
 
-If there is interest, we could explore some other topics:
+<!-- If there is interest, we could explore some other topics: -->
 
-<!-- - arithmetics -->
-- permissions
-- how to control processes
-- Homebrew if enough Macs
-<!-- - GNU Parallel -->
+<!-- <\!-- - arithmetics -\-> -->
+<!-- - permissions -->
+<!-- - how to control processes -->
+<!-- - Homebrew if enough Macs -->
+<!-- <\!-- - GNU Parallel -\-> -->
