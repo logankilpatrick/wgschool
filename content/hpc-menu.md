@@ -21,15 +21,13 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 **May-28**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
-distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
-exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../hpc-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../hpc/hpc-01-overview" text="Overview" >}}<br>
-{{< link url="../hpc/hpc-02-basics" text="Basics" >}}<br>
-{{< link url="../hpc/hpc-03-languages" text="Languages and tools" >}}
+{{< link url="../hpc/hpc-01-overview" text="Overview (20 min)" >}}<br>
+{{< link url="../hpc/hpc-02-basics" text="Basics (28 min)" >}}<br>
+{{< link url="../hpc/hpc-03-languages" text="Languages and tools (61 min)" >}}
 {{< /video >}}<br>
 
 {{< zoom >}}
@@ -38,13 +36,12 @@ exercises.
 
 **May-29**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
-share the afternoon exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../hpc-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../hpc/hpc-04-scheduling" text="Scheduling" >}}<br>
-{{< link url="../hpc/hpc-05-best-summary" text="Best practices and summary" >}}<br>
+{{< link url="../hpc/hpc-04-scheduling" text="Scheduling (66 min)" >}}<br>
+{{< link url="../hpc/hpc-05-best-summary" text="Best practices and summary (9 min)" >}}<br>
 {{< /video >}}<br>
 
 {{< zoom >}}

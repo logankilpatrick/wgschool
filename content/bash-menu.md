@@ -29,7 +29,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 {{< /zoom >}}
 
 {{< reading >}}
-{{< link url="../bash/bash-01-intro" text="Introduction" >}}
+{{< link url="../bash/bash-01-intro" text="Introduction (10 min)" >}}
 {{< /reading >}}<br>
 
 {{< video >}}
@@ -51,10 +51,10 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions, and variables" >}}<br>
-{{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find`" >}}<br>
-{{< link url="../bash/bash-10-text-manipulation" text="Text manipulation" >}}<br>
-{{< link url="../bash/bash-11-other" text="Other advanced topics" >}}
+{{< link url="../bash/bash-08-scripts-functions" text="Bash scripts and functions, and variables (32 min)" >}}<br>
+{{< link url="../bash/bash-09-grep-find" text="Finding things with `grep` and `find` (13 min)" >}}<br>
+{{< link url="../bash/bash-10-text-manipulation" text="Text manipulation (19 min)" >}}<br>
+{{< link url="../bash/bash-11-other" text="Other advanced topics (6 min)" >}}
 {{< /video >}}<br>
 
 {{< zoom >}}
