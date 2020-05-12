@@ -25,18 +25,19 @@ be completed in time for each course.
 
 ## Format
 
-In most courses, the format will be self-paced learning (mix of reading materials, pre-recorded videos,
+In many courses, the format will be self-paced learning (mix of reading materials, pre-recorded videos,
 takeaway exercises) and live Zoom sessions with the instructors. To simplify logistics, we will not have
 parallel courses -- everything will be in a single track. Few most popular courses will repeat towards
 the end (to be scheduled later, based on the registration numbers).
 
-Many courses will have several short (1-1.5 hours) hands-on Zoom sessions; their number and length will
-be determined by each instructor. Note that our Zoom sessions will be limited to 100 participants. We do
-not expect more than 100 attendees in any single session, however, to be on the safe side, we suggest
-logging in a little bit early. The room number and password of each Zoom session will be emailed to all
-registrants in each course. Before each Zoom session, all participants must read/watch the required
-materials. In Zoom sessions we will guide participants through a series of hands-on exercises based on
-the reviewed material.
+Online learning will be accompanied by short (1-1.5 hours) hands-on Zoom sessions; their number and
+length will be determined by each instructor. Note that our Zoom sessions will be limited to 100
+participants. We do not expect more than 100 actual attendees in any single session, however, to be on
+the safe side, we suggest logging in a little bit early. The room number and password of each Zoom
+session will be emailed to all registrants (**institutional Canadian emails only**) in each
+course. Before each Zoom session, all participants must read/watch the required materials. In Zoom
+sessions we will guide participants through a series of hands-on exercises based on the reviewed
+material.
 
 Several courses will not follow this format and will be live Zoom lectures without any pre-recorded
 content.

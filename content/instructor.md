@@ -15,7 +15,7 @@ In live Zoom sessions, if we have many participants (more than ~20; in some sess
 100 participants which is our current limit in the Zoom Pro plan), we might not be able to debug
 everyone's problems. The goal is to try our best to debug the most common / important problems and share
 the solutions with all participants. In WestGrid Central courses we will be using
-[Socrative](https://socrative.com) to set 5-10 checkpoints per session at which participants will be
+[Socrative](https://socrative.com) to set 10-15 checkpoints per session at which participants will be
 invited to provide information on their problems or lack thereof. We will be using Socrative also for
 quizzes and to track attendance and participant engagement.
 
