@@ -20,8 +20,7 @@ Plotly on your computer -- we will have it installed on our remote cluster.
 
 **June-04**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
-share the afternoon exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../vis-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
@@ -37,8 +36,7 @@ share the afternoon exercises.
 
 **June-05**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
-share the afternoon exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../vis-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}

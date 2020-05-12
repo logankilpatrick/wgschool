@@ -34,9 +34,7 @@ Please download introductory [PDF slides](http://bit.ly/chapeltop).
 
 **June-11**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will introduce myself, will review the program for today and
-distribute usernames and passwords to log in to the training cluster. I will also share the afternoon
-exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../chapel-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
@@ -50,8 +48,7 @@ exercises.
 
 **June-12**
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> In this session, I will cover the program for today, answer any questions and
-share the afternoon exercises.
+<b>9am-9:45am Pacific</b> {{< link url="../chapel-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
