@@ -27,7 +27,13 @@ insights and visualizations and help create compelling showcases of your work.
 take a look at [these two notebooks](https://github.com/ianabc/WestGridRSSNotes/tree/master/python)
 before the course.
 
-**Software**:
+<!-- **Software**: -->
+
+**June-03**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks interleaved with hands-on exercises.
+{{< /zoom >}}
 
 
 
