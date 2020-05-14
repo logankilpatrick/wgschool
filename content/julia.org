@@ -12,6 +12,7 @@
 {{<itxt "Program:" "We will meet during the Zoom sessions">}}<br>
 {{<itxt " " "You will go over the material in Readings, Videos, and Practices on your own">}}<br>
 {{<itxt " " "Going over the self-directed sections prior to our meetings is necessary to be able to follow">}}<br>
+{{<itxtb "Time zone:" "Pacific Daylight Time (UTC-07:00)">}}<br>
 {{</i>}}
 
 *June 1*
