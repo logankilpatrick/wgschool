@@ -224,3 +224,27 @@ img[alt=wgavatar] {
     color: #999999
   }
 }
+
+#threecol {
+  .farleft {
+    font-family: $heading-font-family;
+    display: table-cell;
+    width: 9.0rem;
+    text-align: left;
+    font-style: italic;
+    // font-weight: bold;
+  }
+  .left {
+    // font-family: $heading-font-family;
+    display: table-cell;
+    width: 6.0rem;
+    text-align: right;
+    font-weight: bold;
+  }
+  .right {
+    font-family: $heading-font-family;
+    line-height: 3.0rem;
+    display: table-cell;
+    padding-left: 5.0rem;
+  }
+}
