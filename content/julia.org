@@ -16,10 +16,10 @@
 {{</i>}}
 
 *June 1*
-{{<zoom>}}
+{{<zt "9–9:30am">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson">}}<br>
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
-{{</zoom>}}
+{{</zt>}}
 
 {{<reading>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-02-why.html" text="Why another programming language?">}}
@@ -37,15 +37,15 @@ In this session, I will go over the program for our Julia lesson and we will get
 {{<link url="https://westgrid-julia.netlify.app/school/jl-05-pkg.html" text="Packages">}}
 {{</practice>}}
 
-{{<debug>}}
+{{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>, but are still stuck with technical difficulties.
-{{</debug>}}
+{{</dt>}}
 
 *June 2*
-{{<zoom>}}
+{{<zt "9–10am">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types">}}
-{{</zoom>}}
+{{</zt>}}
 
 {{<reading>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros">}}
@@ -59,9 +59,9 @@ This session is not part of the actual course. Please only sign up for it if you
 {{<link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming">}}
 {{</video>}}
 
-{{<zoom>}}
+{{<zt "2–3:30pm">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing">}}
-{{</zoom>}}
+{{</zt>}}
 
 {{<external>}}
 <u>Documentation:</u>

@@ -16,10 +16,10 @@
 {{</i>}}
 
 *June 22*
-{{<zoom>}}
+{{<zt "9–9:30am">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-01-intro.html" text="Introduction to WestGrid Summer School Git lesson">}}<br>
 In this session, I will go over the program for our Git lesson and we will get to know each other.
-{{</zoom>}}
+{{</zt>}}
 
 {{<reading>}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-02-why.html" text="Why Git?">}}
@@ -37,16 +37,16 @@ In this session, I will go over the program for our Git lesson and we will get t
 {{<link url="https://westgrid-cli.netlify.app/school/git-05-basics.html" text="Git basics: understanding the core concepts of repositories">}}
 {{</video>}}
 
-{{<debug>}}
+{{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
-{{</debug>}}
+{{</dt>}}
 
 *June 23*
-{{<zoom>}}
+{{<zt "9–10:30am">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-07-recording.html" text="Let's record a project's history with Git together">}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics</a> before joining this interactive session.
-{{</zoom>}}
+{{</zt>}}
 
 {{<practice>}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-08-recovering.html" text="Going back in time">}}
@@ -60,14 +60,14 @@ Please make sure to study the session on <a href="https://westgrid-cli.netlify.a
 {{<link url="https://westgrid-cli.netlify.app/school/git-10-remotes.html" text="Remotes">}}
 {{</video>}}
 
-{{<zoom>}}
+{{<zt "2–3:30pm">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-11-collaborating.html" text="Collaborating through GitHub">}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-10-remotes.html">remotes</a> before joining this interactive session.<br>
 This session will close our WestGrid Summer School Git lesson.
-{{</zoom>}}
+{{</zt>}}
 
 {{<external>}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
 <a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a><br>
-<a href="https://www.atlassian.com/git/tutorials/setting-up-a-repository">Git tutorials by Atlassian, the owner of Bitbucket</a>
+<a href="https://www.atlassian.com/git/tutorials/setting-up-a-repository">Git tutorial by Atlassian</a>
 {{</external>}}

@@ -20,21 +20,25 @@
 #+END_export
 
 *June 8*
-{{<zoom>}}
+{{<zt "9–9:30am">}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to WestGrid Summer School PyTorch lesson">}}<br>
 I will go over the program for our ML lesson with PyTorch and we will introduce each other.
-{{</zoom>}}
+{{</zt>}}
 
 {{<reading>}}
 {{<link url="" text="Concepts">}}<br>
 {{</reading>}}
 
-{{<debug>}}
+{{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues xxxxx">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-ml.netlify.app/school/pt-xx-xxx.html">xxx</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
-{{</debug>}}
+{{</dt>}}
 
 *June 9*
+{{<zt "9–9:30am">}}
+{{</zt>}}
+{{<zt "2–3:30pm">}}
+{{</zt>}}
 
 {{<external>}}
 <u>Documentation:</u>
