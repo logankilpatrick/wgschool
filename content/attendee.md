@@ -45,6 +45,10 @@ content.
 A base-level knowledge of Linux is required for all courses, and this can be achieved by attending the
 [Bash course](../bash-menu) in Week 1.
 
+#### Time zone
+
+Please note that all live Zoom session times follow the **Pacific Daylight Time** or UTC-07:00.
+
 #### Cluster accounts
 
 All academic participants are encouraged (but not required) to obtain a Compute Canada account. To
