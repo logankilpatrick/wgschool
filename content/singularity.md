@@ -7,13 +7,13 @@ This is a **1-day** course.
 
 **Instructor**: Grigory Shamov (Univ. Of Manitoba / WestGrid)
 
-**Course plan**:
+<!-- **Course plan**: -->
 
 **Target audience**: general
 
 **Level**: beginner
 
-**Prerequisites**: 
+<!-- **Prerequisites**:  -->
 
 **Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
 order to participate in the course exercises. On Windows we recommend

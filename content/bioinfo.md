@@ -5,12 +5,16 @@ slug = "bioinfo"
 
 This is a **3-day** workshop.
 
-**Target audience**: researchers in bioinformatics  
+**Target audience**: researchers in bioinformatics
+
 **Level**: beginner
 
-<!-- **Prerequisites**:  -->
+**Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
+order to participate in the course exercises. On Windows we recommend
+[the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
+computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-<!-- **Software**: -->
+<!-- **Prerequisites**:  -->
 
 ---
 
