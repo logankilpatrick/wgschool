@@ -17,18 +17,33 @@ This is a **3-day** workshop.
 ---
 
 **Monday (July-06)**  
-*"Parallel MATLAB"*  
-with Raymond Norris
+*"Parallel MATLAB"* with Raymond Norris
 <!-- will need guest accounts on Cedar + reservation for this session -->
+
+**July-06**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}
 
 ---
 
 **Tuesday (July-07)**  
-*"Machine learning with MATLAB"*  
-with Reece Teramoto
+*"Machine learning with MATLAB"* with Reece Teramoto
+
+**July-07**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}
 
 ---
 
 **Wednesday (July-08)**  
-*"Deep learning with MATLAB"*  
-with Reece Teramoto
+*"Deep learning with MATLAB"* with Reece Teramoto
+
+**July-08**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}

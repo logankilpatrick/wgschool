@@ -9,12 +9,18 @@ non-UBC researchers, unless you have a collaboration with a UBC research team.
 
 **Instructor**: Roman Baranowski (UBC / WestGrid)
 
-**Course plan**:
+<!-- **Course plan**: -->
 
 **Target audience**: general
 
 **Level**: beginner
 
-**Prerequisites**: 
+<!-- **Prerequisites**:  -->
 
-**Software**:
+<!-- **Software**: -->
+
+**June-10**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}

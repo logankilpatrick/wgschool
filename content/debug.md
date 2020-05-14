@@ -3,11 +3,12 @@ title = "Debugging / software installation session"
 slug = "debug"
 +++
 
-Session 1: starts at **9am Pacific**, Monday May-25.
-
-Session 2: starts at **12pm Pacific**, Monday May-25.
-
-Session 3: starts at **2pm Pacific**, Monday May-25.
+**May-25**
+{{< zoom >}}
+<b>9am Pacific</b> Live software debugging via shared screens.<br>
+<b>12pm Pacific</b> Live software debugging via shared screens.<br>
+<b>2pm Pacific</b> Live software debugging via shared screens.
+{{< /zoom >}}
 
 These are live debugging sessions for software installation for all courses. If you have a software
 installation problem please attend one of these sessions, and we will debug your (or someone else's
