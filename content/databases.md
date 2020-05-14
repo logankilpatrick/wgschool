@@ -38,3 +38,15 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 **Background information**: The database services in WestGrid are now offered through high-performance
 database MySQL and Postgres servers on Cedar and Graham. Here is the
 <a href="https://docs.computecanada.ca/wiki/Database_servers" target="_blank">official documentation</a>.
+
+**June-24**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}
+
+**June-25**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}

@@ -19,3 +19,9 @@ This is a **1-day** course.
 order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+**June-16**
+{{< zoom >}}
+<b>9am-noon Pacific</b>
+Live session: 30-40 min presentation blocks.
+{{< /zoom >}}
