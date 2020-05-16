@@ -18,7 +18,7 @@
 
 *June 1*
 {{<zt "9–9:30am">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to WestGrid Summer School Julia lesson">}}<br>
+{{<link url="https://westgrid-julia.netlify.app/school/jl-01-intro.html" text="Introduction to the WestGrid Summer School Julia course">}}<br>
 In this session, I will go over the program for our Julia lesson and we will get to know each other.
 {{</zt>}}
 

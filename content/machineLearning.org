@@ -22,7 +22,7 @@
 
 *June 8*
 {{<zt "9–9:30am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to WestGrid Summer School PyTorch lesson">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to the WestGrid Summer School PyTorch course">}}<br>
 I will go over the program for our ML lesson with PyTorch and we will introduce each other.
 {{</zt>}}
 
