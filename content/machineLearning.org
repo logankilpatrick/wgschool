@@ -36,7 +36,7 @@ I will go over the program for our ML lesson with PyTorch and we will introduce 
 
 {{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues installing PyTorch">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-ml.netlify.app/school/pt-03-install.html">installing Python and PyTorch</a>, but are still stuck with technical difficulties.
+This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-ml.netlify.app/school/pt-03-install.html">installing Python and PyTorch</a>, but are still having technical difficulties.
 {{</dt>}}
 
 *June 9*
