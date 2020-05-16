@@ -70,9 +70,9 @@ during sessions unless asking a question.
 Please note that we will NOT be debugging software installations during the actual Zoom sessions as this
 will be done in special debugging sessions: several on Monday May-25, and a number of software debugging
 sessions for selected courses. If you require assistance with software, please consider attending a
-debugging sessions, but please be prepared to share your screen with the problem: it will help us help
-you and help others with similar issues. Once again, these debugging sessions are not considered part of
-any course, and only participants with technical difficulties should attend them.
+debugging session, but please be prepared to share your screen with the problem: it will help us help you
+and help others with similar issues. Once again, these debugging sessions are not considered part of any
+course, and only participants with technical difficulties should attend them.
 
 ## Certificates
 
