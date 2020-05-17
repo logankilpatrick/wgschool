@@ -30,6 +30,10 @@ I will go over the program for our ML lesson with PyTorch and we will introduce 
 {{<link url="https://westgrid-ml.netlify.app/school/pt-02-concepts.html" text="Concepts">}}<br>
 {{</reading>}}
 
+{{<video>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-03-nn.html" text="What are neural networks?">}}<br>
+{{</video>}}
+
 {{<practice>}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-04-install.html" text="Installing Python and PyTorch">}}<br>
 {{</practice>}}
