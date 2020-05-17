@@ -61,4 +61,15 @@ This session is not part of the actual course. Please only sign up for it if you
 <u>Getting help:</u>
 <br>
 <a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
+<br>
+<u>Open-access ML preprints:</u>
+<br>
+<a href="http://arxiv-sanity.com/">Arxiv Sanity Preserver by Andrej Karpathy</a><br>
+<a href="https://arxiv.org/list/cs.LG/recent">ML papers in the computer science category on arXiv</a><br>
+<a href="https://arxiv.org/list/stat.ML/recent">ML papers in the stats category on arXiv</a><br>
+<a href="https://distill.pub/">Distill ML research online journal</a><br>
+<br>
+<u>Advice and sources:</u>
+<br>
+<a href="https://web.mit.edu/tslvr/www/lessons_two_years.html">Advice and sources from AI research student</a><br>
 {{</external>}}
