@@ -50,7 +50,7 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</zt>}}
 
 {{<external>}}
-<u>Documentation:</u>
+<u>PyTorch documentation:</u>
 <br>
 <a href="https://pytorch.org/">PyTorch website</a><br>
 <a href="https://pytorch.org/docs/stable/index.html">PyTorch documentation</a><br>
@@ -58,7 +58,7 @@ This session is not part of the actual course. Please only sign up for it if you
 <a href="https://www.fast.ai/">PyTorch online courses</a><br>
 <a href="https://github.com/pytorch/examples">PyTorch examples</a><br>
 <br>
-<u>Getting help:</u>
+<u>Getting help with PyTorch:</u>
 <br>
 <a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
 <br>
@@ -69,14 +69,16 @@ This session is not part of the actual course. Please only sign up for it if you
 <a href="https://arxiv.org/list/stat.ML/recent">ML papers in the stats category on arXiv</a><br>
 <a href="https://distill.pub/">Distill ML research online journal</a><br>
 <br>
-<u>Advice and sources:</u>
+<u>Advice and sources for ML:</u>
+<br>
+<a href="https://web.mit.edu/tslvr/www/lessons_two_years.html">Advice and sources from ML research student</a><br>
+<br>
 <u>Better Python REPL:</u>
 <br>
 <a href="https://ipython.org/">IPython</a><br>
 <a href="https://www.bpython-interpreter.org/">bpython</a><br>
 <a href="https://github.com/prompt-toolkit/ptpython">ptpython</a><br>
 <br>
-<a href="https://web.mit.edu/tslvr/www/lessons_two_years.html">Advice and sources from AI research student</a><br>
 <u>Python IDE:</u>
 <br>
 <a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">List of IDEs with description</a><br>
