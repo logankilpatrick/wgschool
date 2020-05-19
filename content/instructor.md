@@ -29,3 +29,13 @@ installation session before your course starts.
 Finally, please [let us know](mailto:training@westgrid.ca) the starting times (in the Pacific timezone)
 and lengths of all your Zoom sessions, so that we could schedule these and email the details to you and
 to all registered participants in your course.
+
+## Recording software
+
+If you decide to pre-record screencast videos for your course, we recommend [OBS](https://obsproject.com):
+it is open-source and multi-platform, and works really well, but there is some learning curve. I record
+the screen and my audio, but not my head.
+
+For editing out pauses, etc. I use [Shotcut](https://shotcut.org) on my Mac, but really any free editing
+software will do. If you want, we can even edit for you -- simply email me (Alex) the original screencast
+recording.

@@ -4,3 +4,7 @@ slug = "vis-02-arch"
 weight = 2
 +++
 
+## Running paraview (11 min)
+
+<!-- 02-arch.mp4 -->
+{{< yt FloAMW6niRM 63 >}}

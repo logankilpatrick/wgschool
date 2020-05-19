@@ -24,8 +24,8 @@ Plotly on your computer -- we will have it installed on our remote cluster.
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../vis/vis-01-intro" text="Introduction" >}}<br>
-{{< link url="../vis/vis-02-arch" text="ParaView architecture and GUI" >}}<br>
+{{< link url="../vis/vis-01-intro" text="Introduction (40 min)" >}}<br>
+{{< link url="../vis/vis-02-arch" text="ParaView architecture and GUI (11 min)" >}}<br>
 {{< link url="../vis/vis-03-import" text="Importing data into ParaView" >}}<br>
 {{< link url="../vis/vis-04-filters" text="Working with ParaView filters" >}}
 {{< /video >}}<br>
