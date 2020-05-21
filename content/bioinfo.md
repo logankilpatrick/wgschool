@@ -63,3 +63,5 @@ with Brian McConeghy
 <b>9am-noon Pacific</b>
 Live session
 {{< /zoom >}}
+
+- 60min presentation followed by live Q&A

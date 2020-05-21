@@ -6,16 +6,27 @@ weight = 3
 
 ## File formats and reading raw binary (7 min)
 
-03a-raw.mp4
+<!-- 03a-raw.mp4 -->
+{{< yt gcqeOSTXUTQ 63 >}}
 
 ## VTK file formats
 
-03b-vtk.mp4
-03c-xml-vtk.mp4
+#### Overview and legacy VTK (13 min)
 
-## Scientific file formats
+<!-- 03b-vtk.mp4 -->
+{{< yt IRuZ4DiiwDs 63 >}}
 
-03d-netcdf-hdf5-openfoam.mp4
+#### XML VTK (4 min)
+
+<!-- 03c-xml-vtk.mp4 -->
+{{< yt 3iiI7VUrgsM 63 >}}
+
+## Scientific file formats (5 min)
+
+<!-- 03d-netcdf-hdf5-openfoam.mp4 -->
+{{< yt _kJZRbPQsBE 63 >}}
+
+
 
 
 
