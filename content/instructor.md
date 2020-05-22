@@ -17,7 +17,10 @@ everyone's problems. The goal is to try our best to debug the most common / impo
 the solutions with all participants. In WestGrid Central courses we will be using
 [Socrative](https://socrative.com) to set 10-15 checkpoints per session at which participants will be
 invited to provide information on their problems or lack thereof. We will be using Socrative also for
-quizzes and to track attendance and participant engagement.
+quizzes and to track attendance and participant engagement. If you are interested in using Socrative for
+your course, please develop your quizzes using a free Socrative account,
+[share it](https://help.socrative.com/en/articles/2155299-share-your-quiz-with-another-socrative-user)
+with us, and we will import it into WestGrid's Socrative Pro account (with 150 student seats).
 
 In other words, we encourage you to structure your Zoom sessions in such a way that there is a feedback
 loop to allow large-scale problem debugging. If we have several helpers, you might also want to use
