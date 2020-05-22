@@ -27,7 +27,7 @@ Plotly on your computer -- we will have it installed on our remote cluster.
 {{< link url="../vis/vis-01-intro" text="Introduction (40 min)" >}}<br>
 {{< link url="../vis/vis-02-arch" text="ParaView architecture and GUI (11 min)" >}}<br>
 {{< link url="../vis/vis-03-import" text="Importing data into ParaView (29 min)" >}}<br>
-{{< link url="../vis/vis-04-filters" text="Working with ParaView filters" >}}
+{{< link url="../vis/vis-04-filters" text="Working with ParaView filters (35 min)" >}}
 {{< /video >}}<br>
 
 {{< zoom >}}
@@ -40,8 +40,8 @@ Plotly on your computer -- we will have it installed on our remote cluster.
 {{< /zoom >}}
 
 {{< video >}}
-{{< link url="../vis/vis-05-export" text="Exporting scenes" >}}<br>
-{{< link url="../vis/vis-06-animation" text="Animation in ParaView" >}}<br>
+{{< link url="../vis/vis-05-export" text="Exporting scenes  (5 min)" >}}<br>
+{{< link url="../vis/vis-06-animation" text="Animation in ParaView (14 min)" >}}<br>
 {{< link url="../vis/vis-07-scripting" text="Python scripting in ParaView" >}}<br>
 {{< link url="../vis/vis-08-remote" text="Remote and distributed visualization" >}}<br>
 {{< link url="../vis/vis-09-summary" text="Summary" >}}
