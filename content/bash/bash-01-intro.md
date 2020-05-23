@@ -76,5 +76,5 @@ If you are trying to ssh into the training cluster and you get one of these erro
 - *"Connection refused"*
 
 and you are 100% certain that you type the password correctly, we might need to check if your IP address
-is blocked on too many attempts to log in. Please go to https://whatismyipaddress.com and tell us your
+is blocked after too many attempts to log in. Please go to https://whatismyipaddress.com and tell us your
 IPv4 address so that we could whitelist it.

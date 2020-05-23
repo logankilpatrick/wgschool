@@ -50,7 +50,7 @@ on the cluster will get killed hence terminating your `pvserver`.
 
 In ParaView it is easy to monitor your memory usage via View | Memory Inspector.
 
-If you are running our of memory with a remote, distributed visualization (we will study this later), the
+If you are running out of memory with a remote, distributed visualization (we will study this later), the
 best option is to ask for more CPU cores with a fixed `--mem-per-cpu`. Not only will this give you more
 total memory, it will also speed up your rendering and data reading, assuming that your file format
 supports parallel I/O.
