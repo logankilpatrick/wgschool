@@ -22,15 +22,3 @@ screen if you requre assistance: it will help us help you and help others with s
 
 You will need to register for one of the summer school courses to receive the Zoom details for these
 sessions.
-
-## SSH connection problems
-
-If you are trying to ssh into the training cluster and you get one of these errors
-
-- *"Permission denied, please try again"*
-- *"Network error: Connection timed out"*
-- *"Connection refused"*
-
-and you are 100% certain that you type the password correctly, we might need to check if your IP address
-is blocked on too many attempts to log in. Please go to https://whatismyipaddress.com and tell us your
-IPv4 address so that we could whitelist it.
