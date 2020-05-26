@@ -27,7 +27,7 @@ In this session, I will go over the program for this course and we will get to k
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-03-install.html" text="Software installation">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-03-install.html" text="Software installation and data download">}}
 {{</practice>}}
 
 {{<video>}}
