@@ -27,7 +27,7 @@ In this session, I will go over the program for this course and we will get to k
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-03-config.html" text="Configuring Git">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-03-config.html" text="Installing and configuring Git">}}
 {{</practice>}}
 
 {{<reading>}}
