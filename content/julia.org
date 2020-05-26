@@ -39,8 +39,8 @@ In this session, I will go over the program for this course and we will get to k
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have carefully followed the sessions on installing <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">Julia</a> and <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">Julia packages</a>, but are still stuck with technical difficulties.
+{{<link url="https://westgrid-julia.netlify.app/school/jl-06-debug.html" text="Issues installing Julia and Julia packages or downloading the data">}}<br>
+This debugging session is not part of the actual course. If you successfully <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">installed the required software and downloaded the data</a> and if you <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">installed the required Julia packages</a>, you do not need to attend it.
 {{</dt>}}
 
 *June 2*
