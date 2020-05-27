@@ -53,7 +53,7 @@ This debugging session is not part of the actual course. If you successfully <a 
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting in Julia">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting">}}
 {{</practice>}}
 
 {{<video>}}
