@@ -2,3 +2,5 @@ public/
 resources/
 .DS_Store
 usernames/
+scripts/
+sessions/
