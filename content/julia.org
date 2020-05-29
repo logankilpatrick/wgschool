@@ -87,9 +87,9 @@ This debugging session is not part of the actual course. If you successfully <a 
 <br>
 <u>IDE:</u>
 <br>
+<a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/JuliaEditorSupport/julia-emacs">julia-emacs</a> and <a href="https://github.com/tpapp/julia-repl">julia-repl</a> packages<br>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/emacs-ess/ESS">ESS</a> package<br>
-<a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a><br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a> in <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="http://millejoh.github.io/emacs-ipython-notebook/">EIN</a> package<br>
 {{</external>}}
