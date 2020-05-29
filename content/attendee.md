@@ -45,6 +45,13 @@ content.
 A base-level knowledge of Linux is required for all courses, and this can be achieved by attending the
 [Bash course](../bash-menu) in Week 1.
 
+#### Zoom details
+
+Zoom links will be sent to all registered institutional email addresses in each course several business
+days prior to the day of the course. If you haven't received your Zoom link information by the end of the
+week before the course, check your Junk or Spam filters to ensure your email program hasn't incorrectly
+filtered the message from your inbox.
+
 #### Time zone
 
 Please note that all live Zoom session times follow the **Pacific Daylight Time** or UTC-07:00.
