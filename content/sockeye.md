@@ -7,7 +7,7 @@ This **1-day** course will be of interest to you if you already have an account 
 planning to obtain an account. Sockeye is a UBC cluster, therefore, in general it is not available to
 non-UBC researchers, unless you have a collaboration with a UBC research team.
 
-**Instructor**: Roman Baranowski (UBC / WestGrid)
+**Instructor**: Roman Baranowski and Ryan Thomson (UBC / WestGrid)
 
 <!-- **Course plan**: -->
 
