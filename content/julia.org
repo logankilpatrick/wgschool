@@ -43,14 +43,14 @@ In this session, I will go over the program for this course and we will get to k
 This debugging session is not part of the actual course. If you successfully <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">installed the required software and downloaded the data</a> and if you <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">installed the required Julia packages</a>, you do not need to attend it.
 {{</dt>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-07-fun.html" text="Functions and macros">}}
+{{</reading>}}
+
 *June 2*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-08-var.html" text="Variables and types">}}
 {{</zt>}}
-
-{{<reading>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros">}}
-{{</reading>}}
 
 {{<practice>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting">}}
@@ -87,9 +87,9 @@ This debugging session is not part of the actual course. If you successfully <a 
 <br>
 <u>IDE:</u>
 <br>
+<a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/JuliaEditorSupport/julia-emacs">julia-emacs</a> and <a href="https://github.com/tpapp/julia-repl">julia-repl</a> packages<br>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="https://github.com/emacs-ess/ESS">ESS</a> package<br>
-<a href="https://junolab.org/">Juno</a> (built on <a href="https://atom.io/">Atom</a>)<br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a><br>
 <a href="https://jupyter.org/">Project Jupyter</a> with the <a href="https://github.com/JuliaLang/IJulia.jl">Julia kernel</a> in <a href="https://www.gnu.org/software/emacs/">Emacs</a> with the <a href="http://millejoh.github.io/emacs-ipython-notebook/">EIN</a> package<br>
 {{</external>}}
