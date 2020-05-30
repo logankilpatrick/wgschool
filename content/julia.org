@@ -44,7 +44,7 @@ This debugging session is not part of the actual course. If you successfully <a 
 {{</dt>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-07-fun.html" text="Functions and macros">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-07-fun.html" text="Functions, control flow, and macros">}}
 {{</reading>}}
 
 *June 2*
