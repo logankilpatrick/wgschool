@@ -43,14 +43,14 @@ In this session, I will go over the program for this course and we will get to k
 This debugging session is not part of the actual course. If you successfully <a href="https://westgrid-julia.netlify.app/school/jl-03-install.html">installed the required software and downloaded the data</a> and if you <a href="https://westgrid-julia.netlify.com/school/jl-05-pkg.html">installed the required Julia packages</a>, you do not need to attend it.
 {{</dt>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-07-fun.html" text="Functions and macros">}}
+{{</reading>}}
+
 *June 2*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-07-var.html" text="Variables and types">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-08-var.html" text="Variables and types">}}
 {{</zt>}}
-
-{{<reading>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-08-fun.html" text="Functions and macros">}}
-{{</reading>}}
 
 {{<practice>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting">}}
