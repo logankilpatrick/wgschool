@@ -48,7 +48,7 @@ This debugging session is not part of the actual course. If you successfully <a 
 {{</reading>}}
 
 *June 2*
-{{<zt "9–10am">}}
+{{<zt "9–11am">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-08-var.html" text="Variables and types">}}
 {{</zt>}}
 
@@ -60,7 +60,7 @@ This debugging session is not part of the actual course. If you successfully <a 
 {{<link url="https://westgrid-julia.netlify.app/school/jl-10-parallel.html" text="Parallel programming">}}
 {{</video>}}
 
-{{<zt "2–3:30pm">}}
+{{<zt "2–3pm">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing">}}
 {{</zt>}}
 
