@@ -47,7 +47,8 @@ This debugging session is not part of the actual course. If you successfully <a 
 
 *June 2*
 {{<zt "9–11am">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-08-var.html" text="Variables and types">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-08-var.html" text="Variables and types">}}<br>
+In this session, we will write our first Julia script; talk about Julia's syntax, variables and types; data import and export; data frames and indexing; and we will prepare the data to plot in the next session. <em>Please come prepared with your installations and data (on your computer).</em>
 {{</zt>}}
 
 {{<practice>}}
