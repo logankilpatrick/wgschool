@@ -60,7 +60,7 @@ In this session, we will write our first Julia script; talk about Julia's syntax
 {{</practice>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-11-hpc.html" text="HPC">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-11-cluster.html" text="Using Julia on Compute Canada clusters">}}
 {{</reading>}}
 
 {{<zt "2–3pm">}}
