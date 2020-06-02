@@ -29,11 +29,24 @@ before the course.
 
 <!-- **Software**: -->
 
+You will be using a machine called *westgrid.syzygy.ca* with your GitHub account -- you can access it
+[here in your web browser](https://westgrid.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fianabc%2FWestGridRSS2020&urlpath=tree%2FWestGridRSS2020%2F). Once
+you log in, the system will clone the course materials for you.
+
 **June-03**
 {{< zoom >}}
 <b>9am-noon Pacific</b>
 Live session: 30-40 min presentation blocks interleaved with hands-on exercises.
 {{< /zoom >}}
+
+
+
+
+
+
+
+
+
 
 
 
