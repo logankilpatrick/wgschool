@@ -55,9 +55,9 @@ In this session, we will write our first Julia script; talk about Julia's syntax
 {{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting">}}
 {{</practice>}}
 
-{{<reading>}}
+{{<practice>}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-10-multithreading" text="Multi-threading">}}
-{{</reading>}}
+{{</practice>}}
 
 {{<zt "2–3pm">}}
 {{<link url="https://westgrid-julia.netlify.app/school/jl-11-distributed.html" text="Distributed computing">}}
