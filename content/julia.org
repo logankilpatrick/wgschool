@@ -55,16 +55,20 @@ In this session, we will write our first Julia script; talk about Julia's syntax
 {{<link url="https://westgrid-julia.netlify.app/school/jl-09-plots.html" text="Plotting">}}
 {{</practice>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-10-cluster.html" text="Using Julia on Compute Canada clusters">}}
+{{</reading>}}
+
 {{<practice>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-10-multithreading" text="Multi-threading">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-11-multithreading" text="Multi-threading">}}
 {{</practice>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-11-cluster.html" text="Using Julia on Compute Canada clusters">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-12-distributed.html" text="Distributed computing">}}
 {{</reading>}}
 
 {{<zt "2–3pm">}}
-{{<link url="https://westgrid-julia.netlify.app/school/jl-12-distributed.html" text="Distributed computing">}}
+{{<link url="https://westgrid-julia.netlify.app/school/jl-13-parallel.html" text="Parallel computing in Julia">}}
 {{</zt>}}
 
 {{<external>}}
