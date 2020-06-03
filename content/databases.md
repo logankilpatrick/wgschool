@@ -39,14 +39,29 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 database MySQL and Postgres servers on Cedar and Graham. Here is the
 <a href="https://docs.computecanada.ca/wiki/Database_servers" target="_blank">official documentation</a>.
 
+<!-- Alex is planning to pre-record most of the material and have live sessions only to address questions
+and kickstart the course. -->
+
 **June-24**
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>9am-9:30am Pacific</b> Introduction and Syllabus
+{{< /zoom >}}
+
+{{< video >}}
+30 min
+{{< /video >}}<br>
+
+{{< zoom >}}
+<b>2pm-3pm Pacific</b> Exercises discussion and problem debugging (optional)
 {{< /zoom >}}
 
 **June-25**
+{{< video >}}
+30 min
+{{< /video >}}<br>
+
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>11am-noon Pacific</b> Live session: Wrap up and questions
 {{< /zoom >}}
+
+<!-- Live session: 30-40 min presentation blocks. -->
