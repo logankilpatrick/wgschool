@@ -6,3 +6,5 @@ slug = "vis-opening2"
 1. review the program for today
 1. answer any questions
 1. share the afternoon exercises
+
+1h30m of videos to watch today!
