@@ -12,7 +12,7 @@ slug = "vis-opening1"
 
 You have 1h55m of videos to watch today!
 
-Plotly is a **side topic** to show some interactive visualizations where ParaView is an overkill. Please
+Plotly is a **side topic** to show some simple interactive plotting where ParaView is an overkill. Please
 do not spend more than 30 mins on it, or you will have no time left for 3D visualization! On the other
 hand, if all you are interested is 1D/2D plotting then feel free to spend more time on Plotly.
 
