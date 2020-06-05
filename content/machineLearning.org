@@ -33,7 +33,7 @@ I will go over the program for this course and we will introduce each other.
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-04-install.html" text="Installing Python and PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-04-install.html" text="Installing Python and PyTorch locally">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
