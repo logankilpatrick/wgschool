@@ -51,7 +51,7 @@ This session is not part of the actual course. Please only sign up for it if you
 
 *June 9*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-08-mlp.html" text="MNIST classification with a MLP">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-08-mlp.html" text="MNIST classification with an MLP">}}<br>
 {{</zt>}}
 
 {{<practice>}}
