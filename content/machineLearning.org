@@ -45,14 +45,14 @@ I will go over the program for this course and we will introduce each other.
 This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/school/pt-04-install.html">installing Python and PyTorch</a> but are having issues, or if you are unable to ssh into the training cluster.
 {{</dt>}}
 
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-07-pytorch.html" text="Introduction to PyTorch">}}<br>
+{{</practice>}}
+
 *June 9*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-07-pytorch.html" text="Introduction to PyTorch">}}<br>
-{{</zt>}}
-
-{{<practice>}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-08-mlp.html" text="MNIST classification with a MLP">}}<br>
-{{</practice>}}
+{{</zt>}}
 
 {{<practice>}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-09-cnn.html" text="MNIST classification with a CNN">}}<br>
