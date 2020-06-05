@@ -66,6 +66,10 @@ This session is not part of the actual course. Please only sign up for it if you
 {{<link url="https://westgrid-ml.netlify.app/school/pt-10-cluster.html" text="PyTorch on the Compute Canada clusters">}}<br>
 {{</reading>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-11-distributed.html" text="Distributed computing with PyTorch">}}<br>
+{{</reading>}}
+
 {{<zt "2–3:30pm">}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-12-tl.html" text="Transfer learning">}}<br>
 {{</zt>}}
