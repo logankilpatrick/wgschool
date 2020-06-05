@@ -28,8 +28,6 @@ order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-Please download introductory [PDF slides](http://bit.ly/chapeltop).
-
 {{< figure src="/images/solveMulti.gif" >}}
 
 **June-11**
@@ -37,10 +35,11 @@ Please download introductory [PDF slides](http://bit.ly/chapeltop).
 <b>9am-9:45am Pacific</b> {{< link url="../chapel-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
-{{< video >}}
+{{< reading >}}
 {{< link url="../chapel/chapel-01-base" text="Basic language features" >}}<br>
-{{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}<br>
-{{< /video >}}<br>
+{{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}
+(try to get here as far as you can, and resume tomorrow)
+{{< /reading >}}<br>
 
 {{< zoom >}}
 <b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
@@ -51,9 +50,10 @@ Please download introductory [PDF slides](http://bit.ly/chapeltop).
 <b>9am-9:45am Pacific</b> {{< link url="../chapel-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
-{{< video >}}
+{{< reading >}}
+{{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}(continue where you left off yesterday)<br>
 {{< link url="../chapel/chapel-03-domain-parallelism" text="Domain parallelism" >}}
-{{< /video >}}<br>
+{{< /reading >}}<br>
 
 {{< zoom >}}
 <b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and

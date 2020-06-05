@@ -41,6 +41,7 @@ database MySQL and Postgres servers on Cedar and Graham. Here is the
 
 <!-- Alex is planning to pre-record most of the material and have live sessions only to address questions
 and kickstart the course. -->
+<!-- Alex should have videos ready by June-12 ("end of that week") -->
 
 **June-24**
 {{< zoom >}}
