@@ -36,26 +36,30 @@ I will go over the program for this course and we will introduce each other.
 {{<link url="https://westgrid-ml.netlify.app/school/pt-04-install.html" text="Installing Python and PyTorch locally">}}<br>
 {{</practice>}}
 
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-05-cluster.html" text="Running ML jobs on Compute Canada clusters">}}<br>
+{{</practice>}}
+
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-05-debug.html" text="Issues installing PyTorch">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-ml.netlify.app/school/pt-04-install.html">installing Python and PyTorch</a>, but are still having technical difficulties.
+{{<link url="https://westgrid-ml.netlify.app/school/pt-06-debug.html" text="Issues installing PyTorch locally or logging to the training cluster">}}<br>
+This session is not part of the actual course. Please only sign up for it if you have followed the instructions in <a href="https://westgrid-ml.netlify.app/school/pt-04-install.html">installing Python and PyTorch</a>, but are having issues, or if you are unable to log in to the training cluster.
 {{</dt>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-06-pytorch.html" text="Introduction to PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-07-pytorch.html" text="Introduction to PyTorch">}}<br>
 {{</practice>}}
 
 *June 9*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-07-mlp.html" text="MNIST classification with a MLP">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-08-mlp.html" text="MNIST classification with a MLP">}}<br>
 {{</zt>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-08-cnn.html" text="MNIST classification with a CNN">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-09-cnn.html" text="MNIST classification with a CNN">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-09-tensorboard.html" text="Tracking model performance with TensorBoard">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-10-tensorboard.html" text="Tracking model performance with TensorBoard">}}<br>
 {{</video>}}
 
 {{<reading>}}
@@ -63,7 +67,7 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</reading>}}
 
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-11-tl.html" text="Transfer learning">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-12-tl.html" text="Transfer learning">}}<br>
 {{</zt>}}
 
 {{<external>}}
