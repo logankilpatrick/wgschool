@@ -37,37 +37,33 @@ I will go over the program for this course and we will introduce each other.
 {{</practice>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-05-hpc.html" text="Running ML jobs on Compute Canada clusters">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-05-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
 {{</reading>}}
 
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-06-debug.html" text="Issues installing PyTorch locally or logging to the training cluster">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-06-debug.html" text="Issues installing PyTorch locally or logging in the training cluster">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/school/pt-04-install.html">installing PyTorch and logging in the training cluster</a> but are having issues.
 {{</dt>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-07-pytorch.html" text="Introduction to PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-07-exposure.html" text="First exposure to PyTorch">}}<br>
 {{</practice>}}
 
 *June 9*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-08-mlp.html" text="MNIST classification with an MLP">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-08-basics.html" text="PyTorch basics">}}<br>
 {{</zt>}}
 
-{{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-09-cnn.html" text="MNIST classification with a CNN">}}<br>
-{{</practice>}}
-
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-10-tensorboard.html" text="Tracking model performance with TensorBoard">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-09-tensorboard.html" text="Tracking model performance with TensorBoard">}}<br>
 {{</video>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-11-distributed.html" text="Distributed computing with PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-10-distributed.html" text="Distributed computing with PyTorch">}}<br>
 {{</reading>}}
 
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-12-tl.html" text="Transfer learning">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-11-mnist.html" text="MNIST classification">}}<br>
 {{</zt>}}
 
 {{<external>}}
