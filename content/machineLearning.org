@@ -37,7 +37,7 @@ I will go over the program for this course and we will introduce each other.
 {{</practice>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-05-cluster.html" text="Running ML jobs on Compute Canada clusters">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-05-hpc.html" text="Running ML jobs on Compute Canada clusters">}}<br>
 {{</reading>}}
 
 {{<dt "2–3:30pm">}}
