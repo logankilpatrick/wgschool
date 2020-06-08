@@ -48,22 +48,20 @@ This session is not part of the actual course. Please only sign up for it if you
 *June 9*
 {{<zt "9–10am">}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-07-basics.html" text="PyTorch basics">}}<br>
+In this session, we will discuss <a href="https://westgrid-ml.netlify.app/school/pt-06-exposure.html">the code you looked at yesterday</a> and move from there to some of the key features of PyTorch.
 {{</zt>}}
 
-{{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-08-tensorboard.html" text="Tracking model performance with TensorBoard">}}<br>
-{{</video>}}
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-08-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
+{{</reading>}}
 
 {{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/school/pt-09-distributed.html" text="Distributed computing with PyTorch">}}<br>
 {{</reading>}}
 
-{{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-10-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
-{{</reading>}}
-
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-11-mnist.html" text="MNIST classification">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-10-mnist.html" text="MNIST classification">}}<br>
+In this session, we will apply the functions we learnt in <a href="https://westgrid-ml.netlify.app/school/pt-07-basics.html">PyTorch basics</a> to a real example. As we train our model, we will track its performance with TensorBoard.
 {{</zt>}}
 
 {{<external>}}
