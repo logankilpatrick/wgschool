@@ -42,7 +42,7 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-06-code.html" text="How to code a neural network?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-06-tensor.html" text="Tensors">}}<br>
 {{</practice>}}
 
 {{<video>}}
@@ -58,11 +58,11 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</video>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-10-calculus.html" text="Calculus of backpropagation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-10-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-11-gradient.html" text="Our turn to dive into backpropagation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/school/pt-11-gradient.html" text="Gradient descent">}}<br>
 {{</practice>}}
 
 *July xx*
