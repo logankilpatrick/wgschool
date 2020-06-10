@@ -52,7 +52,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 {{< reading >}}
 {{< link url="../chapel/chapel-02-task-parallelism" text="Task parallelism" >}}(continue where you left off yesterday)<br>
-{{< link url="../chapel/chapel-03-domain-parallelism" text="Domain parallelism" >}}
+{{< link url="../chapel/chapel-03-domain-parallelism" text="Data parallelism" >}}
 {{< /reading >}}<br>
 
 {{< zoom >}}

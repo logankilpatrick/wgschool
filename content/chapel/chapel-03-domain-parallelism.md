@@ -1,5 +1,5 @@
 +++
-title = "Domain parallelism"
+title = "Data parallelism"
 slug = "chapel-03-domain-parallelism"
 weight = 3
 +++
@@ -51,8 +51,8 @@ forall i in 1..1000 with (+ reduce count) {   // parallel loop
 writeln('count = ', count);
 ~~~
 
-If we have not done so, let's write a script `shared.sh` for submitting single-locale, three-processor
-Chapel jobs:
+If we have not done so, let's write a script `shared.sh` for submitting single-locale, two-core Chapel
+jobs:
 
 <!-- ~~~ {.bash} -->
 <!-- $ module load gcc chapel-single/1.15.0 -->
@@ -83,7 +83,7 @@ count = 500500
 ~~~
 
 We computed the sum of integers from 1 to 1000 in parallel. How many cores did the code run on? Looking
-at the code or its output, **we don't know**. Most likely, on three cores available to us inside the
+at the code or its output, **we don't know**. Most likely, on two cores available to us inside the
 job. But we can actually check that!
 
 (1) replace `count += i;` with `count = 1;`  
@@ -95,7 +95,7 @@ $ sbatch shared.sh
 $ cat solution.out
 ~~~
 ~~~
-actual number of threads = 3
+actual number of threads = 2
 ~~~
 
 > ## Exercise 1
@@ -165,7 +165,7 @@ you would simply compile the code and use the launcher binary `mybinary` to run 
 
 For the rest of this class we assume that you have a working multi-locale Chapel environment, whether
 provided by a Docker container or by multi-locale Chapel on a physical HPC cluster. We will run all
-examples on four nodes with three cores per node.
+examples on four nodes with two cores per node.
 
 <!-- ~~~ {.bash} -->
 <!-- $ chpl mycode.chpl -o mybinary -->
@@ -261,7 +261,7 @@ We want to run some code on each locale (node). For that, we can cycle through l
 ~~~
 for loc in Locales do   // this is still a serial program
   on loc do             // run the next line on locale `loc`
-    writeln("this locale is named ", here.name[1..5]);   // `here` is the locale on which the code is running
+    writeln("this locale is named ", here.name[0..4]);   // `here` is the locale on which the code is running
 ~~~
 
 This will produce
@@ -285,7 +285,7 @@ To run this code in parallel, starting four simultaneous tasks, one per locale, 
 ~~~
 forall loc in Locales do   // now this is a parallel loop
   on loc do
-    writeln("this locale is named ", here.name[1..5]);
+    writeln("this locale is named ", here.name[0..4]);
 ~~~
 
 This starts four tasks in parallel, and the order in which the print statement is executed depends on the
@@ -345,7 +345,7 @@ cores available inside our job on each node (maximum parallelism), it lists the 
 each node available to all running jobs which is not the same as the total memory per node allocated to
 our job.
 
-# Data parallelism
+# Multi-locale data parallelism
 
 ## Local domains
 
@@ -508,7 +508,7 @@ const largerMesh: domain(2) dmapped Block(boundingBox=mesh) = {0..n+1,0..n+1};
 
 but let us not worry about this for now.
 
-Running our code on four locales with three cores per locale produces the following output:
+Running our code on four locales with two cores per locale produces the following output:
 
 ~~~
 0-node1-2   0-node1-2   0-node1-2   0-node1-2   1-node2-2   1-node2-2   1-node2-2   1-node2-2__
@@ -524,10 +524,9 @@ Running our code on four locales with three cores per locale produces the follow
 As we see, the domain `distributedMesh` (along with the string array `A` on top of it) was decomposed
 into 2x2 blocks stored on the four nodes, respectively. Equally important, for each element `a` of the
 array, the line of code filling in that element ran on the same locale where that element was stored. In
-other words, this code ran in parallel (`forall` loop) on four nodes, using up to three cores on each
-node to fill in the corresponding array elements. Once the parallel loop is finished, the `writeln`
-command runs on locale 0 gathering remote elements from other locales and printing them to standard
-output.
+other words, this code ran in parallel (`forall` loop) on four nodes, using up to two cores on each node
+to fill in the corresponding array elements. Once the parallel loop is finished, the `writeln` command
+runs on locale 0 gathering remote elements from other locales and printing them to standard output.
 
 Now we can print the range of indices for each sub-domain by adding the following to our code:
 
@@ -559,7 +558,7 @@ writeln("actual number of threads = ", count);
 ~~~
 
 If `n=8` in our code is sufficiently large, there are enough array elements per node (8*8/4 = 16 in our
-case) to fully utilize all three available cores on each node, so our output should be
+case) to fully utilize the two available cores on each node, so our output should be
 
 ~~~ {.bash}
 $ chpl test.chpl -o test
@@ -1000,13 +999,14 @@ $ ls -l *dat
 
 The file *output.dat* should contain the 8x8 temperature array after convergence.
 
-# Ideas for future topics
+# Other topics
 
-* binary I/O
-  * check https://chapel-lang.org/publications/ParCo-Larrosa.pdf
-* write/read NetCDF from Chapel by calling a C/C++ function
-* advanced: take a simple non-linear problem, linearize it, implement a parallel multi-locale linear
-  solver entirely in Chapel
+* binary I/O: check https://chapel-lang.org/publications/ParCo-Larrosa.pdf
+* calling C/C++ functions from Chapel
+* writing arrays to NetCDF and HDF5 files from Chapel: covered in our
+  [March 2020 webinar](https://westgrid.github.io/trainingMaterials/programming#working-with-data-files-and-external-c-libraries-in-chapel)
+* advanced: take a simple 2D or 3D non-linear problem, linearize it, implement a parallel multi-locale
+  linear solver entirely in Chapel
 
 # Solutions
 

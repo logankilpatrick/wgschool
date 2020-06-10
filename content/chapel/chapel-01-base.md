@@ -133,15 +133,15 @@ the following **_finite difference equation_**:
 Tnew[i,j] = 0.25 * (T[i-1,j] + T[i+1,j] + T[i,j-1] + T[i,j+1])
 ```
 
-- Tnew = new temperature computed at the current iteration
-- T = temperature calculated at the past iteration (or the initial conditions at the first iteration)
+- `Tnew` = new temperature computed at the current iteration
+- `T` = temperature calculated at the past iteration (or the initial conditions at the first iteration)
 - the indices (i,j) indicate the grid point located at the i-th row and the j-th column
 
 So, our objective is to:
 
 1. Write a code to implement the difference equation above.The code should have the following
    requirements: (a) it should work for any given number of rows and columns in the grid, (b) it should
-   run for a given number of iterations, or until the difference between Tnew and T is smaller than a
+   run for a given number of iterations, or until the difference between `Tnew` and `T` is smaller than a
    given tolerance value, and (c) it should output the temperature at a desired position on the grid
    every given number of iterations.
 1. Use task parallelism to improve the performance of the code and run it on a single cluster node.

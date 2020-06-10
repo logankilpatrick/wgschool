@@ -532,10 +532,15 @@ simulation of the heat transfer equation.
 
 # Parallelizing the heat transfer equation
 
-1. divide the entire grid of points into blocks and assign blocks to individual threads
-1. each thread should compute the new temperature of its assigned points
-1. then we must perform a **_reduction_** over the whole grid, to update the greatest temperature
-   difference between Tnew and T
+**Important:** We suggest skipping to [data parallelism](../chapel-03-domain-parallelism) (next session)
+and coming back here only if/when you have time.
+
+Here is our plan to task-parallelize the heat transfer equation:
+
+1. divide the entire grid of points into blocks and assign blocks to individual threads,
+1. each thread should compute the new temperature of its assigned points,
+1. perform a **_reduction_** over the whole grid, to update the greatest temperature difference between
+   `Tnew` and `T`.
 
 For the reduction of the grid we can simply use the `max reduce` statement, which is already
 parallelized. Now, let's divide the grid into `rowtasks` * `coltasks` subgrids, and assign each subgrid
