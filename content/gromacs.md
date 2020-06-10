@@ -21,7 +21,10 @@ order to participate in the course exercises. On Windows we recommend
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
 **June-15**
+{{< video >}}
+Presentation (60 min)
+{{< /video >}}<br>
+
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>11am-12:30pm Pacific</b> Follow-up Q&A session.
 {{< /zoom >}}
