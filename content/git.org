@@ -1,8 +1,6 @@
 #+title: Introduction to version control with Git
 #+slug: git
 
-/(Under development)/
-{{<2br>}}
 {{<i>}}
 {{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
 {{<itxtb "Length:" "2 days">}}<br>
