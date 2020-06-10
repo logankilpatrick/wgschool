@@ -1,0 +1,123 @@
+#+title: Introduction to ML with PyTorch
+#+slug: mlremake
+
+{{<i>}}
+{{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
+{{<itxtb "Length:" "2 days">}}<br>
+{{<itxtb "Level:" Beginner>}}<br>
+{{<itxtb "Prerequisites:" "Familiarity with Python*">}}<br>
+{{<itxtb "Goal:" "Clarify concepts of machine learning and guide you through the first steps with PyTorch">}}<br>
+{{<itxt "Program:" "We will meet during the Zoom sessions">}}<br>
+{{<itxt " " "You will go over the material in Readings, Videos, and Practices on your own">}}<br>
+{{<itxt " " "Going over the self-directed sections prior to our meetings is necessary to be able to follow">}}<br>
+{{<itxtb " " " ">}}<br>
+{{<itxtb "Time zone:" "Pacific Daylight Time (UTC-07:00)">}}<br>
+{{</i>}}
+
+#+BEGIN_export html
+<b>*</b>Those wanting to prepare for this course could read the <a href="https://docs.python.org/3/tutorial/">Python</a> and <a href="https://numpy.org/devdocs/user/quickstart.html">NumPy</a> tutorials (PyTorch has <a href="https://pytorch-for-numpy-users.wkentaro.com/">many similarities</a> with NumPy).
+#+END_export
+
+*July xx*
+{{<zt "9–9:30am">}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to the WestGrid Summer School PyTorch course">}}<br>
+I will go over the program for this course and we will introduce each other.
+{{</zt>}}
+
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-02-concepts.html" text="Concepts">}}<br>
+{{</reading>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-03-install.html" text="Installing PyTorch and logging in the training cluster">}}<br>
+{{</practice>}}
+
+{{<dt "2–3:30pm">}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues installing PyTorch locally or logging in the training cluster">}}<br>
+This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/school/pt-03-install.html">installing PyTorch and logging in the training cluster</a> but are having issues.
+{{</dt>}}
+
+{{<video>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-05-nn.html" text="What is a neural network?">}}<br>
+{{</video>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-06-code.html" text="How to code a neural network?">}}<br>
+{{</practice>}}
+
+{{<video>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-07-learning.html" text="How do neural networks learn?">}}<br>
+{{</video>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-08-loss.html" text="Loss function">}}<br>
+{{</practice>}}
+
+{{<video>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-09-backprop.html" text="Backpropagation">}}<br>
+{{</video>}}
+
+{{<video>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-10-calculus.html" text="Calculus of backpropagation">}}<br>
+{{</video>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-11-gradient.html" text="Our turn to dive into backpropagation">}}<br>
+{{</practice>}}
+
+*July xx*
+{{<zt "9–10am">}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-12-firstnn" text="Our first neural network">}}<br>
+In this session, we will put everything you learnt yesterday together to write our first neural network. Then we will start tweaking it to make it better, tracking its performance with TensorBoard.
+{{</zt>}}
+
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-13-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
+{{</reading>}}
+
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-14-distributed.html" text="Distributed computing with PyTorch">}}<br>
+{{</reading>}}
+
+{{<zt "2–3:30pm">}}
+{{<link url="https://westgrid-ml.netlify.app/school/pt-15-wrapup.html" text="Wrapping up">}}<br>
+In this session, we will try to answer questions and wrap up the course.
+{{</zt>}}
+
+{{<external>}}
+<u>PyTorch documentation:</u>
+<br>
+<a href="https://pytorch.org/">PyTorch website</a><br>
+<a href="https://pytorch.org/docs/stable/index.html">PyTorch documentation</a><br>
+<a href="https://pytorch.org/tutorials/">PyTorch tutorials</a><br>
+<a href="https://www.fast.ai/">PyTorch online courses</a><br>
+<a href="https://github.com/pytorch/examples">PyTorch examples</a><br>
+<br>
+<u>Getting help with PyTorch:</u>
+<br>
+<a href="https://discuss.pytorch.org/">PyTorch Discourse forum</a><br>
+<br>
+<u>Open-access ML preprints:</u>
+<br>
+<a href="http://arxiv-sanity.com/">Arxiv Sanity Preserver by Andrej Karpathy</a><br>
+<a href="https://arxiv.org/list/cs.LG/recent">ML papers in the computer science category on arXiv</a><br>
+<a href="https://arxiv.org/list/stat.ML/recent">ML papers in the stats category on arXiv</a><br>
+<a href="https://distill.pub/">Distill ML research online journal</a><br>
+<br>
+<u>Advice and sources for ML:</u>
+<br>
+<a href="https://web.mit.edu/tslvr/www/lessons_two_years.html">Advice and sources from ML research student</a><br>
+<br>
+<u>Better Python REPL:</u>
+<br>
+<a href="https://ipython.org/">IPython</a><br>
+<a href="https://www.bpython-interpreter.org/">bpython</a><br>
+<a href="https://github.com/prompt-toolkit/ptpython">ptpython</a><br>
+<br>
+<u>Python IDE:</u>
+<br>
+<a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">List of IDEs with description</a><br>
+<a href="https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python">Comparison of IDEs</a><br>
+<a href="https://github.com/jorgenschaefer/elpy">Emacs Python IDE</a><br>
+<a href="https://jupyter.org/">Project Jupyter</a><br>
+{{</external>}}
