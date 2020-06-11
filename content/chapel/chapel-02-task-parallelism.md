@@ -16,7 +16,7 @@ weight = 2
 $ ./baseSolver --rows=650 --cols=650 --iout=200 --jout=300 --niter=10000 --tolerance=0.002 --nout=1000
 ~~~
 * we learned how to time individual sections of the code
-* we saw that --fast flag sped up calculation by ~100X
+* we saw that `--fast` flag sped up calculation by ~100X
 
 # Task Parallelism with Chapel
 
