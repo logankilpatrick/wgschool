@@ -467,7 +467,7 @@ it, is to see how much it takes to finish a simulation. The UNIX command `time` 
 effect
 
 ~~~ {.bash}
-$ time ./baseSolver --rows=650 --cols=650 --x=200 --y=300 --niter=10000 --tolerance=0.002 --n=1000
+$ time ./baseSolver --rows=650 --cols=650 --iout=200 --jout=300 --niter=10000 --tolerance=0.002 --nout=1000
 ~~~
 ~~~
 Working with a matrix 650x650 to 10000 iterations or dT below 0.002
@@ -510,7 +510,7 @@ writeln('The simulation took ', watch.elapsed(), ' seconds');
 ~~~
 ~~~ {.bash}
 $ chpl --fast baseSolver.chpl -o baseSolver
-$ ./baseSolver --rows=650 --cols=650 --x=200 --y=300 --niter=10000 --tolerance=0.002 --n=1000
+$ ./baseSolver --rows=650 --cols=650 --iout=200 --jout=300 --niter=10000 --tolerance=0.002 --nout=1000
 ~~~
 ~~~
 Working with a matrix 650x650 to 10000 iterations or dT below 0.002
