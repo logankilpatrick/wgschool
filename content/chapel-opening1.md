@@ -4,7 +4,7 @@ slug = "chapel-opening1"
 +++
 
 1. instructor / helpers / course introduction
-1. distribute usernames (to everyone from the waitlist) and passwords
+1. distribute usernames (esp. to everyone from the waitlist) and passwords
 1. let's try to log in to the training cluster
 
 ### Live session: introduction to Chapel

@@ -301,7 +301,7 @@ Let's compile and execute our code to see what we get until now, using the job s
 ~~~ {.bash}
 #!/bin/bash
 #SBATCH --time=00:05:00   # walltime in d-hh:mm or hh:mm:ss format
-#SBATCH --mem-per-cpu=3500   # in MB
+#SBATCH --mem-per-cpu=1200   # in MB
 #SBATCH --output=solution.out
 ./baseSolver
 ~~~
