@@ -572,14 +572,6 @@ actual number of threads = 12
 > ## Exercise 2
 > Try reducing the array size `n` to see if that changes the output (fewer threads per locale), e.g.,
 > setting n=3. Also try increasing the array size to n=20 and study the output. Does the output make sense?
->
->> Answer: run the code with
->> ~~~ {.bash}
->> $ ./test -nl 4 --n=3
->> $ ./test -nl 4 --n=20
->> ~~~
->> For n=3 we get fewer threads (7 in my case), for n=20 we still get 12 threads (the maximum available
->> number of cores inside our job).
 
 So far we looked at the block distribution `BlockDist`. It will distribute a 2D domain among nodes either
 using 1D or 2D decomposition (in our example it was 2D decomposition 2x2), depending on the domain size
@@ -1019,6 +1011,14 @@ The file *output.dat* should contain the 8x8 temperature array after convergence
 >> ~~~
 >> forall i in 1..n with (+ reduce total) {
 >> ~~~
+
+>> ## Solution to Exercise 2: run the code with
+>> ~~~ {.bash}
+>> $ ./test -nl 4 --n=3
+>> $ ./test -nl 4 --n=20
+>> ~~~
+>> For n=3 we get fewer threads (7 in my case), for n=20 we still get 12 threads (the maximum available
+>> number of cores inside our job).
 
 >> ## Solution to Exercise 3
 >> Something along the lines:
