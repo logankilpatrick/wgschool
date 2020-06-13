@@ -25,6 +25,10 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 Presentation (60 min)
 {{< /video >}}<br>
 
+{{< yt 8d8xfw8BZUc 63 >}}<br>
+
+You can find the slides [here](../gromacs-slides.pdf).
+
 {{< zoom >}}
 <b>11am-12:30pm Pacific</b> Follow-up Q&A session.
 {{< /zoom >}}
