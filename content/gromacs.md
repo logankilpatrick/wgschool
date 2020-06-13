@@ -22,7 +22,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 **June-15**
 {{< video >}}
-Presentation (60 min)
+Presentation (60 min) - please watch the video below <b>before</b> attending the Zoom session
 {{< /video >}}<br>
 
 {{< yt 8d8xfw8BZUc 63 >}}<br>
