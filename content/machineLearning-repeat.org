@@ -15,7 +15,7 @@
 {{</i>}}
 
 #+BEGIN_export html
-<b>*</b>Those wanting to prepare for this course could take the <a href="/jupyter">Python in Jupyter notebooks</a> course or read the <a href="https://docs.python.org/3/tutorial/">Python</a> and <a href="https://numpy.org/devdocs/user/quickstart.html">NumPy</a> tutorials (PyTorch has <a href="https://pytorch-for-numpy-users.wkentaro.com/">many similarities</a> with NumPy).
+<b>*</b>Those wanting to prepare for this course could read the <a href="https://docs.python.org/3/tutorial/">Python</a> and <a href="https://numpy.org/devdocs/user/quickstart.html">NumPy</a> tutorials (PyTorch has <a href="https://pytorch-for-numpy-users.wkentaro.com/">many similarities</a> with NumPy).
 #+END_export
 
 *July 9*
