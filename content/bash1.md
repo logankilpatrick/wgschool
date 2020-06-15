@@ -10,7 +10,7 @@ slug = "bash1"
 1. Instructor / helpers / course introduction.
 1. All attendees in this session should already have their assigned usernames, but you also need the password.
 1. Let's try to log in to the training cluster.
-1. Review the program for today.
+1. Review the program for this morning: you have 1h15m of materials to read/watch.
 
 By mid-day you should be comfortable with:
 

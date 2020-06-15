@@ -13,7 +13,7 @@ slug = "bash2"
 
 ### Part 2: afternoon materials
 
-1. Review the program.
+1. Review the program for this afternoon: you have 1h10m of videos to watch.
 
 By the end of the day you should be able to:
 
