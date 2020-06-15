@@ -19,7 +19,7 @@ order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-**May-28** / **Jul-02**
+**July-02** (repeat of May-28 sessions)
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> {{< link url="../hpc-opening1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
@@ -34,7 +34,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 <b>2pm-3:30pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
 {{< /zoom >}}
 
-**May-29** / **Jul-03**
+**July-03** (repeat of May-29 sessions)
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> {{< link url="../hpc-opening2" text="Morning opening session" >}}<br>
 {{< /zoom >}}

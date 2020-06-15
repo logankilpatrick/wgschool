@@ -9,7 +9,7 @@ slug = "hpc-opening1"
 1. Instructor / helpers / course introduction.
 1. All attendees in this session should already have their assigned usernames, but you also need the password.
 1. Let's try to log in to the training cluster.
-1. Review the program for today.
+1. Review the program for today: you have 1h49m of videos to watch.
 
 By the end of the day you should be familiar with:
 
