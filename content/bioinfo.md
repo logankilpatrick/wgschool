@@ -27,6 +27,9 @@ with Phillip Richmond
 Live session
 {{< /zoom >}}
 
+You can find the online slides [here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c).
+
+
 1. session opening
 1. 30-min lecture
 1. participants watch videos 1 & 2 (~10-15 min each) and complete activities for each;
