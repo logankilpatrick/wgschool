@@ -3,8 +3,8 @@ title = "Bash command line"
 slug = "bash-menu"
 +++
 
-This is either a **1-day** (June-26) or **2-day** (May-26/27) hands-on introduction to the Linux command
-line and the interaction with a remote server. This course mixes
+This is either a **1-day** (June-26 repeat) or **2-day** (May-26/27) hands-on introduction to the Linux
+command line and the interaction with a remote server. This course mixes
 [Software Carpentry](https://software-carpentry.org) materials with WestGrid's custom training.
 
 **Instructor**: Alex Razoumov (WestGrid)
