@@ -19,10 +19,6 @@ order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-<!-- * online reading and videos -->
-<!-- - most of this time: watching pre-recorded videos and doing exercises on their own -->
-<!-- - set the pace through 1hr-long Zoom sessions -->
-
 **May-26**
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> {{< link url="../bash-opening1" text="Morning opening session" >}}<br>
