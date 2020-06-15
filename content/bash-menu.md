@@ -3,9 +3,9 @@ title = "Bash command line"
 slug = "bash-menu"
 +++
 
-This is a **2-day** hands-on introduction to the Linux command line and the interaction with a remote
-server. This course mixes [Software Carpentry](https://software-carpentry.org) materials with WestGrid's
-custom training.
+This is either a **1-day** (June-26) or **2-day** (May-26/27) hands-on introduction to the Linux command
+line and the interaction with a remote server. This course mixes
+[Software Carpentry](https://software-carpentry.org) materials with WestGrid's custom training.
 
 **Instructor**: Alex Razoumov (WestGrid)
 
@@ -22,7 +22,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 **June-26**
 
 {{< zoom >}}
-<b>9am-9:45am Pacific</b> {{< link url="../bash-opening1" text="Morning opening session" >}}<br>
+<b>8am-8:45am Pacific</b> {{< link url="../bash1" text="Morning opening session" >}}<br>
 {{< /zoom >}}
 
 {{< reading >}}
@@ -39,7 +39,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>12pm-2pm Pacific</b> We will go together through the challenges, do some exercises, and debug problems.
+<b>11am-1pm Pacific</b> {{< link url="../bash2" text="Mid-day session" >}}<br>
 {{< /zoom >}}
 
 {{< video >}}
@@ -50,11 +50,14 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 {{< /video >}}<br>
 
 {{< zoom >}}
-<b>4pm-6pm Pacific</b> We will go together through the challenges, do some exercises, debug problems, and
-wrap up the course.
+<b>3pm-5pm Pacific</b> {{< link url="../bash3" text="Late-afternoon session" >}}<br>
 {{< /zoom >}}
 
+&nbsp;  
+
 ---
+
+&nbsp;  
 
 **May-26**
 {{< zoom >}}
