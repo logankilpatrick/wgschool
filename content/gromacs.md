@@ -11,7 +11,8 @@ This is a **1-day** course.
 
 **Target audience**: researchers interested in running molecular dynamics simulations with Gromacs
 
-**Level**: beginner
+**Level**: beginner (researchers starting to work with Gromacs), but we will talk only about optimizing
+your Gromacs simulations, not teaching Gromacs itself
 
 <!-- **Prerequisites**:  -->
 
@@ -27,7 +28,8 @@ Presentation (60 min) - please watch the video below <b>before</b> attending the
 
 {{< yt 8d8xfw8BZUc 63 >}}<br>
 
-You can find the slides [here](../gromacs-slides.pdf).
+You can find the slides [here](../gromacs-slides.pdf). For entry-level Gromacs tutorials, please check
+[this page](http://www.mdtutorials.com).
 
 {{< zoom >}}
 <b>11am-12:30pm Pacific</b> Follow-up Q&A session.
