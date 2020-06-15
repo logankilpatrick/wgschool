@@ -3,6 +3,14 @@ title = "Details for participants"
 slug = "attendee"
 +++
 
+## Repeat courses
+
+We will teach three repeat courses: bash, HPC, and machine learning. These have been added to the
+program. Everyone on the waitlist will be emailed the Zoom session details. If you are interested in
+attending one of the repeat courses, please join the waitlist using
+[this link](https://www.eventbrite.com/e/westgrid-research-computing-summer-school-2020-online-tickets-102614093516)
+(click ***Register*** and use your institutional email address).
+
 ## Registration
 
 <!-- Free Eventbrite registration for individual courses will open to participants from all WestGrid -->

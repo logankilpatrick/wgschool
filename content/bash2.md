@@ -31,6 +31,3 @@ Some of the hands-on exercises we will do in the last Zoom session:
 - Write a one-line command that finds 5 largest files in the current directory and prints only their
   names and file sizes in the human-readable format (indicating bytes, kB, MB, GB, ...) in the decreasing
   file-size order. Hint: use `find`, `xargs`, and `awk`.
-
-
-
