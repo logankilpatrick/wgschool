@@ -20,9 +20,10 @@ order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-You can find the PDF slides [here](../Singularity-WGSummer2020-06-16.pdf).
+You can find the PDF slides [here](../Singularity-WGSummer2020-06-16.pdf), and a gzipped file containing
+all commands for each exercise [here](../singularityCommands.tar.gz).
 
-You will be submitting jobs to reservations on Cedar:
+You will be submitting jobs to the reservations on Cedar:
 
 ```
 salloc --account=def-training-wa --mem-per-cpu=8Gb --time=0-2:00:00 --reservation=wgsummer-wr_cpu
