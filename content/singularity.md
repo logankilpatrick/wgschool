@@ -26,10 +26,12 @@ containing all commands for each exercise [here](../singularityCommands.tar.gz).
 You will be submitting jobs to the reservations on Cedar:
 
 ```
+cd ~/scratch
 salloc --account=def-training-wa --mem-per-cpu=8Gb --time=0-2:00:00 --reservation=wgsummer-wr_cpu
 ```
 
 ```
+cd ~/scratch
 salloc --gres=gpu:p100:1 --cpus-per-task=8 --mem=40Gb --time=0-2:00:00 --account=def-training-wa --reservation=wgsummer-wr_gpu
 ```
 

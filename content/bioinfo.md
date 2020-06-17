@@ -26,6 +26,13 @@ with Phillip Richmond
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
+{{< yt CGvMm7JXQGs 63 >}}
+&nbsp;<br>
+{{< yt x_uRLx1o9AM 63 >}}
+&nbsp;<br>
+{{< yt UzCIGF4_OTg 63 >}}
+&nbsp;<br>
+
 You can find the online slides [here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c).
 
 Today we will be submitting jobs to the reservation on Cedar:
@@ -39,7 +46,7 @@ salloc --account=def-training-wa_cpu --reservation=wgss1-wr_cpu --mem-per-cpu=..
 1. 30-min lecture
 1. participants watch videos 1 & 2 (~10-15 min each) and complete activities for each;
   activities will range from 15 min to 45 min depending on skill level
-1. reconvene, brief lecture
+1. reconvene, mini check-in
 1. participants watch video 3, complete activity afterwards
 1. reconvene, describe homework, close
 
