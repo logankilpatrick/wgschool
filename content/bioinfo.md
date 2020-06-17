@@ -28,6 +28,11 @@ with Phillip Richmond
 
 You can find the online slides [here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c).
 
+Today we will be submitting jobs to the reservation on Cedar:
+
+```
+salloc --account=def-training-wa_cpu --reservation=wgss1-wr_cpu --mem-per-cpu=... --time=... <other_flags>
+```
 
 1. session opening
 1. 30-min lecture
