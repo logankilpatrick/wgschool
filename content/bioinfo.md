@@ -31,6 +31,7 @@ You can find the online slides [here](https://docs.google.com/presentation/d/17J
 Today we will be submitting jobs to the reservation on Cedar:
 
 ```
+cd ~/scratch
 salloc --account=def-training-wa_cpu --reservation=wgss1-wr_cpu --mem-per-cpu=... --time=... <other_flags>
 ```
 
