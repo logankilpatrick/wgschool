@@ -33,7 +33,9 @@ with Phillip Richmond
 {{< yt UzCIGF4_OTg 63 >}}
 &nbsp;<br>
 
-You can find the online slides [here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c).
+You can find the online slides
+[here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c). Here is the
+[PDF version](../ngs-phil.pdf).
 
 Today we will be submitting jobs to the reservation on Cedar:
 
