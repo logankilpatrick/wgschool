@@ -69,6 +69,8 @@ with Matthew Douglas (Genome Science Center)
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
+You can find the PDF slides [here](../pipeline-matthew.pdf).
+
 - 45-60min presentation + some time for Q&A, no coding for the audience
 - based on first-hand experience in several research projects
 
