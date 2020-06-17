@@ -57,8 +57,6 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 ---
 
-&nbsp;  
-
 **May-26**
 {{< zoom >}}
 <b>9am-9:45am Pacific</b> {{< link url="../bash-opening1" text="Morning opening session" >}}<br>

@@ -16,11 +16,7 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 
 <!-- **Prerequisites**:  -->
 
-&nbsp;<br>
-
 ---
-
-&nbsp;<br>
 
 **Wednesday June-17**  
 *"Short read mapping and visualization: Core aspects of next-generation sequencing data analysis"*  
@@ -50,8 +46,6 @@ You can find the online slides [here](https://docs.google.com/presentation/d/17J
 
 ---
 
-&nbsp;<br>
-
 **Thursday June-18**  
 *"Building a Reproducible Data Analysis Pipeline"*  
 with Matthew Douglas (Genome Science Center)
@@ -66,8 +60,6 @@ with Matthew Douglas (Genome Science Center)
 &nbsp;<br>
 
 ---
-
-&nbsp;<br>
 
 **Friday June-19**  
 *"Setting up a bioinformatics pipeline with SnakeMake"*  

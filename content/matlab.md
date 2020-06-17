@@ -26,6 +26,8 @@ This is a **3-day** workshop.
 Live session: 30-40 min presentation blocks.
 {{< /zoom >}}
 
+&nbsp;<br>
+
 ---
 
 **Tuesday (July-07)**  
@@ -36,6 +38,8 @@ Live session: 30-40 min presentation blocks.
 <b>9am-noon Pacific</b>
 Live session: 30-40 min presentation blocks.
 {{< /zoom >}}
+
+&nbsp;<br>
 
 ---
 
