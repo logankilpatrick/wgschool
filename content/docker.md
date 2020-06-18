@@ -13,7 +13,10 @@ This is a **1-day** course.
 
 **Level**: beginner
 
-<!-- **Prerequisites**:  -->
+**Prerequisites**: [Introduction to Compute Canada cloud](../cloud) course
+
+We will be running Docker inside virtual machines (VMs) in Compute Canada cloud, so you must be familiar
+with setting up a blank Ubuntu server in a cloud VM before attending this course.
 
 **Software**: All attendees will need a remote secure shell (SSH) client installed on their computer in
 order to participate in the course exercises. On Windows we recommend
