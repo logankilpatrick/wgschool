@@ -25,7 +25,7 @@ In this session, I will go over the program for this course and we will get to k
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-03-config.html" text="Installing and configuring Git">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-03-install.html" text="Installing Git and creating GitHub account">}}
 {{</practice>}}
 
 {{<reading>}}
@@ -38,30 +38,38 @@ In this session, I will go over the program for this course and we will get to k
 
 {{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-config.html">configuring Git</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
+This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-install.html">configuring Git</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
 {{</dt>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-07-first.html" text="Create your first repository">}}
+{{</practice>}}
 
 *June 23*
 {{<zt "9–10:30am">}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-07-recording.html" text="Let's record a project's history with Git together">}}<br>
-Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics</a> before joining this interactive session.
+{{<link url="https://westgrid-cli.netlify.app/school/git-08-recording.html" text="Let's record a project's history with Git together">}}<br>
+Please make sure to study the sessions <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics: understanding the core concepts of repositories</a> and <a href="https://westgrid-cli.netlify.app/school/git-07-first.html">Create your first repository</a> before joining this interactive session.
 {{</zt>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-08-recovering.html" text="Going back in time">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-09-recovering.html" text="Going back in time">}}
 {{</practice>}}
 
-{{<reading>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-09-branches.html" text="Working with branches">}}
-{{</reading>}}
-
 {{<video>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-10-remotes.html" text="Remotes">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-10-tools.html" text="Tools for a friendlier Git">}}
 {{</video>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-11-branches.html" text="Working with branches">}}
+{{</reading>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-12-remotes.html" text="Remotes">}}
+{{</practice>}}
+
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-11-collaborating.html" text="Collaborating through GitHub">}}<br>
-Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-10-remotes.html">remotes</a> before joining this interactive session.<br>
+{{<link url="https://westgrid-cli.netlify.app/school/git-13-collaborating.html" text="Collaborating through GitHub">}}<br>
+Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-12-remotes.html">remotes</a> and to create a GitHub account before joining this interactive session.<br>
 This session will close our WestGrid Summer School Git lesson.
 {{</zt>}}
 
