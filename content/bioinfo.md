@@ -86,6 +86,8 @@ with Brian McConeghy
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
-You can find the PDF slides [here](../pipeline-brian.pdf).
+You can find the PDF slides [here](../pipeline-brian.pdf). You might also want to check [Brian's materials
+from 2019 in-person summer school](https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27)
+with hands-on examples and the [official Snakemake documentation](https://snakemake.readthedocs.io/en/stable).
 
 - 60min presentation followed by live Q&A
