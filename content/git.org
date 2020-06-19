@@ -56,7 +56,7 @@ Please make sure to study the sessions <a href="https://westgrid-cli.netlify.app
 {{</practice>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-10-undo.html" text="Undoing">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-10-undoing.html" text="Undoing">}}
 {{</practice>}}
 
 {{<video>}}
