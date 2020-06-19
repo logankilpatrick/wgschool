@@ -52,23 +52,27 @@ Please make sure to study the sessions <a href="https://westgrid-cli.netlify.app
 {{</zt>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-09-recovering.html" text="Going back in time">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-09-history.html" text="Exploring the past">}}
+{{</practice>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-10-undo.html" text="Undoing">}}
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-10-tools.html" text="Tools for a friendlier Git">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-11-tools.html" text="Tools for a friendlier Git">}}
 {{</video>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-11-branches.html" text="Working with branches">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-12-branches.html" text="Working with branches">}}
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-12-remotes.html" text="Remotes">}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-13-remotes.html" text="Remotes">}}
 {{</practice>}}
 
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-cli.netlify.app/school/git-13-collaborating.html" text="Collaborating through GitHub">}}<br>
+{{<link url="https://westgrid-cli.netlify.app/school/git-14-collaborating.html" text="Collaborating through GitHub">}}<br>
 Please make sure to study the session on <a href="https://westgrid-cli.netlify.app/school/git-12-remotes.html">remotes</a> and to create a GitHub account before joining this interactive session.<br>
 This session will close our WestGrid Summer School Git lesson.
 {{</zt>}}
