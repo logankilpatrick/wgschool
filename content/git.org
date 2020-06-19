@@ -73,7 +73,7 @@ In this interactive session, I will answer the questions you had while you start
 
 {{<zt "2–3:30pm">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-14-collaborating.html" text="Collaborating through GitHub">}}<br>
-Please go through the <a href="https://westgrid-cli.netlify.app/school/git-13-remotes.html">Remotes</a> lesson and make sure you have a GitHub account before joining this interactive session.<br>
+Please go through the <a href="https://westgrid-cli.netlify.app/school/git-13-remotes.html">Remotes</a> lesson and make sure <a href="https://westgrid-cli.netlify.app/school/git-03-install.html#headline-4">you have a GitHub account</a> before joining this interactive session.<br>
 This session will close our WestGrid Summer School Git lesson.
 {{</zt>}}
 
