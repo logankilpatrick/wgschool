@@ -48,7 +48,7 @@ This session is not part of the actual course. Please only sign up for it if you
 *June 23*
 {{<zt "9–10:30am">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-08-recording.html" text="Let's record a project's history with Git together">}}<br>
-Please go through the <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">Git basics: understanding the core concepts of repositories</a> and <a href="https://westgrid-cli.netlify.app/school/git-07-first.html">Create your first repository</a> lessons before joining this interactive session.
+In this interactive session, I will answer the questions you had while you started to <a href="https://westgrid-cli.netlify.app/school/git-05-basics.html">learn about</a> and <a href="https://westgrid-cli.netlify.app/school/git-07-first.html">play with</a> Git, then we will record a project's history together.
 {{</zt>}}
 
 {{<practice>}}
