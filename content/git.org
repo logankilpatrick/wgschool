@@ -38,7 +38,7 @@ In this session, I will go over the program for this course and we will get to k
 
 {{<dt "2–3:30pm">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-06-debug.html" text="Issues installing or configuring Git">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have carefully followed the session on <a href="https://westgrid-cli.netlify.app/school/git-03-install.html">configuring Git</a> and have tried everything you could on your own, but are still stuck with technical difficulties.
+This session is not part of the actual course. Please only sign up for it if you have carefully followed the lesson <a href="https://westgrid-cli.netlify.app/school/git-03-install.html">Installing Git and creating GitHub account</a>, but are having technical difficulties.
 {{</dt>}}
 
 {{<practice>}}
