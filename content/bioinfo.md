@@ -86,4 +86,6 @@ with Brian McConeghy
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
+You can find the PDF slides [here](../pipeline-brian.pdf).
+
 - 60min presentation followed by live Q&A
