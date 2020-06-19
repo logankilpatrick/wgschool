@@ -43,14 +43,30 @@ database MySQL and Postgres servers on Cedar and Graham. Here is the
 and kickstart the course. -->
 <!-- Alex should have videos ready by June-12 ("end of that week") -->
 
+**Materials**:
+
+- [Online slides](https://docs.google.com/presentation/d/1hRX7wViDG-PgXrn3vq-GQ_NH1TlWEo0QAHLGKJnZ-tg)
+- [Git repository](https://gitlab.rcg.sfu.ca/alopes/db_workshop.git)
+
 **June-24**
 {{< zoom >}}
 <b>9am-9:30am Pacific</b> Introduction and Syllabus
 {{< /zoom >}}
 
 {{< video >}}
-30 min
+54 min
 {{< /video >}}<br>
+
+1. BasicCmds - Basic commands and SQL queries 
+1. ExploreCmds - Learning further about basic SQL
+1. DeepDivePostgres1 - How to use the cedar postgres
+1. DeepDivePostgres2 - Second part
+1. SqlGroupBy - Queries on cedar and Exercises
+1. PostgresSlurm - Create programs and slurm jobs that connects to the database
+
+**Day 1 exercises**:
+- Quiz: https://www.w3schools.com/sql/sql_quiz.asp
+- Take some time to review the queries and examples on the w3schools website
 
 {{< zoom >}}
 <b>2pm-3pm Pacific</b> Exercises discussion and problem debugging (optional)
@@ -58,8 +74,22 @@ and kickstart the course. -->
 
 **June-25**
 {{< video >}}
-30 min
+22 min
 {{< /video >}}<br>
+
+1. ShallowDiveMySQL - Introduction to MySQL on cedar
+1. DeepDiveMySQL1 - How to use Mariadb on cedar
+1. MySQLSlurm - Create programs and slurm jobs that connects to the database
+
+Optional videos:
+
+- Opt-SSHWindows - If you need help to connect to cedar SSH interface on windows
+- CedarDBOverview - Quick overview about database servers
+
+**Day 2 exercises**:
+- Creating tables and experiment commands on cedar databases
+- Submit a job that connects to the database and execute an operations
+- Take a look at the perl examples at the end of the slides if you would like to learn more
 
 {{< zoom >}}
 <b>11am-noon Pacific</b> Live session: Wrap up and questions
