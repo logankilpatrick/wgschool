@@ -77,6 +77,10 @@ Please go through the <a href="https://westgrid-cli.netlify.app/school/git-13-re
 This session will close our WestGrid Summer School Git lesson.
 {{</zt>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-15-gitignore.html" text="Annex: .gitignore syntax">}}
+{{</reading>}}
+
 {{<external>}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
 <a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a><br>
