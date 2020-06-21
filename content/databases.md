@@ -45,6 +45,8 @@ and kickstart the course. -->
 
 **Materials**:
 
+<!-- the slides: https://sfuca0-my.sharepoint.com/:p:/g/personal/alopes_sfu_ca/EXX4iZHDYiFKq6VNLMhv12sBbiLa913P2zh0PqNMPeFltQ?e=Shvbm0 -->
+
 - [Online slides](https://docs.google.com/presentation/d/1hRX7wViDG-PgXrn3vq-GQ_NH1TlWEo0QAHLGKJnZ-tg)
 - [Git repository](https://gitlab.rcg.sfu.ca/alopes/db_workshop.git)
 
@@ -54,15 +56,26 @@ and kickstart the course. -->
 {{< /zoom >}}
 
 {{< video >}}
-54 min
+58 min
 {{< /video >}}<br>
 
-1. BasicCmds - Basic commands and SQL queries 
-1. ExploreCmds - Learning further about basic SQL
-1. DeepDivePostgres1 - How to use the cedar postgres
-1. DeepDivePostgres2 - Second part
-1. SqlGroupBy - Queries on cedar and Exercises
-1. PostgresSlurm - Create programs and slurm jobs that connects to the database
+#### Basic commands and SQL queries (8 min)
+{{< yt j7BwoFKSLlk 63 >}}
+
+#### Learning further about basic SQL (13 min)
+{{< yt pGyyD7MGbAs 63 >}}
+
+#### How to use Postgres on Cedar (5 min)
+{{< yt ojYijHVjYmE 63 >}}
+
+#### Second part (14 min)
+{{< yt 4B5YT-_dPb8 63 >}}
+
+#### Queries on Cedar and Exercises (5 min)
+{{< yt hwwmCzXSng8 63 >}}
+
+#### Create programs and Slurm jobs that connect to the database (13 min)
+{{< yt tTdXFjSAm_8 63 >}}
 
 **Day 1 exercises**:
 - Quiz: https://www.w3schools.com/sql/sql_quiz.asp
@@ -74,17 +87,25 @@ and kickstart the course. -->
 
 **June-25**
 {{< video >}}
-22 min
+24 min
 {{< /video >}}<br>
 
-1. ShallowDiveMySQL - Introduction to MySQL on cedar
-1. DeepDiveMySQL1 - How to use Mariadb on cedar
-1. MySQLSlurm - Create programs and slurm jobs that connects to the database
+## Introduction to MySQL on Cedar (4 min)
+{{< yt 1ibcVapntwM 63 >}}
 
-Optional videos:
+## How to use MariaDB on Cedar (12 min)
+{{< yt _w1QBnF43Qw 63 >}}
 
-- Opt-SSHWindows - If you need help to connect to cedar SSH interface on windows
-- CedarDBOverview - Quick overview about database servers
+## Create programs and Slurm jobs that connect to the database (8 min)
+{{< yt vh3y1FMfBwU 63 >}}
+
+## Optional videos:
+
+#### If you need help to connect to Cedar via SSH from Windows (2 min)
+{{< yt 6WsVrZqrLMo 63 >}}
+
+#### Quick overview about database servers (8 min)
+{{< yt XwA4qx8XLKQ 63 >}}
 
 **Day 2 exercises**:
 - Creating tables and experiment commands on cedar databases
@@ -96,3 +117,11 @@ Optional videos:
 {{< /zoom >}}
 
 <!-- Live session: 30-40 min presentation blocks. -->
+
+<!-- Alex's notes https://docs.google.com/document/d/1FpejD2P_UQmIFYL0F9UKyF_KH9HU98GIUtGR3xvG8eM -->
+
+-------------
+
+<!-- the division between Day 1 and 2 is not really required -->
+<!-- all videos https://drive.google.com/drive/folders/1X0WK355vMY4WLc-u3O5H0YpDHevb236q?usp=sharing -->
+<!-- the guide: https://sfuca0-my.sharepoint.com/:w:/g/personal/alopes_sfu_ca/Ed-KJQaODCJHmkRLsWUMUYoBPbJXywzoYTa0FndXfghhkQ?e=K3bcBk -->
