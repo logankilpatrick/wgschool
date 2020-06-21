@@ -63,9 +63,9 @@ In this interactive session, I will answer the questions you had while you start
 {{<link url="https://westgrid-cli.netlify.app/school/git-11-undoing.html" text="Undoing">}}
 {{</practice>}}
 
-{{<reading>}}
+{{<practice>}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-12-branches.html" text="Working with branches">}}
-{{</reading>}}
+{{</practice>}}
 
 {{<practice>}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-13-remotes.html" text="Remotes">}}
