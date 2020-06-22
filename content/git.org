@@ -14,6 +14,10 @@
 {{<itxtb "Time zone:" "Pacific Daylight Time (UTC-07:00)">}}<br>
 {{</i>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-00-notation.html" text="Note on notation">}}
+{{</reading>}}
+
 *June 22*
 {{<zt "9–9:30am">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-01-intro.html" text="Introduction to the WestGrid Summer School Git course">}}<br>
