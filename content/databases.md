@@ -13,7 +13,7 @@ This is a **2-day** course.
   - why databases
   - frontends
   - basic commands
-1. Overview of the two database servers on Cedar: cedar-mysql-vm (MariaDB MySQL v.10.2) and
+1. Overview of the two database servers on Cedar: cedar-mysql-vm (MariaDB MySQL v.10.4) and
    cedar-pgsql-vm (PostgreSQL v.10.1 with PostGIS v.2.4)
 1. Deeper dive into PostgreSQL on Cedar
   - how to get a Postgres account and database on the server for your research
@@ -108,7 +108,7 @@ and kickstart the course. -->
 {{< yt XwA4qx8XLKQ 63 >}}
 
 **Day 2 exercises**:
-- Creating tables and experiment commands on cedar databases
+- Creating tables and experiment commands on Cedar databases
 - Submit a job that connects to the database and execute an operations
 - Take a look at the perl examples at the end of the slides if you would like to learn more
 
@@ -119,8 +119,6 @@ and kickstart the course. -->
 <!-- Live session: 30-40 min presentation blocks. -->
 
 <!-- Alex's notes https://docs.google.com/document/d/1FpejD2P_UQmIFYL0F9UKyF_KH9HU98GIUtGR3xvG8eM -->
-
--------------
 
 <!-- the division between Day 1 and 2 is not really required -->
 <!-- all videos https://drive.google.com/drive/folders/1X0WK355vMY4WLc-u3O5H0YpDHevb236q?usp=sharing -->
