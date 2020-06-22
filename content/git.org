@@ -15,6 +15,10 @@
 {{</i>}}
 
 *June 22*
+{{<reading>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-00-notation.html" text="Note on notation">}}
+{{</reading>}}
+
 {{<zt "9–9:30am">}}
 {{<link url="https://westgrid-cli.netlify.app/school/git-01-intro.html" text="Introduction to the WestGrid Summer School Git course">}}<br>
 In this session, I will go over the program for this course and we will get to know each other.
