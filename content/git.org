@@ -84,6 +84,10 @@ Please go through the <a href="https://westgrid-cli.netlify.app/school/git-13-re
 {{<link url="https://westgrid-cli.netlify.app/school/git-15-gitignore.html" text=".gitignore syntax">}}
 {{</annex>}}
 
+{{<annex>}}
+{{<link url="https://westgrid-cli.netlify.app/school/git-16-contributing.html" text="Contributing to someone else's project">}}
+{{</annex>}}
+
 {{<external>}}
 <a href="https://git-scm.com/docs">Official Git manual</a><br>
 <a href="http://swcarpentry.github.io/git-novice/">Git Software Carpentry lesson</a><br>
