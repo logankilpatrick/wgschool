@@ -49,6 +49,7 @@ and kickstart the course. -->
 
 - [Online slides](https://docs.google.com/presentation/d/1hRX7wViDG-PgXrn3vq-GQ_NH1TlWEo0QAHLGKJnZ-tg)
 - [Git repository](https://gitlab.rcg.sfu.ca/alopes/db_workshop.git)
+- [Official SQL tutorials](https://www.w3schools.com/sql)
 
 **June-24**
 {{< zoom >}}
