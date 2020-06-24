@@ -13,7 +13,7 @@ This is a **2-day** course.
   - why databases
   - frontends
   - basic commands
-1. Overview of the two database servers on Cedar: cedar-mysql-vm (MariaDB MySQL v.10.4) and
+2. Overview of the two database servers on Cedar: cedar-mysql-vm (MariaDB MySQL v.10.4) and
    cedar-pgsql-vm (PostgreSQL v.10.1 with PostGIS v.2.4)
 1. Deeper dive into PostgreSQL on Cedar
   - how to get a Postgres account and database on the server for your research
