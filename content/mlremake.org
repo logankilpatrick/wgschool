@@ -1,6 +1,8 @@
 #+title: Introduction to ML with PyTorch
 #+slug: mlremake
 
+*(New version of the course under development)*
+
 {{<i>}}
 {{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
 {{<itxtb "Length:" "2 days">}}<br>
@@ -18,69 +20,69 @@
 <b>*</b>Those wanting to prepare for this course could read the <a href="https://docs.python.org/3/tutorial/">Python</a> and <a href="https://numpy.org/devdocs/user/quickstart.html">NumPy</a> tutorials (PyTorch has <a href="https://pytorch-for-numpy-users.wkentaro.com/">many similarities</a> with NumPy).
 #+END_export
 
-*July xx*
+*July 9*
 {{<zt "9–9:30am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-01-intro.html" text="Introduction to the WestGrid Summer School PyTorch course">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-01-intro.html" text="Introduction to the WestGrid Summer school PyTorch course">}}<br>
 I will go over the program for this course and we will introduce each other.
 {{</zt>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-02-concepts.html" text="Concepts">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-02-concepts.html" text="Concepts">}}<br>
 {{</reading>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-03-install.html" text="Installing PyTorch and logging in the training cluster">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-03-install.html" text="Installing PyTorch and logging in a training cluster">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-04-debug.html" text="Issues installing PyTorch locally or logging in the training cluster">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/school/pt-03-install.html">installing PyTorch and logging in the training cluster</a> but are having issues.
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-debug.html" text="Issues installing PyTorch locally or logging in the training cluster">}}<br>
+This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/schoolremake/pt-03-install.html">installing PyTorch and logging in the training cluster</a> but are having issues.
 {{</dt>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-05-nn.html" text="What is a neural network?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-nn.html" text="What is a neural network?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-06-tensor.html" text="Tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="Tensors">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-07-learning.html" text="How do neural networks learn?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-learning.html" text="How do neural networks learn?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-08-loss.html" text="Loss function">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-loss.html" text="Loss function">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-09-backprop.html" text="Backpropagation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-backprop.html" text="Backpropagation">}}<br>
 {{</video>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-10-calculus.html" text="A bit of calculus">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-11-gradient.html" text="Gradient descent">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-gradient.html" text="Gradient descent">}}<br>
 {{</practice>}}
 
-*July xx*
+*July 10*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-12-firstnn" text="Our first neural network">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-firstnn" text="Our first neural network">}}<br>
 In this session, we will put everything you learnt yesterday together to write our first neural network. Then we will start tweaking it to make it better, tracking its performance with TensorBoard.
 {{</zt>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-13-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-13-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
 {{</reading>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-14-distributed.html" text="Distributed computing with PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-14-distributed.html" text="Distributed computing with PyTorch">}}<br>
 {{</reading>}}
 
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/school/pt-15-wrapup.html" text="Wrapping up">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-15-wrapup.html" text="Wrapping up">}}<br>
 In this session, we will try to answer questions and wrap up the course.
 {{</zt>}}
 
