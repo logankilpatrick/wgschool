@@ -78,6 +78,17 @@ and kickstart the course. -->
 #### Create programs and Slurm jobs that connect to the database (13 min)
 {{< yt tTdXFjSAm_8 63 >}}
 
+In this course, we will be submitting jobs to the reservation on Cedar:
+
+```
+cd ~/scratch
+sbatch --account=def-training-wa_cpu --reservation=wgss2-wr_cpu scriptName.sh
+```
+
+
+
+
+
 **Day 1 exercises**:
 - Quiz: https://www.w3schools.com/sql/sql_quiz.asp
 - Take some time to review the queries and examples on the w3schools website
