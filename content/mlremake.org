@@ -23,29 +23,37 @@
 *July 9*
 {{<zt "9–9:30am">}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-01-intro.html" text="Introduction to the WestGrid Summer school PyTorch course">}}<br>
-I will go over the program for this course and we will introduce each other.
+In this session, I will go over the program for this course, explain what you will have to do before our next live session, and we will introduce each other.
 {{</zt>}}
 
-{{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-02-concepts.html" text="Concepts">}}<br>
-{{</reading>}}
-
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-03-install.html" text="Installing PyTorch and logging in a training cluster">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html" text="Training cluster setup">}}<br>
 {{</practice>}}
 
-{{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-debug.html" text="Issues installing PyTorch locally or logging in the training cluster">}}<br>
-This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/schoolremake/pt-03-install.html">installing PyTorch and logging in the training cluster</a> but are having issues.
-{{</dt>}}
+{{<annex>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-03-local.html" text="Optional: installing PyTorch locally">}}<br>
+{{</annex>}}
+
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-ml.html" text="What is machine learning?">}}<br>
+{{</reading>}}
 
 {{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-nn.html" text="What is a neural network?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="Tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-mnist.html" text="The MNIST">}}<br>
 {{</practice>}}
+
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-tensor.html" text="PyTorch tensors">}}<br>
+{{</practice>}}
+
+{{<dt "2–3:30pm">}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-debug.html" text="Issues accessing and setting up the training cluster">}}<br>
+This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html">Training cluster setup</a> but are having issues accessing our training cluster or installing the required Python packages in a virtual environment.
+{{</dt>}}
 
 {{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-learning.html" text="How do neural networks learn?">}}<br>
