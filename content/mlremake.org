@@ -1,7 +1,7 @@
 #+title: Introduction to ML with PyTorch
 #+slug: mlremake
 
-/(New version of the course—still under development)/
+/!!! This is a new version of the course, still under heavy development !!!/
 
 {{<i>}}
 {{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
@@ -30,9 +30,9 @@ In this session, I will go over the program for this course, explain what you wi
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html" text="Training cluster setup">}}<br>
 {{</practice>}}
 
-{{<annex>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-03-local.html" text="Optional: installing PyTorch locally">}}<br>
-{{</annex>}}
+{{<optional>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-03-local.html" text="Installing PyTorch locally">}}<br>
+{{</optional>}}
 
 {{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-ml.html" text="What is machine learning?">}}<br>
