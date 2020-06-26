@@ -11,7 +11,7 @@ week of June 8th | [Machine learning with PyTorch](../ml) | [Machine learning wi
 week of June 15th | [Gromacs optimization](../gromacs) | [Singularity containers](../singularity) | [Bioinfo](../bioinfo) | [Bioinfo](../bioinfo) | [Bioinfo](../bioinfo) |
 week of June 22nd | [Git version control](../git) | [Git version control](../git) | [Databases](../databases) | [Databases](../databases) | [Bash command line](../bash-menu) (repeat) |
 week of June 29th | [Compute Canada cloud](../cloud) | [Docker in your VM](../docker) | Canada Day | [High-performance computing](../hpc-menu)  (repeat) | [High-performance computing](../hpc-menu) (repeat) |
-week of July 6th | [Parallel MATLAB](../matlab) | [Machine learning with MATLAB](../matlab) | [Deep learning with MATLAB](../matlab) | [Machine learning with PyTorch](../ml-repeat) (repeat) | [Machine learning with PyTorch](../ml-repeat) (repeat) |
+week of July 6th | [Parallel MATLAB](../matlab) | [Machine learning with MATLAB](../matlab) | [Deep learning with MATLAB](../matlab) | [Machine learning with PyTorch](../mlremake) (revamped version) | [Machine learning with PyTorch](../mlremake) (revamped version) |
 
 ## Cross-listed UBC workshops
 
