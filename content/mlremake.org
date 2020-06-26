@@ -49,20 +49,16 @@ Important note: Our Zoom cap is 100 people and, for this course, we will be usin
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-mnist.html" text="The MNIST">}}<br>
-{{</practice>}}
-
-{{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-tensor.html" text="PyTorch tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="PyTorch tensors">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-debug.html" text="Issues accessing and setting up the training cluster">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-debug.html" text="Issues accessing and setting up the training cluster">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html">Training cluster setup</a> but are having issues accessing our training cluster or installing the required Python packages in a virtual environment.
 {{</dt>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-learning.html" text="How do neural networks learn?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-learning.html" text="How do neural networks learn?">}}<br>
 {{</video>}}
 
 {{<practice>}}
