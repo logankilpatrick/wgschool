@@ -13,7 +13,11 @@ Fuzzy finder `fzf` is a third-party tool, not installed by default. With basic u
 processing of standard input. At a more advanced level (not covered in the video below), it provides key
 bindings and fuzzy completion.
 
-On cassiopeia.c3.ca you can source it from `/project/shared`.
+**Update (2020-June-25)**: On *cassiopeia.c3.ca* `fzf` path changed; now you can load it with:
+
+```
+source ~user120/shared/fzf/.fzf.bash
+```
 
 <!-- ~~~ {.bash} -->
 <!-- $ source /project/shared/fzf/.fzf.bash     # each user in each shell or put it into your ~/.bashrc -->
