@@ -23,7 +23,13 @@
 *July 9*
 {{<zt "9–9:30am">}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-01-intro.html" text="Introduction to the WestGrid Summer school PyTorch course">}}<br>
-In this session, I will go over the program for this course, explain what you will have to do before our next live session, and we will introduce each other.
+In this session, I will go over the program for this course, explain what you will have to do before our next live session, and give you your user name for the training cluster that we are using for this course.
+
+<div class="box-block">
+<p>
+Important note: Our Zoom cap is 100 people and, for this course, we will be using a training cluster with 100 users. There are however many more than 100 people in the waitlist. We are doing a repeat of this course to give some of you another chance to attend, but unfortunately, not everybody will be able to join if we reach our cap of 100. <strong>A username for the cluster will only be given to those joining this opening session.</strong>
+</p>
+</div>
 {{</zt>}}
 
 {{<practice>}}
