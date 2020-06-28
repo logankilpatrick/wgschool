@@ -63,20 +63,20 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-loss.html" text="Loss function">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-mnist.html" text="Loading and exploring the MNIST">}}<br>
 {{</practice>}}
 
 {{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-backprop.html" text="Backpropagation">}}<br>
 {{</video>}}
 
+{{<practice>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-loss.html" text="Automatic differentiation">}}<br>
+{{</practice>}}
+
 {{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
-
-{{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-gradient.html" text="Gradient descent">}}<br>
-{{</practice>}}
 
 *July 10*
 {{<zt "9–10am">}}
