@@ -67,20 +67,20 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-backprop.html" text="Backpropagation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-backprop.html" text="Backpropagation">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-loss.html" text="Automatic differentiation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-autograd.html" text="Automatic differentiation">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-calculus.html" text="A bit of calculus">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
 
 *July 10*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-firstnn" text="Our first neural network">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-13-firstnn" text="Our first neural network">}}<br>
 In this session, we will put everything you learnt yesterday together to write our first neural network. Then we will start tweaking it to make it better, tracking its performance with TensorBoard.
 {{</zt>}}
 
