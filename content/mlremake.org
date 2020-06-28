@@ -50,7 +50,7 @@ Our Zoom cap is 100 people and, for this course, we are using a cluster with 100
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="The building blocks of artificial neural networks: the tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="The building blocks of artificial neural networks: tensors">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
