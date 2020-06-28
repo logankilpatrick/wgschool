@@ -46,11 +46,11 @@ Our Zoom cap is 100 people and, for this course, we are using a cluster with 100
 {{</reading>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-nn.html" text="What is a neural network?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-nn.html" text="What is an artificial neural network?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="PyTorch tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="The building blocks of artificial neural networks: the tensors">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
@@ -59,7 +59,7 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</dt>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-learning.html" text="How do neural networks learn?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-learning.html" text="How can a neural network learn to classify the MNIST?">}}<br>
 {{</video>}}
 
 {{<practice>}}
