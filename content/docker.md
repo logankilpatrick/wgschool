@@ -42,8 +42,8 @@ Materials to download:
 
 In this exercise we will install docker on our VM and run the test Hello World docker. Before continuing
 with this exercise please be sure you have a Ubuntu VM set up that you are able to log into. For details
-on setting up a VM with your guest account refer to the tutorial linked here:
-[[Link to Cloud presentation video on VM setup]]
+on setting up a VM with your guest account, check [these PDF slides](../ccCloud.pdf) from yesterday's CC
+Cloud course.
 
 Once you are logged into your VM, please follow along with the video and execute the following commands
 (one command at a time!):
