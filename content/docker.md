@@ -45,8 +45,8 @@ with this exercise please be sure you have a Ubuntu VM set up that you are able 
 on setting up a VM with your guest account, check [these PDF slides](../ccCloud.pdf) from yesterday's CC
 Cloud course or the videos [therein](../cloud).
 
-Once you are logged into your VM, please follow along with the video and execute the following commands
-(one command at a time!):
+Once you are logged into your VM, and you are using Ubuntu, please follow along with the video and
+execute the following commands (one command at a time!):
 
 ```
 sudo apt-get update
@@ -55,6 +55,17 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo docker run hello-world
+```
+
+
+If you want to re-use your yesterday's CentOS VM, then the commands to install Docker would be:
+
+```
+sudo yum install -y yum-utils
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum install wget docker-ce docker-ce-cli containerd.io 
+sudo systemctl start docker
 sudo docker run hello-world
 ```
 
