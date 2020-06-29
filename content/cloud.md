@@ -34,3 +34,15 @@ You can find the PDF slides [here](../ccCloud.pdf).
 <b>9am-noon Pacific</b>
 Live session: 30-40 min presentation blocks.
 {{< /zoom >}}
+
+#### Creating and Connecting to an instance on Arbutus (MacOS)
+
+{{< yt -bDE_f--SN8 63 >}}
+
+#### Creating and Connecting to an instance on Arbutus (Windows and MobaXterm)
+
+{{< yt 3Yia9_464yY 63 >}}
+
+#### Installing RStudio
+
+{{< yt hMkCT0mcb6s 63 >}}

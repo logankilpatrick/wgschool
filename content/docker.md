@@ -32,7 +32,7 @@ Live session: 30-40 min presentation blocks.
 Materials to download:
 
 * [PDF slides](../dockerSlides.pdf)
-* [raw text document](../dockerCommands.txt) of all commands
+* [raw text document](../dockerCommands.txt) with all commands
 * Gnuplot [example script](../pm3d_lighting.2.gnu)
 
 ## Exercises
@@ -43,7 +43,7 @@ Materials to download:
 In this exercise we will install docker on our VM and run the test Hello World docker. Before continuing
 with this exercise please be sure you have a Ubuntu VM set up that you are able to log into. For details
 on setting up a VM with your guest account, check [these PDF slides](../ccCloud.pdf) from yesterday's CC
-Cloud course.
+Cloud course or the videos [therein](../cloud).
 
 Once you are logged into your VM, please follow along with the video and execute the following commands
 (one command at a time!):
