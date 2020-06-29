@@ -35,8 +35,18 @@ Live session: 30-40 min presentation blocks.
 
 **July-07**
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>9am-10am Pacific</b>
+Live introduction session.
+{{< /zoom >}}
+
+{{< video >}}
+<!-- {{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem (9 min)" >}}<br> -->
+links will be posted shortly
+{{< /video >}}<br>
+
+{{< zoom >}}
+<b>2:30pm-3:30pm Pacific</b>
+Live Q&A session.
 {{< /zoom >}}
 
 &nbsp;<br>
@@ -48,6 +58,34 @@ Live session: 30-40 min presentation blocks.
 
 **July-08**
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>9am-10am Pacific</b>
+Live introduction session.
 {{< /zoom >}}
+
+{{< video >}}
+<!-- {{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem (9 min)" >}}<br> -->
+links will be posted shortly
+{{< /video >}}<br>
+
+{{< zoom >}}
+<b>2:30pm-3:30pm Pacific</b>
+Live Q&A session.
+{{< /zoom >}}
+
+
+
+
+
+
+
+<!-- Raymond and Reece -->
+<!-- parallel workshop -->
+<!-- - 30min video hosted at mathworks -->
+<!-- - others online from mathworks -->
+<!-- - they will email the instructions directly to all attendees and will cc me -->
+<!-- machine learning and deep learning workshops -->
+<!-- - tue wed both days 9am-10am live -->
+<!--           both days 2:30pm-3:30pm Q&A session -->
+<!-- - will use breakout rooms -->
+<!-- - Reece will send me his videos, Ok to upload them to WG's youtube channel -->
+<!-- ACTION Wed create the Zoom link and send them the details -->

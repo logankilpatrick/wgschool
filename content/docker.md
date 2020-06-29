@@ -58,7 +58,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo docker run hello-world
 ```
 
-
 If you want to re-use your yesterday's CentOS VM, then the commands to install Docker would be:
 
 ```
