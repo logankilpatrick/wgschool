@@ -59,7 +59,7 @@ sudo docker run hello-world
 ```
 
 If you are working with a CentOS VM (following yesterday's cloud course), then the commands for this
-exercises are:
+exercise are:
 
 ```
 sudo yum install -y yum-utils
