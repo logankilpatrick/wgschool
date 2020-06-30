@@ -42,59 +42,63 @@ Our Zoom cap is 100 people and, for this course, we are using a cluster with 100
 {{</optional>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-ml.html" text="What is machine learning?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-hpc.html" text="HPC with Python">}}<br>
+{{</reading>}}
+
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-ml.html" text="What is machine learning?">}}<br>
 {{</reading>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-nn.html" text="What is an artificial neural network?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-nn.html" text="What is an artificial neural network?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-06-tensor.html" text="The building blocks of artificial neural networks: tensors">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-tensor.html" text="The building blocks of artificial neural networks: tensors">}}<br>
 {{</practice>}}
 
 {{<dt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-07-debug.html" text="Issues accessing and setting up the training cluster">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-debug.html" text="Issues accessing and setting up the training cluster">}}<br>
 This session is not part of the actual course. Please only sign up for it if you have followed the instructions on <a href="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html">Training cluster setup</a> but are having issues accessing our training cluster or installing the required Python packages in a virtual environment.
 {{</dt>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-08-learning.html" text="How can a neural network learn to classify the MNIST?">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-learning.html" text="How can a neural network learn to classify the MNIST?">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-09-mnist.html" text="Loading and exploring the MNIST">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-mnist.html" text="Loading and exploring the MNIST">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-10-backprop.html" text="Backpropagation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-backprop.html" text="Backpropagation">}}<br>
 {{</video>}}
 
 {{<practice>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-autograd.html" text="Automatic differentiation">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-autograd.html" text="Automatic differentiation">}}<br>
 {{</practice>}}
 
 {{<video>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-calculus.html" text="A bit of calculus">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-13-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
 
 *July 10*
 {{<zt "9–10am">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-13-firstnn" text="Our first neural network">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-14-firstnn" text="Our first neural network">}}<br>
 In this session, we will put everything you learnt yesterday together to write our first neural network. Then we will start tweaking it to make it better, tracking its performance with TensorBoard.
 {{</zt>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-13-hpc.html" text="Running ML jobs in Compute Canada clusters">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-15-distributed.html" text="A few notes on distributed computing with PyTorch">}}<br>
 {{</reading>}}
 
 {{<reading>}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-14-distributed.html" text="Distributed computing with PyTorch">}}<br>
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-16-mlhpc.html" text="Additional notes on running ML jobs on Compute Canada clusters">}}<br>
 {{</reading>}}
 
 {{<zt "2–3:30pm">}}
-{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-15-wrapup.html" text="Wrapping up">}}<br>
-In this session, we will try to answer questions and wrap up the course.
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-17-wrapup.html" text="Wrap-up">}}<br>
+In this session, we will answer questions and wrap up the course.
 {{</zt>}}
 
 {{<external>}}
