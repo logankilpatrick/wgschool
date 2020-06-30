@@ -20,6 +20,13 @@ This is a **3-day** workshop.
 *"Parallel MATLAB"* with Raymond Norris
 <!-- will need guest accounts on Cedar + reservation for this session -->
 
+Today we will be submitting jobs to the reservation on Cedar:
+
+```
+cd ~/scratch
+salloc --account=def-training-wa_cpu --reservation=wgss3-wr_cpu --mem-per-cpu=... --time=... <other_flags>
+```
+
 **July-06**
 {{< zoom >}}
 <b>9am-noon Pacific</b>
@@ -78,7 +85,7 @@ Live Q&A session.
 
 
 
-<!-- Raymond and Reece -->
+<!-- Zoom conversation with Raymond and Reece -->
 <!-- parallel workshop -->
 <!-- - 30min video hosted at mathworks -->
 <!-- - others online from mathworks -->
