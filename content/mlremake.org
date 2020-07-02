@@ -43,7 +43,9 @@ Our Zoom cap is 100 people and, for this course, we are using a cluster with 100
 
 {{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-04-hpc.html" text="HPC with Python">}}<br>
-<br>
+{{</reading>}}
+
+{{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-05-ml.html" text="What is machine learning?">}}<br>
 {{</reading>}}
 
@@ -70,7 +72,9 @@ This session is not part of the actual course. Please only sign up for it if you
 
 {{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-11-backprop.html" text="Backpropagation">}}<br>
-<br>
+{{</video>}}
+
+{{<video>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-12-calculus.html" text="A bit of calculus">}}<br>
 {{</video>}}
 
@@ -86,7 +90,9 @@ In this session, we will put everything you learnt yesterday together to write o
 
 {{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-15-distributed.html" text="A few notes on distributed computing with PyTorch">}}<br>
-<br>
+{{</reading>}}
+
+{{<reading>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-16-mlhpc.html" text="Additional notes on running ML jobs on Compute Canada clusters">}}<br>
 {{</reading>}}
 
