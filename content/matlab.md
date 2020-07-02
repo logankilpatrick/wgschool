@@ -32,8 +32,18 @@ salloc --account=def-training-wa_cpu --reservation=wgss3-wr_cpu --mem-per-cpu=..
 
 **July-06**
 {{< zoom >}}
-<b>9am-noon Pacific</b>
-Live session: 30-40 min presentation blocks.
+<b>9am-10am Pacific</b>
+Live introduction session.
+{{< /zoom >}}
+
+{{< video >}}
+<!-- {{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem (9 min)" >}}<br> -->
+links will be posted shortly
+{{< /video >}}<br>
+
+{{< zoom >}}
+<b>2:30pm-3:30pm Pacific</b>
+Live Q&A session.
 {{< /zoom >}}
 
 &nbsp;<br>
@@ -99,3 +109,34 @@ Live Q&A session.
 <!-- - will use breakout rooms -->
 <!-- - Reece will send me his videos, Ok to upload them to WG's youtube channel -->
 <!-- ACTION Wed create the Zoom link and send them the details -->
+
+
+
+
+<!-- I’ll be sending over an email from our secure file transfer (SFT) site shortly. The email will contain a -->
+<!-- link where you will be able to download the slides and videos for next week’s machine learning / deep -->
+<!-- learning sessions. I would appreciate if you are able to upload them to the YouTube channel so that the -->
+<!-- links can be posted to the course pages. Please let me know if you don’t receive it—thanks! -->
+
+<!-- Machine Learning - 1 - Setup.mp4 -->
+<!-- Machine Learning - 2 - Introduction.mp4 -->
+<!-- Machine Learning - 3 - Exercise 1 - Training a Regression Model.mp4 -->
+<!-- Machine Learning - 4 - Classification Models.mp4 -->
+<!-- Machine Learning - 5 - Exercise 2 - Training a Classification Model.mp4 -->
+<!-- Machine Learning - 6 - Exercise 2 - Training a Classification Model (Part 2).mp4 -->
+<!-- Machine Learning - 7 - Exercise 2 - Training a Classification Model (Part 3).mp4 -->
+<!-- Machine Learning - 8 - Feature Engineering.mp4 -->
+<!-- Machine Learning - 9 - Exercise 3 - Feature Selection.mp4 -->
+<!-- Machine Learning - 10 - Wrap-Up.mp4 -->
+<!-- MachineLearningSlides.pdf -->
+
+<!-- Deep Learning - 1 - Setup.mp4 -->
+<!-- Deep Learning - 2 - Introduction.mp4 -->
+<!-- Deep Learning - 3 - Exercise 1 - Deep Learning in 6 Lines.mp4 -->
+<!-- Deep Learning - 3 - Network Layers.mp4 -->
+<!-- Deep Learning - 4 - Exercise 2 - Exploring Pretrained Models.mp4 -->
+<!-- Deep Learning - 4 - Exercise 3 - Training a Network from Scratch.mp4 -->
+<!-- Deep Learning - 5 - Transfer Learning.mp4 -->
+<!-- Deep Learning - 6 - Exercise 4 - Transfer Learning.mp4 -->
+<!-- Deep Learning - 7 - Wrap Up.mp4 -->
+<!-- DeepLearningSlides.pdf -->
