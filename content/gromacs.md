@@ -28,7 +28,7 @@ Presentation (60 min) - please watch the video below <b>before</b> attending the
 
 {{< yt 8d8xfw8BZUc 63 >}}<br>
 
-You can find the PDF slides [here](../gromacs-slides.pdf). For entry-level Gromacs tutorials, please check
+You can find the PDF slides [here](/slides/gromacs-slides.pdf). For entry-level Gromacs tutorials, please check
 [this page](http://www.mdtutorials.com).
 
 {{< zoom >}}

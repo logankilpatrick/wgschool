@@ -31,9 +31,9 @@ Live session: 30-40 min presentation blocks.
 
 Materials to download:
 
-* [PDF slides](../dockerSlides.pdf)
-* [raw text document](../dockerCommands.txt) with all commands
-* Gnuplot [example script](../pm3d_lighting.2.gnu)
+* [PDF slides](/slides/dockerSlides.pdf)
+* [raw text document](/other/dockerCommands.txt) with all commands
+* Gnuplot [example script](/other/pm3d_lighting.2.gnu)
 
 ## Exercises
 #### Exercise 1: Hello Docker!

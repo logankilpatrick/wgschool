@@ -27,7 +27,7 @@ order to participate in the course exercises. On Windows we recommend
 [the free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux
 computers SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
 
-You can find the PDF slides [here](../ccCloud.pdf).
+You can find the PDF slides [here](/slides/ccCloud.pdf).
 
 **June-29**
 {{< zoom >}}

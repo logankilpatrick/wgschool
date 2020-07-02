@@ -35,7 +35,7 @@ with Phillip Richmond
 
 You can find the online slides
 [here](https://docs.google.com/presentation/d/17JLujUNtsvSIzN0XZAM8OMT0tnrmoZvotF3eCydrN-c). Here is the
-[PDF version](../ngs-phil.pdf).
+[PDF version](/slides/ngs-phil.pdf).
 
 Today we will be submitting jobs to the reservation on Cedar:
 
@@ -69,7 +69,7 @@ with Matthew Douglas (Genome Science Center)
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
-You can find the PDF slides [here](../pipeline-matthew.pdf).
+You can find the PDF slides [here](/slides/pipeline-matthew.pdf).
 
 - 45-60min presentation + some time for Q&A, no coding for the audience
 - based on first-hand experience in several research projects
@@ -86,7 +86,7 @@ with Brian McConeghy
 <b>9am-noon Pacific</b> &nbsp; Live session
 {{< /zoom >}}
 
-You can find the PDF slides [here](../pipeline-brian.pdf). You might also want to check [Brian's materials
+You can find the PDF slides [here](/slides/pipeline-brian.pdf). You might also want to check [Brian's materials
 from 2019 in-person summer school](https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27)
 with hands-on examples and the [official Snakemake documentation](https://snakemake.readthedocs.io/en/stable).
 
