@@ -39,6 +39,8 @@ guest accounts.
 *"Parallel MATLAB"* with Raymond Norris
 <!-- will need guest accounts on Cedar + reservation for this session -->
 
+You can find the PDF slides [here](/slides/matlabParallelComputing.pdf).
+
 Today we will be submitting jobs to the reservation on Cedar:
 
 ```
@@ -54,7 +56,7 @@ Live introduction session.
 
 {{< video >}}
 <!-- {{< link url="../bash/bash-02-filesystem" text="Navigating the filesystem (9 min)" >}}<br> -->
-links will be posted shortly
+See the video below (33 min)
 {{< /video >}}<br>
 
 {{< zoom >}}
@@ -64,9 +66,9 @@ Live Q&A session.
 
 &nbsp;<br>
 
-<!-- {{< yt bmtIg238xwQ 63 >}} -->
+{{< yt H8KM487zNrk 63 >}}
 
-<!-- &nbsp;<br> -->
+&nbsp;<br>
 
 ---
 
