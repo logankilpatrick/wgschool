@@ -21,12 +21,12 @@ computers SSH is usually pre-installed (try typing `ssh` in a terminal to make s
 Also, please ensure you have the following:
 
 - a [supported browser](https://www.mathworks.com/support/requirements/browser-requirements.html)
-- a MathWorks Account
+- a MathWorks account (if you don't already have one please go [here](https://www.mathworks.com/login)
+  to create one)
 
-If you don't already have a MathWorks Account, please go [here](https://www.mathworks.com/login) to
-create one. The Parallel MATLAB session will also introduce submitting MATLAB parallel jobs on Cedar
-Monday afternoon. It would be helpful to have a Compute Canada account, but we will also be providing
-guest accounts.
+The Parallel MATLAB session will also introduce submitting MATLAB parallel jobs on Cedar Monday
+afternoon. It would be helpful to have a Compute Canada account, but we will also be providing guest
+accounts.
 
 <!-- We have some short videos for each of the session, that will be posted shortly. They can be watched -->
 <!-- before or during the sessions. At the start of each morning session we will walk folks through logging -->
