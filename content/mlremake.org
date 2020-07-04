@@ -85,7 +85,7 @@ This session is not part of the actual course. Please only sign up for it if you
 *July 10*
 {{<zt "9–10am">}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-14-firstnn" text="Our first neural network">}}<br>
-In this session, we will put everything you learnt yesterday together to write our first neural network. Then we will start tweaking it to make it better, tracking its performance with TensorBoard.
+In this session, we will put everything you learnt yesterday together to write our first neural network.
 {{</zt>}}
 
 {{<reading>}}
