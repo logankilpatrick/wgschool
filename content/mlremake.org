@@ -1,8 +1,6 @@
 #+title: Introduction to ML with PyTorch
 #+slug: mlremake
 
-/!!! This is a new version of the course, still under heavy development !!!/
-
 {{<i>}}
 {{<itxtb "Instructor:" "Marie-Helene Burle (WestGrid)">}}<br>
 {{<itxtb "Length:" "2 days">}}<br>
