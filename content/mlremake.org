@@ -31,6 +31,10 @@ Our Zoom cap is 100 people and, for this course, we are using a cluster with 100
 </div>
 {{</zt>}}
 
+{{<reading>}}
+{{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-01bis-foss.html" text="A note about open source vs proprietary tools">}}<br>
+{{</reading>}}
+
 {{<practice>}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-02-cluster.html" text="Training cluster setup">}}<br>
 {{</practice>}}
