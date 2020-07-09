@@ -39,7 +39,10 @@ accounts.
 *"Parallel MATLAB"* with Raymond Norris
 <!-- will need guest accounts on Cedar + reservation for this session -->
 
-You can find the PDF slides [here](/slides/matlabParallelComputing.pdf).
+Please download the PDF slides:
+* [Parallel Computing Hands-On Workshop](/slides/matlabParallelComputing.pdf)
+* [Scaling MATLAB on Compute Canada](/slides/matlabOnComputeCanada.pdf) (from slide #12 to the end not officially
+  supported until the scripts are deployed)
 
 Today we will be submitting jobs to the reservation on Cedar:
 
