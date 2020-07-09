@@ -78,7 +78,13 @@ Live Q&A session.
 **Tuesday (July-07)**  
 *"Machine learning with MATLAB"* with Reece Teramoto
 
-You can find the PDF slides [here](/slides/matlabMachineLearning.pdf).
+* [PDF slides](/slides/matlabMachineLearning.pdf)
+* [Clean exercise files](https://sft.mathworks.com/human.aspx?r=&Arg06=637127050&Arg12=filelist) (enter username
+  "customer" and password "MathWorks")
+
+You can download individual files from your [MATLAB drive](https://drive.matlab.com) to your computer. Alternatively,
+you can use the [MATLAB Drive Connector](https://www.mathworks.com/help/matlabdrive/ug/install-matlab-drive.html) to
+download entire directories.
 
 **July-07**
 {{< zoom >}}
@@ -102,7 +108,13 @@ Live Q&A session.
 **Wednesday (July-08)**  
 *"Deep learning with MATLAB"* with Reece Teramoto
 
-You can find the PDF slides [here](/slides/matlabDeepLearning.pdf).
+* [PDF slides](/slides/matlabDeepLearning.pdf)
+* [Clean exercise files + large training dataset](https://sft.mathworks.com/human.aspx?r=&Arg06=637023204&Arg12=filelist)
+  (enter username "customer" and password "MathWorks")
+
+You can download individual files from your [MATLAB drive](https://drive.matlab.com) to your computer. Alternatively,
+you can use the [MATLAB Drive Connector](https://www.mathworks.com/help/matlabdrive/ug/install-matlab-drive.html) to
+download entire directories.
 
 **July-08**
 {{< zoom >}}
