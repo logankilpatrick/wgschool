@@ -85,7 +85,7 @@ This session is not part of the actual course. Please only sign up for it if you
 {{</practice>}}
 
 *July 10*
-{{<zt "9–10am">}}
+{{<zt "9–11am">}}
 {{<link url="https://westgrid-ml.netlify.app/schoolremake/pt-14-firstnn" text="Our first neural network">}}<br>
 In this session, we will put everything you learnt yesterday together to write our first neural network.
 {{</zt>}}
