@@ -86,7 +86,7 @@ In this session, we will write our first Julia script; talk about Julia's syntax
 <a href="https://discourse.julialang.org/">Julia Discourse forum</a><br>
 <a href="https://stackoverflow.com/tags/julia">[julia] tag on Stack Overflow</a><br>
 <a href="https://app.slack.com/client/T68168MUP/C67910KEH">Julia Slack team</a>
-(you need to <a href="slackinvite.julialang.org">agree to the community code of conduct</a> first)<br>
+(you need to <a href="https://julialang.org/slack/">agree to the community code of conduct</a> first)<br>
 <a href="https://twitter.com/search?q=%23julialang">#julialang hashtag on Twitter</a><br>
 <a href="https://www.reddit.com/r/Julia/">Julia subreddit</a><br>
 <a href="https://gitter.im/JuliaLang/julia">Julia Gitter channel</a><br>
